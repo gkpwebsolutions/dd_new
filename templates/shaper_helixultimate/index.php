@@ -281,20 +281,20 @@ if ($custom_js = $this->params->get('custom_js', null))
     <h2 class="text-lg font-bold mb-4">Useful Links</h2>
     <ul class="list-none space-y-4">
         <li class="flex items-center space-x-2">
-            <i class="fas fa-flask" style="color: #03C03C;"></i> <!-- Apply the custom green color -->
+            <i class="fas fa-flask" style="color: #03C03C;"></i> 
             <a href="http://localhost/main/index.php?option=com_sppagebuilder&view=page&id=14" class="text-gray-800 hover:underline transition duration-200">Hematology</a>
         </li>
         <li class="flex items-center space-x-2">
-            <i class="fas fa-vials" style="color: #03C03C;"></i> <!-- Apply the custom green color -->
-            <a href="#" class="text-gray-800 hover:underline transition duration-200">Biochemistry</a>
+            <i class="fas fa-vials" style="color: #03C03C;"></i> 
+            <a href="http://localhost/main/index.php?option=com_sppagebuilder&view=page&id=15" class="text-gray-800 hover:underline transition duration-200">Biochemistry</a>
         </li>
         <li class="flex items-center space-x-2">
-            <i class="fas fa-pills" style="color: #03C03C;"></i> <!-- Apply the custom green color -->
-            <a href="#" class="text-gray-800 hover:underline transition duration-200">Hormones Analysis</a>
+            <i class="fas fa-pills" style="color: #03C03C;"></i> 
+            <a href="http://localhost/main/index.php?option=com_sppagebuilder&view=page&id=16" class="text-gray-800 hover:underline transition duration-200">Hormones Analysis</a>
         </li>
         <li class="flex items-center space-x-2">
-            <i class="fas fa-flask" style="color: #03C03C;"></i> <!-- Apply the custom green color -->
-            <a href="#" class="text-gray-800 hover:underline transition duration-200">Histopathology</a>
+            <i class="fas fa-flask" style="color: #03C03C;"></i> 
+            <a href="http://localhost/main/index.php?option=com_sppagebuilder&view=page&id=18" class="text-gray-800 hover:underline transition duration-200">Histopathology</a>
         </li>
     </ul>
 </div>

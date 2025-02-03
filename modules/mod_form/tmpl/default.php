@@ -2,12 +2,16 @@
 // No direct access
 defined('_JEXEC') or die;
 
+// Create an instance of JConfig
+$config = new JConfig();
+
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    
-    $host = 'localhost'; 
-    $username = 'root';  
-    $password = 'root';  
-    $dbname = 'joomla_db'; 
+
+    // Use the config object for database connection details
+    $host = $config->host;
+    $username = $config->user;
+    $password = $config->password;
+    $dbname = $config->db;
 
     // Establish the database connection
     $conn = new mysqli($host, $username, $password, $dbname);
@@ -16,6 +20,27 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if ($conn->connect_error) {
         die("Connection failed: " . $conn->connect_error);
     }
+
+    // Get form data and escape it to prevent SQL injection
+    $name = $conn->real_escape_string($_POST['name']);
+    $email = $conn->real_escape_string($_POST['email']);
+    $branch = $conn->real_escape_string($_POST['branch']);
+    $message = $conn->real_escape_string($_POST['message']);
+
+    // SQL query to insert the data into the database
+    $sql = "INSERT INTO {$config->dbprefix}contact_messages (name, email, branch, message) VALUES ('$name', '$email', '$branch', '$message')";
+
+    // Execute the query and handle the result
+    if ($conn->query($sql) === TRUE) {
+        echo "<p class='text-green-600 text-center'>Your message has been sent successfully!</p>";
+    } else {
+        echo "<p class='text-red-600 text-center'>Error: " . $conn->error . "</p>";
+    }
+
+    // Close the database connection
+    $conn->close();
+}
+?>
 
     // Get form data and escape it to prevent SQL injection
     $name = $conn->real_escape_string($_POST['name']);

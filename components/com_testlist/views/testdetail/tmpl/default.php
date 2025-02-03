@@ -66,14 +66,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <div class="flex items-center mb-4">
                 <div class="mr-4">
                     <h3 class="text-2xl font-bold"  style="color: #03C03C">
-                        ₹<?= number_format($item->test_amount, 2) ?>
+                        ₹<?= number_format($item->test_amount) ?>
                     </h3>
                 </div>
-                <div>
-                    <p class="text-xl text-gray-600">
-                        <span class="line-through text-red-500">₹<?= number_format($item->cost_of_test, 2) ?></span>
-                    </p>
-                </div>
+               
             </div>
            
             <a href="#" class="bg-indigo-600 text-white py-2 px-6 rounded-lg hover:bg-indigo-700 transition-colors" onclick="document.getElementById('request-form-pack').classList.remove('hidden')">
@@ -125,7 +121,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <p class="text-gray-700 text-lg leading-relaxed mb-6"><?= nl2br(htmlspecialchars($item->test_code)) ?></p>
             <hr class="border-t-4 border-blue-800 mb-6">
             <div class="mb-6">
-                <h6 class="text-indigo-600 font-semibold text-xl mb-6">Exclusive Benefits with Ganesh Diagnostic & Imaging Center</h6>
+                <h6 class="text-indigo-600 font-semibold text-xl mb-6">Exclusive Benefits with Diagnodrugs Diagnostics & Imaging Center</h6>
                 <hr class="border-t-4 border-green-700 mb-6">
                 <ul class="grid grid-cols-1 md:grid-cols-2 gap-4">
                     <li class="flex items-center">
@@ -143,9 +139,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     </li>
                 </ul>
             </div>
-            <hr class="border-t-4 border-indigo-800 mb-18">
+            
             <h1 class="text-center text-lg font-semibold text-indigo-600 font-bold">Free Doctor Consultation</h1>
-            <hr class="border-t-4 border-indigo-800 mt-18 mb-18">
+            
         </div>
     </div>
 
@@ -154,11 +150,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <div class="flex items-center">
                 <h3 class="text-4xl font-bold mr-4 "  style="color: #03C03C;">
 
-                    ₹<?= number_format($item->test_amount, 2) ?>
+                    ₹<?= number_format($item->test_amount) ?>
                 </h3>
-                <p class="text-xl text-gray-600">
-                    <span class="line-through text-red-500">₹<?= number_format($item->cost_of_test, 2) ?></span>
-                </p>
+               
             </div>
             <div class="mt-4 flex justify-center">
                 <button class="bg-indigo-600 text-white py-3 px-6 rounded-lg hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-all" onclick="document.getElementById('request-form-pack').classList.remove('hidden')">

@@ -7,7 +7,7 @@
  * @link http://docs.joomla.org/J3.x:Creating_a_simple_module/Developing_a_Basic_Module
  * @license        GNU/GPL, see LICENSE.php
  */
-class ModBiochemistryHelper
+class ModHormonesAnalysisHelper
 {
     /**
      * Retrieves the hello message

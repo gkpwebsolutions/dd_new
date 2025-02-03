@@ -49,12 +49,10 @@ defined('_JEXEC') or die;
 
             <!-- MRP and Offer Price Section -->
             <div class="text-center mt-4">
-              <p class="text-lg text-gray-500">
-                MRP: <span class="line-through text-red-500">₹<?= htmlspecialchars($item->test_amount); ?></span>
+            <p class="font-bold text-xl text-green-600">
+                MRP: ₹<?= htmlspecialchars($item->test_amount); ?>
               </p>
-              <p class="font-bold text-xl text-green-600">
-                Offer Price: ₹<?= htmlspecialchars($item->cost_of_test); ?>
-              </p>
+              
             </div>
           </div>
         </div>
