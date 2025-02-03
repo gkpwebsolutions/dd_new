@@ -1,0 +1,103 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Form</title>
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        /* Hide form initially */
+        .form-container {
+            display: block; /* Initially show the form */
+        }
+
+        /* Modal background */
+        .modal-background {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .form-container {
+            position: relative;
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 500px;
+            width: 100%;
+        }
+
+        .close-btn {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background-color: #ff4d4d;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            padding: 10px;
+            cursor: pointer;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 font-poppins">
+
+<!-- Contact Form Modal -->
+<div id="contactFormModal" class="modal-background">
+    <section class="form-container">
+        <!-- Close Button -->
+        <button class="close-btn" onclick="closeForm()">×</button>
+
+        <p class="text-xs text-blue-500 mb-1 text-center">Get In Touch</p>
+        <h2 class="text-lg font-semibold text-red-600 mb-3 text-center">Do not use this form to communicate personal data.</h2>
+
+        <form action="" method="POST">
+            <div class="mb-3">
+                <label for="name" class="block text-xs font-medium text-blue-600">Full Name</label>
+                <input type="text" id="name" name="name" class="mt-1 p-1.5 w-full border border-blue-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent" required>
+            </div>
+
+            <div class="mb-3">
+                <label for="email" class="block text-xs font-medium text-blue-600">Email Address</label>
+                <input type="email" id="email" name="email" class="mt-1 p-1.5 w-full border border-blue-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent" required>
+            </div>
+
+            <!-- Branch Location Dropdown -->
+            <div class="mb-3">
+                <label for="branch" class="block text-xs font-medium text-blue-600">Select Branch</label>
+                <select id="branch" name="branch" class="mt-1 p-1.5 w-full border border-blue-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent" required>
+                    <option value="">-- Select a Branch --</option>
+                    <option value="Branch 1: XYZ Location">Branch 1: XYZ Location</option>
+                    <option value="Branch 2: ABC Location">Branch 2: ABC Location</option>
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label for="message" class="block text-xs font-medium text-blue-600">Your Message</label>
+                <textarea id="message" name="message" rows="2" class="mt-1 p-1.5 w-full border border-blue-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent" required></textarea>
+            </div>
+
+            <button type="submit" class="w-full bg-blue-600 text-white py-2 rounded-lg hover:bg-blue-700 transition">Send Message</button>
+        </form>
+    </section>
+</div>
+
+<script>
+    // Function to close the contact form
+    function closeForm() {
+        document.getElementById('contactFormModal').style.display = 'none';  // Hide the form when close button is clicked
+    }
+</script>
+
+</body>
+</html>

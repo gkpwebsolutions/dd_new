@@ -1,0 +1,148 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Our Branches - Diagnodrugs Diagnostics</title>
+
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    /* Modal Styles */
+    .modal {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background */
+      justify-content: center;
+      align-items: center;
+      z-index: 1001;
+    }
+
+    /* Modal content should have no background, just the contact form */
+    .modal-content {
+      background-color: transparent; /* Transparent background */
+      padding: 0;
+      width: 80%;
+      max-width: 600px;
+      border-radius: 10px;
+    }
+
+    /* Blur effect for background content */
+    .blurred-content {
+      filter: blur(5px);
+      pointer-events: none;
+    }
+
+    /* Close Button Styles */
+    .close-btn {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      background-color: #0a51a3;
+      color: white;
+      border: none;
+      border-radius: 50%;
+      padding: 10px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+
+<body class="bg-gray-50 font-sans leading-normal tracking-wide">
+
+  <!-- Page Wrapper (everything except modal) -->
+  <div id="page-wrapper">
+    <!-- Hero Section -->
+    <header class="hero-section bg-gradient-to-r from-lime-300 via-green-500 to-teal-600 text-white text-center py-32 px-8 rounded-3xl shadow-2xl transform transition duration-300">
+      <h1 class="text-5xl font-extrabold leading-tight mb-4 tracking-tight">Our Branches</h1>
+      <p class="mt-4 text-xl max-w-3xl mx-auto">We are committed to providing top-notch diagnostic services. Explore our branches across the city to find the nearest Diagnodrugs Diagnostics center for your healthcare needs.</p>
+    </header>
+
+    <!-- Branches Section -->
+    <section class="container mx-auto px-4 mt-16">
+      <div class="flex justify-center gap-12">
+
+        <!-- Branch 1 -->
+        <div class="w-full md:w-1/2 lg:w-1/3 p-4">
+          <div class="bg-white shadow-xl rounded-3xl overflow-hidden card transition duration-300">
+            <div class="map-card relative">
+              <iframe src="https://www.google.com/maps/embed?pb=..." width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            </div>
+            <div class="p-6">
+              <h3 class="text-2xl font-semibold text-[#0a51a3] mb-3">Branch 1: XYZ Location</h3>
+              <p class="text-gray-700">Address: 123, ABC Street, City, PIN Code</p>
+              <p class="text-gray-700">Contact: +91 1234567890</p>
+            </div>
+            <div class="px-6 py-4">
+              <!-- Contact Us Button for Branch 1 -->
+              <a href="javascript:void(0);" onclick="openModal()" class="bg-[#0a51a3] text-white px-8 py-3 rounded-full text-sm font-semibold hover:bg-[#084c80] transition duration-300 w-full text-center block">Contact Us</a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Branch 2 -->
+        <div class="w-full md:w-1/2 lg:w-1/3 p-4">
+          <div class="bg-white shadow-xl rounded-3xl overflow-hidden card transition duration-300">
+            <div class="map-card relative">
+              <iframe src="https://www.google.com/maps/embed?pb=..." width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            </div>
+            <div class="p-6">
+              <h3 class="text-2xl font-semibold text-[#0a51a3] mb-3">Branch 2: ABC Location</h3>
+              <p class="text-gray-700">Address: 456, DEF Street, City, PIN Code</p>
+              <p class="text-gray-700">Contact: +91 0987654321</p>
+            </div>
+            <div class="px-6 py-4">
+              <!-- Contact Us Button for Branch 2 -->
+              <a href="javascript:void(0);" onclick="openModal()" class="bg-[#0a51a3] text-white px-8 py-3 rounded-full text-sm font-semibold hover:bg-[#084c80] transition duration-300 w-full text-center block">Contact Us</a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+  </div>
+
+  <!-- Contact Modal -->
+  <div id="contact-modal" class="modal">
+    <div class="modal-content">
+      <!-- Joomla module for contact form -->
+      <?php
+        jimport('joomla.application.module.helper');
+        $module = JModuleHelper::getModule('mod_branch_form', '');
+        $attribs['style'] = 'xhtml';
+        echo JModuleHelper::renderModule($module, $attribs);
+      ?>
+    </div>
+    <!-- Close Button -->
+    <button onclick="closeModal()" class="close-btn">X</button>
+  </div>
+
+  <script>
+    // Function to open the modal and apply blur to the background
+    function openModal() {
+      // Show the modal
+      document.getElementById("contact-modal").style.display = "flex";
+      
+      // Apply blur effect to the background content only
+      document.getElementById("page-wrapper").classList.add("blurred-content");
+    }
+
+    // Function to close the modal and remove the blur
+    function closeModal() {
+      // Hide the modal
+      document.getElementById("contact-modal").style.display = "none";
+      
+      // Remove the blur effect from the background content
+      document.getElementById("page-wrapper").classList.remove("blurred-content");
+    }
+  </script>
+
+</body>
+
+</html>

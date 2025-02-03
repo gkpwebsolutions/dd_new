@@ -213,7 +213,7 @@ if ($custom_js = $this->params->get('custom_js', null))
 
 
 
-		<div class="bg-blue-600 text-white py-6 full-width">
+		<div class="bg-blue-600 text-white py-6 w-full">
     <div class="flex flex-col items-center px-4 mx-auto">
         <h2 class="text-lg font-bold flex items-center mb-2">
             <i class="fas fa-envelope mr-2"></i> 
@@ -223,42 +223,39 @@ if ($custom_js = $this->params->get('custom_js', null))
             <i class="fas fa-info-circle mr-2"></i> 
             Stay in touch with us to get latest news and discount coupons:
         </p>
-        <form action="" method="POST" class="flex items-center">
-		<div class="flex items-center justify-center space-x-2">
-    <input type="email" name="email" placeholder="Enter your email" class="border border-gray-300 p-3 rounded w-full md:w-64" required>
-    <button type="submit" class="bg-green-500 text-white px-8 py-3 rounded hover:bg-green-300 transition w-64">
+        <form action="" method="POST" class="flex items-center  justify-center">
+            <div class="flex flex-col md:flex-row items-center justify-center space-y-4 md:space-y-0 md:space-x-2 w-full">
+                <input type="email" name="email" placeholder="Enter your email" class="border border-gray-300 p-3 rounded w-full md:w-64" required>
+                <button type="submit" class="bg-green-500 text-white px-8 py-2 rounded hover:bg-green-300 p-3 transition w-full md:w-64">
     Subscribe Now
 </button>
 
-</div>
-
-
+            </div>
         </form>
     </div>
 </div>
 
-<div class="content bg-white full-width">
+<div class="content bg-white w-full">
     <div class="container mx-auto text-left py-4 text-gray-800">
-        
-        <div class="flex justify-between mb-4">
+        <div class="flex flex-col md:flex-row justify-between mb-4">
 
-            <div class="flex flex-col items-center">
+            <div class="flex flex-col items-center mb-4 md:mb-0">
                 <h2 class="text-lg font-bold flex items-center">
-                    <i class="fas fa-map-marker-alt text-blue-600 mr-2"></i> Address
+                <i class="fas fa-map-marker-alt" style="color: #03C03C; margin-right: 8px;"></i> Address
                 </h2>
                 <span class="text-center">86-C, Mugalaha, Near Royal Enfield Showroom, Medical College Road, Gorakhpur</span>
             </div>
 
-            <div class="flex flex-col items-center">
+            <div class="flex flex-col items-center mb-4 md:mb-0">
                 <h2 class="text-lg font-bold flex items-center">
-                    <i class="fas fa-phone-alt text-blue-600 mr-2"></i> Call Us
+				<i class="fas fa-phone-alt" style="color: #03C03C; margin-right: 8px;" class="mr-2"></i> Call Us
                 </h2>
                 <span>+91-9140303398</span>
             </div>
 
             <div class="flex flex-col items-center">
                 <h2 class="text-lg font-bold flex items-center">
-                    <i class="fas fa-envelope text-blue-600 mr-2"></i> Email Us
+				<i class="fas fa-envelope" style="color: #03C03C; margin-right: 8px;" class="mr-2"></i> Email Us
                 </h2>
                 <span>wecare@diagnodrugs.com</span>
             </div>
@@ -266,78 +263,59 @@ if ($custom_js = $this->params->get('custom_js', null))
 
         <div class="border-t border-gray-300 my-2"></div>
 
-        <div class="flex justify-between items-start mb-4"> 
-            <div class="flex-shrink-0 mr-4"> 
+        <div class="flex flex-col md:flex-row justify-between items-start mb-4"> 
+            <div class="flex-shrink-0 mb-4 md:mb-0 mr-4"> 
                 <img class="w-32" src="images/logo.png" alt="Logo">
                 <div class="text-left max-w-xs mb-4"> 
                     <p class="text-gray-600 text-sm">
                         Diagnodrugs Diagnostics is one of the upcoming clinical laboratories and diagnostic centers in Gorakhpur. 
                         We have plans to widen the network of laboratories in Kushinagar, Deoria, Mahrajganj, Khalilabad & Basti.
                     </p>
-        
-                    <a href="about-us.html" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-500 mt-2 inline-block text-center">
+                    <a href="/index.php/about-us" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-500 mt-2 inline-block text-center">
                         Read More
                     </a>
                 </div>
             </div>
 
-            <div class="flex justify-center items-center flex-col text-center flex-grow">
-    
-    <h2 class="text-lg  justify-center font-bold mb-4">Useful Links</h2>
-
-    
+            <div class="flex justify-center items-center flex-col text-center flex-grow mb-4 md:mb-0">
+    <h2 class="text-lg font-bold mb-4">Useful Links</h2>
     <ul class="list-none space-y-4">
         <li class="flex items-center space-x-2">
-            <i class="fas fa-flask"></i>
-            <a href="#" class="text-gray-800 hover:underline transition duration-200">Hematology</a>
+            <i class="fas fa-flask" style="color: #03C03C;"></i> <!-- Apply the custom green color -->
+            <a href="http://localhost/main/index.php?option=com_sppagebuilder&view=page&id=14" class="text-gray-800 hover:underline transition duration-200">Hematology</a>
         </li>
         <li class="flex items-center space-x-2">
-            <i class="fas fa-vials"></i>
+            <i class="fas fa-vials" style="color: #03C03C;"></i> <!-- Apply the custom green color -->
             <a href="#" class="text-gray-800 hover:underline transition duration-200">Biochemistry</a>
         </li>
         <li class="flex items-center space-x-2">
-            <i class="fas fa-pills"></i>
+            <i class="fas fa-pills" style="color: #03C03C;"></i> <!-- Apply the custom green color -->
             <a href="#" class="text-gray-800 hover:underline transition duration-200">Hormones Analysis</a>
         </li>
         <li class="flex items-center space-x-2">
-            <i class="fas fa-flask"></i>
+            <i class="fas fa-flask" style="color: #03C03C;"></i> <!-- Apply the custom green color -->
             <a href="#" class="text-gray-800 hover:underline transition duration-200">Histopathology</a>
         </li>
     </ul>
 </div>
 
 
-
-
-			
-
             <div class="text-center">
-    <h2 class="text-lg font-bold flex items-center justify-center">
-        <i class="fas fa-clock mr-2"></i> Opening Hours
-    </h2>
-    <p class="text-sm text-gray-800">We are open 24 hours a day, 7 days a week!</p>
-</div>
+                <h2 class="text-lg font-bold flex items-center justify-center">
+				<i class="fas fa-clock mr-2" style="color: #03C03C;"></i> Opening Hours
 
-
+                </h2>
+                <p class="text-sm text-gray-800">We are open 24 hours a day, 7 days a week!</p>
+            </div>
         </div>
     </div>
 </div>
 
-
-
-
-
-
-
 <div class="text-center py-4">
-<p class="text-sm text-gray-800">
-    Copyright © <?php echo date("Y"); ?> DiagnoDrugs. All rights reserved. Powered by <a href="https://www.gkpwebsolutions.com/" class="text-blue-600 hover:underline">GKP Web Solutions.</a>
-</p>
-
+    <p class="text-sm text-gray-800">
+        Copyright © <?php echo date("Y"); ?> DiagnoDrugs. All rights reserved. Powered by <a href="https://www.gkpwebsolutions.com/" class="text-blue-600 hover:underline">GKP Web Solutions.</a>
+    </p>
 </div>
-
-
-<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 </body>
 </html>
 

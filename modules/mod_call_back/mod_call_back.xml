@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension type="module" version="4.0" client="site" method="upgrade">
+    <name>MOD_CALL_BACK</name>
+    <description>Custom Call Back Module</description>
+    <files>
+        <filename module="mod_call_back">mod_call_back.php</filename>
+        <filename>helper.php</filename>
+        <folder>tmpl</folder>
+    </files>
+    <languages>
+        <language tag="en-GB">language/en-GB/en-GB.mod_customslider.ini</language>
+    </languages>
+</extension>

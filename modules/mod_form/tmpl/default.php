@@ -1,6 +1,41 @@
-<?php 
+<?php
 // No direct access
-defined('_JEXEC') or die; 
+defined('_JEXEC') or die;
+
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    
+    $host = 'localhost'; 
+    $username = 'root';  
+    $password = 'root';  
+    $dbname = 'joomla_db'; 
+
+    // Establish the database connection
+    $conn = new mysqli($host, $username, $password, $dbname);
+
+    // Check for connection errors
+    if ($conn->connect_error) {
+        die("Connection failed: " . $conn->connect_error);
+    }
+
+    // Get form data and escape it to prevent SQL injection
+    $name = $conn->real_escape_string($_POST['name']);
+    $email = $conn->real_escape_string($_POST['email']);
+    $branch = $conn->real_escape_string($_POST['branch']);
+    $message = $conn->real_escape_string($_POST['message']);
+
+    // SQL query to insert the data into the database
+    $sql = "INSERT INTO w1h54_contact_messages (name, email, branch, message) VALUES ('$name', '$email', '$branch', '$message')";
+
+    // Execute the query and handle the result
+    if ($conn->query($sql) === TRUE) {
+        echo "<p class='text-green-600 text-center'>Your message has been sent successfully!</p>";
+    } else {
+        echo "<p class='text-red-600 text-center'>Error: " . $conn->error . "</p>";
+    }
+
+    // Close the database connection
+    $conn->close();
+}
 ?>
 
 <!DOCTYPE html>
@@ -11,42 +46,43 @@ defined('_JEXEC') or die;
     <title>Contact Form</title>
     
     <script src="https://cdn.tailwindcss.com"></script>
-
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
 </head>
 <body class="bg-gray-100 font-poppins">
 
-    <div class="max-w-4xl mx-auto my-10 p-8 bg-white shadow-lg rounded-lg">
-    
-        <h1 class="text-xl font-semibold text-sky-600">Get in Touch</h1>
-        
-        
-        <p class="text-lg text-red-600 my-4 font-semibold">Do not use this form to communicate personal data.</p>
-        
-    
-        <form action="/submit-form" method="POST">
-    
-            <label for="name" class="block text-sky-600 font-medium">Your Name:</label>
-            <input type="text" id="name" name="name" class="w-full p-3 mt-2 mb-4 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-sky-500" required>
+<section class="bg-white p-8 rounded-lg shadow-lg max-w-lg mx-auto">
+  <p class="text-sm text-blue-500 mb-4 text-center">Get In Touch</p>
+  <h2 class="text-2xl font-semibold text-red-600 mb-6 text-center">Do not use this form to communicate personal data.</h2>
 
-        
-            <label for="phone" class="block text-sky-600 font-medium">Your Phone:</label>
-            <input type="tel" id="phone" name="phone" class="w-full p-3 mt-2 mb-4 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-sky-500" required>
-
-        
-            <label for="email" class="block text-sky-600 font-medium">Your Email:</label>
-            <input type="email" id="email" name="email" class="w-full p-3 mt-2 mb-4 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-sky-500" required>
-
-            
-            <label for="message" class="block text-sky-600 font-medium">Message:</label>
-            <textarea id="message" name="message" rows="4" class="w-full p-3 mt-2 mb-4 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-sky-500" required></textarea>
-
-    
-            <button type="submit" class="w-full py-3 bg-sky-600 text-white font-semibold rounded-md hover:bg-sky-700 focus:outline-none focus:ring-2 focus:ring-sky-500">
-                Submit
-            </button>
-        </form>
+  <form action="" method="POST">
+    <div class="mb-6">
+      <label for="name" class="block text-sm font-medium text-blue-600">Full Name</label>
+      <input type="text" id="name" name="name" class="mt-1 p-3 w-full border border-blue-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent" required>
     </div>
+
+    <div class="mb-6">
+      <label for="email" class="block text-sm font-medium text-blue-600">Email Address</label>
+      <input type="email" id="email" name="email" class="mt-1 p-3 w-full border border-blue-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent" required>
+    </div>
+
+    <!-- Branch Location Dropdown -->
+    <div class="mb-6">
+      <label for="branch" class="block text-sm font-medium text-blue-600">Select Branch</label>
+      <select id="branch" name="branch" class="mt-1 p-3 w-full border border-blue-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent" required>
+        <option value="">-- Select a Branch --</option>
+        <option value="Branch 1: XYZ Location">Branch 1: XYZ Location</option>
+        <option value="Branch 2: ABC Location">Branch 2: ABC Location</option>
+      </select>
+    </div>
+
+    <div class="mb-6">
+      <label for="message" class="block text-sm font-medium text-blue-600">Your Message</label>
+      <textarea id="message" name="message" rows="4" class="mt-1 p-3 w-full border border-blue-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent" required></textarea>
+    </div>
+
+    <button type="submit" class="w-full bg-blue-600 text-white py-3 rounded-lg hover:bg-blue-700 transition">Send Message</button>
+  </form>
+</section>
 
 </body>
 </html>

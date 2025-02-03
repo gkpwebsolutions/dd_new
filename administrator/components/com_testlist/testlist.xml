@@ -1,0 +1,56 @@
+<extension type="component" version="4.0" method="upgrade">
+    <name>com_testlist</name>
+    <author>Archita</author>
+    <creationDate>2024-11-18</creationDate>
+    <copyright>Copyright (C) 2024 Your Company. All Rights Reserved.</copyright>
+    <license>GPL-2.0</license>
+    <version>1.0.0</version>
+    <description>Test List  component .</description>
+
+    <!-- Files -->
+	<files>
+        <folder>controllers</folder>
+        <folder>views</folder>
+        <filename>testlist.php</filename>
+		<filename>controller.php</filename>
+       
+    </files>
+
+    
+   
+    <!-- Administration -->
+    <administration>
+        <menu>Test component</menu>
+    </administration>
+
+   
+</extension>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

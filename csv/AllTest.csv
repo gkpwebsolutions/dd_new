@@ -1,0 +1,1205 @@
+Sr No,Test Name,Test ID,Test Code,Dictionary ID,Profile,Test Amount,Cost Of Test,Outsource Amount,Minimum Selling Price,Revenue Cap,Test Type,Outsource Center,Sample Type,Test Category,Department Name,Accreditation,Integration Code,Short Text,CAP Test,Target TAT (HH:MM),Verification Status,Test Description
+1,"LEAD, BLOOD",9866070,"LEAD, BLOOD",-,No,2100.0,0.00,2100.0,0.00,0.00,Pathology,CRL DIAGNOSTICS,EDTA WB,,Pathology,Not enable,C126,-,NO,-,Not Verified,
+2,NICU PROFILE - BASIC,9863097,NPBC,-,Yes,2410.0,0.00,0.0,0.00,0.00,Pathology,SELF,-,-,Pathology,Not enable,-,-,NO,0:2,Not Verified,
+3,CULTURE PUS/BODY FLUIDS(ANAEROBIC)	,9850265,CULTURE PUS/BODY FLUIDS(ANAEROBIC)	,-,No,1000,0.00,1000,700.00,0.00,Pathology,SELF,Fluoride-P,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+4,CORTISOL URINE TOTAL,9825824,CORTISOL URINE TOTAL,-,No,700.0,0.00,700.0,0.00,0.00,Pathology,SELF,Urine,Biochemistry,Pathology,Not enable,C075,-,NO,48:0,Not Verified,
+5,METANEPHRINES-Spot Urine,9763542,Serum Free metanephrin,-,No,3200,0.00,3200,0.00,0.00,Pathology,SELF,Urine,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+6,Whole Exome Sequencing,9762421,Whole Exome Sequencing,-,No,25000,0.00,25000,40.00,0.00,Pathology,SELF,Fluoride-P,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+7,Echinococcus (Hydatic Cyst) Detection		,9743062,Echinococcus (Hydatic Cyst) Detection		,-,No,850,0.00,850,0.00,0.00,Pathology,SELF,Fluoride-P,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+8,AUTOIMMUNE ENCEPHALITIS PANEL (CELL BASED ASSAY),9741385,AUTOIMMUNE ENCEPHALITIS PANEL (CELL BASED ASSAY),-,No,11000,0.00,11000,0.00,0.00,Pathology,SELF,Fluoride-P,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+9,ERYTHROCYTE SEDIMENTATION RATE (ESR),9724707,ESR CEP,-,No,100,0.00,100,0.00,0.00,Pathology,SELF,Fluoride-P,-,Hematology,Not enable,-,-,NO,-,Not Verified,ESR TUBE
+10,CALCIUM/CREATININE - RATIO SPOT URINE,9720646,CALCIUM/CREATININE - RATIO SPOT URINE,-,No,250.0,0.00,250.0,117.00,0.00,Pathology,CRL DIAGNOSTICS,Urine,Biochemistry,Biochemistry,Not enable,C279,C/C,NO,48:0,Not Verified,
+11,ABPA PANEL,9705832,P1385,-,Yes,2999.993,0.00,0.0,0.00,0.00,Pathology,SELF,-,-,Pathology,Not enable,-,-,NO,1:12,Not Verified,
+12,ABPA PANEL,9705180,ABPA PANEL,-,No,3000,0.00,3000,0.00,0.00,Pathology,SELF,Fluoride-P,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+13,INBORN ERRORS OF METABOLISM (IEM),9685931,INBORN ERRORS OF METABOLISM (IEM),-,No,5400,2860.00,5400,3000.00,0.00,Pathology,SELF,HEEL PRICK ,-,Special Biochemistry,Not enable,-,-,NO,-,Not Verified,TEST IS OUTSOURCED TO LIFE CELL DIAGNOSTICS
+14,Stress Cytogenetics-chromosomal breakage Study,9666568,Stress Cytogenetics-chromosomal breakage Study,-,No,7500,0.00,7500,0.00,0.00,Pathology,SELF,Fluoride-P,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+15,VALPROIC ACID (SODIUM VALPROATE)	,9654806,VALPROIC ACID (SODIUM VALPROATE)	,-,No,1000,0.00,1000,0.00,0.00,Pathology,SELF,Fluoride-P,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+16,MYCOBACTERIUM COMPLEX - PCR (TISSUE),9654649,Endometrium TB PCR,-,No,2000,0.00,0,0.00,0.00,Pathology,SELF,Fluoride-P,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+17,URINE FOR PH,9654401,URINE FOR PH,-,No,100,0.00,100,0.00,0.00,Pathology,SELF,Fluoride-P,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+18,CALCIUM/CREATININE - RATIO 24 HOURS	,9654396,CALCIUM/CREATININE - RATIO 24 HOURS	,-,No,500,0.00,500,0.00,0.00,Pathology,SELF,Fluoride-P,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+19,SERUM MERCURY,9646196,SERUM MERCURY,-,No,2100,0.00,2100,0.00,0.00,Pathology,SELF,Fluoride-P,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+20,"COPPER, SPOT URINE ",9640359,"COPPER, SPOT URINE ",-,No,1450,0.00,1450,0.00,0.00,Pathology,SELF,Fluoride-P,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+21,METHOTRXATE LEVEL	,9640355,METHOTRXATE LEVEL	,-,No,4000,0.00,4000,3200.00,3200.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+22,ANTI DS DNA ANTIBODY SEROLOGY,9605660,ANTI DS DNA ANTIBODY SEROLOGY,-,No,950,0.00,950,0.00,0.00,Pathology,SELF,Fluoride-P,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+23,ANTI NUCLEAR ANTIBODY SEROLOGY,9605659,ANTI NUCLEAR ANTIBODY SEROLOGY,-,No,1000,0.00,1000,0.00,0.00,Pathology,SELF,Fluoride-P,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+24,Lipase (Fluid),9493145,LIPASE,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Fluoride-P,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+25,Bilirubin (Fluid) ,9493143,Bilirubin (Fluid) ,-,No,100,0.00,0,0.00,0.00,Pathology,SELF,Fluoride-P,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+26,Triglycerides (Fluid) ,9493142,Triglycerides (URINE) ,-,No,200,0.00,200,0.00,0.00,Pathology,SELF,Fluoride-P,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,PLAIN SAMPLE (FASTING SAMPLE)
+27,Creatinine (Fluid),9493141,CREATININE CEP,-,No,200,0.00,200,0.00,0.00,Pathology,SELF,Fluid,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+28,ULTRASOUND GUIDED FNAC (USG GUIDED FNAC),9478206,CY002,-,No,1500,0.00,1500,0.00,0.00,Pathology,SELF,Fluid,Cytology,Cytology,Not enable,-,USGFNA,NO,-,Not Verified,
+29,Surgical Profile - Mini,9453434,Surgical Profile - Mini,-,Yes,1850.0,0.00,0.0,925.00,0.00,Pathology,SELF,-,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+30,"LH,FSH,PRL  PROFILE",9448421,LFP,-,Yes,1500.0,150.00,0.0,260.00,0.00,Pathology,SELF,-,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+31,Electrolytes With Calcium Total,9083389,EC01,-,Yes,600.0,100.00,0.0,150.00,0.00,Pathology,SELF,-,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+32,KFT WITH GFR,8904443,KG01,-,Yes,1300.0,0.00,0.0,0.00,0.00,Pathology,SELF,-,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+33,COMPLETE HEALTH CHECKUP PROFILE (CH PROFILE) ,8904442,CH01,-,Yes,6910.0,650.00,0.0,650.00,0.00,Pathology,SELF,-,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+34,BASIC PROFILE ,8904441,BP01,-,Yes,4410.0,0.00,0.0,0.00,0.00,Pathology,SELF,-,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+35,KFT PROFILE WITH GFR*,8904438,KF01,-,Yes,1300.0,0.00,0.0,0.00,0.00,Pathology,SELF,-,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+36,"Infertility Panel -Comprehensive,Female",8904430,INF01,-,Yes,2500.0,1100.00,0.0,1800.00,1800.00,Pathology,SELF,-,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+37,Microprotein ,8904410,Microprotein ,-,No,500,0.00,500,0.00,0.00,Pathology,SELF,Fluoride-P,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+38,S.DIPHTHERIA ANTIBODY IGG*,8904263,S.DIPHTHERIA ANTIBODY IGG*,-,No,2700,0.00,2700,0.00,0.00,Pathology,SELF,Fluoride-P,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+39,KIDNEY FUNCTION WITH EGFR,8747666,KIDNEY FUNCTION WITH EGFR,-,Yes,900.0,0.00,0.0,0.00,0.00,Pathology,SELF,-,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+40,KFT WITH EGFR,8747660,KFT WITH EGFR,-,No,700,0.00,700,0.00,0.00,Pathology,SELF,Fluoride-P,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+41,"ACUTE LEUKEMIA BASIC LINEAGE (T,B MYELOID) PANEL",8453300,"ACUTE LEUKEMIA BASIC LINEAGE (T,B MYELOID) PANEL",-,No,7600,0.00,7600,0.00,0.00,Pathology,SELF,Bone Marrow,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+42,HISTOPLASMA ANTIGEN URINE ,8448274,HISTOPLASMA ANTIGEN URINE ,-,No,4000,0.00,4000,0.00,0.00,Pathology,SELF,Urine,-,Clinical Biochemistry,Not enable,-,-,NO,-,Not Verified,
+43,BONE MARROW BIOPSY,8433588,BONE MARROW BIOPSY,-,No,2000,0.00,2000,0.00,0.00,Pathology,SELF,Fluoride-P,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+44,LINE PROBE ASSAY,8411986,LINE PROBE ASSAY,-,No,4000,2600.00,4000,2800.00,2800.00,Pathology,SELF,Any Specimen,-,Microbiology,Not enable,-,-,NO,-,Not Verified,
+45,NICU PROFILE WITH CBC AND I:T RATIO,8249627,NCIT,-,Yes,3000.0,1200.00,0.0,1200.00,0.00,Pathology,SELF,-,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+46,NICU PROFILE WITH IT RATIO ,8249626,NIT,-,Yes,2700.0,1080.00,0.0,1080.00,0.00,Pathology,SELF,-,-,Pathology,Not enable,-,-,NO,0:24,Not Verified,SPECIALLY FOR RUDRA HOSPITAL 
+47,PPMC MER,8249471,PPMC MER,-,No,100,0.00,100,0.00,0.00,Pathology,SELF,Fluoride-P,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+48,USG Abdomen and Pelvis,8249461,USG Abdomen and Pelvis,-,No,800,0.00,800,0.00,0.00,Pathology,SELF,Fluoride-P,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+49,MPAGI_PP_002,8249460,MPAGI2,-,Yes,4610.0,4610.00,0.0,1300.00,0.00,Pathology,SELF,-,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+50,MPAGI_PP_001,8249459,MPAGI01,-,Yes,3810.0,3810.00,0.0,800.00,800.00,Pathology,SELF,-,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+51,I:T Ratio,8248887,I:T Ratio,-,No,450,0.00,450,0.00,0.00,Pathology,SELF,EDTA WB,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+52,SEMEN FRUCTOSE,8125176,C289,-,No,500,0.00,500,0.00,0.00,Pathology,SELF,Fluoride-P,-,Andrology,Not enable,-,-,NO,-,Not Verified,
+53,HIV - 1 QUANTITATIVE VIRAL LOAD *,8122221,P005,-,No,4000,0.00,4000,0.00,0.00,Pathology,SELF,Fluoride-P,-,Immunology/Serology,Not enable,-,-,NO,-,Not Verified,
+54,HIV-1 QUANTITATIVE REAL TIME PCR*,8120667,HIV-1 QUANTITATIVE REAL TIME PCR*,-,No,4000.0,0.00,4000.0,0.00,0.00,Pathology,SELF,Fluoride-P,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+55,CULTURE URINE*,7949451,M044,-,No,600,0.00,400,0.00,0.00,Pathology,SELF,Urine,-,Microbiology,Not enable,-,-,NO,-,Not Verified,FOR GNB AST 
+56,GNB AST,7949450,M044,-,No,600,0.00,400,0.00,0.00,Pathology,SELF,Fluoride-P,-,Microbiology,Not enable,-,-,NO,-,Not Verified,FOR GNB AST 
+57,Progesterone (vet),7730513,Progesteron (vet),-,No,650,0.00,650,0.00,0.00,Pathology,SELF,Serum,Immunology,Immunology,Not enable,-,-,NO,-,Not Verified,
+58,ACID FAST SUSPECTIBILITY - 5 DRUGS (L- J)(FIRST LINE DRUG),7654208,M003,-,No,3250,0.00,0,2275.00,0.00,Pathology,SELF,Any Specimen,-,Microbiology,Not enable,-,-,NO,-,Not Verified,"Includes Streptomycin, Isoniazid, Rifampicin, Ethambutol MTB Pure culture
+"
+59,ABF RAPID CULTURE (BD BACTEC MGIT),7654206,ABF RAPID CULTURE (BD BACTEC MGIT),-,No,1200,300.00,1200,840.00,0.00,Pathology,SELF,Any Specimen,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+60,LYME SEROLOGY TEST IGG*,7350281,LYME SEROLOGY TEST IGG*,-,No,2000,0.00,2000,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+61,ET TUBE CULTURE,7337860,THROAT  SWAB CULTURE,-,No,600,0.00,600,0.00,0.00,Pathology,SELF,Swab,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+62,ECG,7255670,ECG,-,No,300,0.00,300,0.00,0.00,File Report,SELF,-,-,Pathology,Not enable,-,-,NO,-,Not Verified,ECG
+63,"ARTERIAL BLOOD GAS, ANALYSIS",7093936,ABG,-,No,1500.0,0.00,1500.0,0.00,0.00,Pathology,SELF,Blood,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+64,VET RBS ,7074836,RBS CEP,-,No,60,0.00,0,0.00,0.00,Pathology,SELF,Fluoride Plasma,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+65,Lactate Dehydrogenase ( Ldh ),6975443,Lactate Dehydrogenase ( Ldh ),-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+66,"G-6-PD, QUANTITATIVE, BLOOD",6975436,G6PD (Glucose 6 Phosphate Dehydrogenase) Quantitative,-,No,1200,0.00,1200,0.00,0.00,Pathology,SELF,EDTA WB,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+67,"G-6-PD, QUANTITATIVE, BLOOD",6975435,G6PD (Glucose 6 Phosphate Dehydrogenase) Quantitative,-,No,1200,0.00,1200,0.00,0.00,Pathology,SELF,EDTA WB,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+68,CYTOMEGALOVIRUS DNA PCR -  QUALITATIVE*,6896572,P018,-,No,4000,2450.00,4000,3000.00,0.00,Pathology,CRL DIAGNOSTICS,Serum,-,Special Biochemistry,Not enable,-,-,NO,-,Not Verified,
+69,BIOPSY -EXTRA LARGE TISSUE,6894498,LARGE,-,No,3000,0.00,3000,0.00,0.00,Radiology,SELF,Tissue,-,Histopathology,Not enable,-,-,NO,-,Not Verified,
+70,CARDIAC PROFILE ,6825416,CP01,-,Yes,3600.0,1000.00,0.0,1440.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+71,VET KFT,6798785,KFT,-,No,700,0.00,600,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+72,BIOPSY MEDIUM TISSUE*,6797001,BIOPSY MEDIUM TISSUE,-,No,900,0.00,900,0.00,0.00,Pathology,SELF,Tissue,-,Histopathology,Not enable,-,-,NO,-,Not Verified,
+73,VETENARY HBA1C,6786857,C107,-,No,600,0.00,600,300.00,600.00,Pathology,SELF,EDTA WB,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+74,VETENARY LFT  ,6786855,P66M,-,No,600,0.00,600,300.00,600.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+75,VET HEMATOLOGY CBC,6786853,VET HEMATOLOGY CBC,-,No,300,0.00,300,150.00,300.00,Pathology,SELF,EDTA WB,Haematology,Hematology,Not enable,-,-,NO,-,Not Verified,
+76,NICU PROFILE,6772180,NP01,-,Yes,1350.0,530.00,540.0,540.00,540.00,Pathology,SELF,-,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+77,SCRUB TYPHUS (ANTIBODY)RAPID CARD,6757248,SCRUB TYPHUS RAPID CARD,-,No,1400,0.00,1200,0.00,0.00,Pathology,SELF,Serum,-,Immunology/Serology,Not enable,-,-,NO,-,Not Verified,
+78,BIOPSY LARGE TISSUE,6611033,LARGE,-,No,1500,0.00,1500,0.00,0.00,Radiology,SELF,Tissue,-,Histopathology,Not enable,-,LARGE,NO,-,Not Verified,
+79,MEDIUM  TISSUE BIOPSY,6611030,MEDIUM,-,No,900,0.00,900,0.00,0.00,Radiology,SELF,Tissue,-,Histopathology,Not enable,-,MEDIUM,NO,-,Not Verified,
+80,BIOPSY SMALL TISSUE,6609095,SMALL,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Tissue,-,Histopathology,Not enable,-,SMALL,NO,-,Not Verified,
+81,-,6579149,CY001,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Slides & Blocks,-,Cytology,Not enable,-,-,NO,-,Not Verified,
+82,Uric Acid - SERUM*,6562720,URIC ACID CEP,-,No,200,0.00,99,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,2ml Serum to be collected in Plain Tube.
+83,Tsh (Thyroid Stimulating Hormone)*,6562719,TSH (THYROID STIMULATING HORMONE),-,No,250,0.00,160,0.00,0.00,Pathology,SELF,Serum,-,Immunology,Not enable,-,-,NO,-,Not Verified,PLAIN TUBE (minimum 2 ml serum )
+84,Viral Marker*,6562713,Viral CEP,-,No,950,0.00,950,0.00,0.00,Pathology,SELF,Serum,-,Immunology/Serology,Not enable,-,-,NO,-,Not Verified,
+85,"VITAMIN B12, SERUM*",6562709,VITAMIN B12 CEP,-,No,1300,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Immunology,Not enable,-,VITAMIN B12 CEP,NO,-,Not Verified,
+86,URINE EXAMINATION ROUTINE*,6562701,URINE CEP,-,No,100,0.00,70,0.00,0.00,Pathology,SELF,Urine,-,Clinical Pathology,Not enable,-,URINE CEP,NO,-,Not Verified,
+87,TROPONIN -I (QUANTITATIVE)*,6562699,TROPONIN I,-,No,1700.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Immunology,Not enable,-,-,NO,-,Not Verified,
+88,Kidney Function Test (KFT),6562695,KFT CEP,-,No,700,0.00,600,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,KFTCEP,NO,-,Not Verified,
+89,PERICARDIAL FLUID ANALYSIS,6537724,C093,-,No,600,0.00,500,0.00,0.00,Pathology,SELF,Fluid,-,Cytology,Not enable,-,-,NO,-,Not Verified,
+90,Return of cytology slide ,6449845,Return of cytology slide ,-,No,100,0.00,100,0.00,0.00,Pathology,SELF,Slides & Blocks,-,Histopathology,Not enable,-,-,NO,-,Not Verified,
+91,BCR-ABL QUANTITATIVE,6449166,BCR-ABL QUANTITATIVE,-,No,5600,0.00,5600,0.00,0.00,Pathology,SELF,Blood,Oncology,Haematology,Not enable,-,-,NO,-,Not Verified,
+92,CBC With LFT ,6424891,CLT,-,Yes,600.0,600.00,0.0,400.00,0.00,Pathology,SELF,-,Profiles,Profiles,Not enable,-,CLT,NO,-,Not Verified,
+93,PRE - HEALTH CHECKUP -1 ,6375923,PHC,-,Yes,1698.0,1698.00,1698.0,1300.00,0.00,Pathology,SELF,-,-,Profiles,Not enable,-,-,NO,-,Not Verified,PROFILE FOR TRAVEL PURPOSE 
+94,Lipid Profile Total,6318773,LIPID CEP,-,No,600,0.00,399,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,LIPID CEP,NO,-,Not Verified,
+95,SUPER 4 LPL,6309221,SUPER 4 LPL,-,No,2350,0.00,2350,0.00,0.00,Pathology,SELF,-,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+96,CULTURE PUS ,6297668,CULTURE PUS (ANAEROBIC),-,No,600,0.00,800,0.00,0.00,Pathology,SELF,Pus,-,Microbiology,Not enable,-,-,NO,-,Not Verified,
+97,FLUID EXAMINATION REPORT,6260879,ASCITIC FLUID EXAMINATION,-,No,600,0.00,600,0.00,0.00,Pathology,SELF,Fluid,Cytology,Cytology,Not enable,-,-,NO,-,Not Verified,
+98,RETURN OF SLIDE AND BLOCK :HPE,6236674,RETURN OF SLIDE AND BLOCK :HPE,-,No,100,0.00,100,0.00,0.00,Pathology,SELF,Slides & Blocks,-,Histopathology,Not enable,-,-,NO,-,Not Verified,
+99,CA125*,6196267,CA125,-,No,1500,0.00,1500,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+100,HBA1C*,6196266,HBA1C CEP*,-,No,600,0.00,500,0.00,0.00,Pathology,SELF,EDTA WB,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+101,"VITAMIN B12, SERUM",6196265,"VITAMIN B12, SERUM",-,No,1300,0.00,1200,0.00,0.00,Pathology,SELF,Serum,-,Immunology,Not enable,-,VIT B12,NO,-,Not Verified,
+102,COMPLETE BLOOD COUNT (CBC),6196264,CBC,-,No,300,0.00,300,0.00,0.00,Pathology,SELF,EDTA WB,Haematology,Hematology,Not enable,-,CBC,NO,-,Not Verified,
+103,VDRL TITER (Serology For Syphilis)*,6194973,VDRL,-,No,600.0,0.00,600.0,0.00,0.00,Pathology,SELF,Serum,-,Immunology/Serology,Not enable,-,VDRL,NO,-,Not Verified,
+104,TB EXPERT COMBO ,6194917,TEC01,-,Yes,3230.0,3230.00,0.0,2000.00,2000.00,Pathology,SELF,-,-,Mycobacteriology,Not enable,-,-,NO,-,Not Verified,
+105,Anti Streptolysin O (ASO )* ,6149956,ASO,-,No,700,0.00,700,0.00,0.00,Pathology,SELF,Serum,-,Immunology/Serology,Not enable,-,-,NO,-,Not Verified,
+106,IHC Panel,6007081,IHC - SMOOTH MUSCLE ACTIN (SMA),-,No,1750,0.00,1750,0.00,0.00,Pathology,SELF,Slides & Blocks,-,Histopathology,Not enable,-,-,NO,-,Not Verified,
+107,Galectosimia screening,5999298,Galectosimia screening,-,No,700,0.00,700,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+108,TRUE FULL BODY EXTENDED TESTING,5992029,TFBET01,-,Yes,3799.0,0.00,3799.0,0.00,0.00,Pathology,SELF,-,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+109,TRUE FULL BODY ADVANCE TESTING,5992002,TFA01,-,Yes,3199.0,0.00,3199.0,0.00,0.00,Pathology,SELF,-,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+110,TB SURE ,5929418,TB SURE ,-,No,3000,0.00,3000,0.00,0.00,Pathology,SELF,Blood,-,Mycobacteriology,Not enable,-,-,NO,-,Not Verified,
+111,PCOD PROFILE,5892478,P79,-,Yes,3500.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Immunology,Not enable,-,-,NO,-,Not Verified,
+112,SURGICAL PROFILE COMPLETE ,5818987,SPC01,-,Yes,3250.0,0.00,1600.0,0.00,0.00,Pathology,SELF,-,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+113,Histopathology Slide Review,5816844,Histopathology Slide Review,-,No,200,0.00,200,0.00,0.00,Radiology,SELF,Slides & Blocks,-,Histopathology,Not enable,-,-,NO,-,Not Verified,
+114,ICU PROFILE BASIC,5753669,ICUB01,-,Yes,2400.0,0.00,1200.0,0.00,0.00,Pathology,SELF,-,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+115,ICU PROFILE,5753369,ICUP-01,-,Yes,3050.0,0.00,1525.0,0.00,0.00,Pathology,SELF,-,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+116,LARGE BIOPSY PROCEDURE BLOCK AND SLIDE,5677439,LARGE BIOPSY PROCEDURE BLOCK AND SLIDE,-,No,550,0.00,500,0.00,0.00,Pathology,SELF,Tissue,-,Histopathology,Not enable,-,-,NO,-,Not Verified,
+117,MEDIUM BIOPSY PROCEDURE BLOCK AND SLIDE,5677091,MEDIUM BIOPSY PROCEDURE BLOCK AND SLIDE,-,No,350,0.00,350,0.00,0.00,Pathology,SELF,Tissue,-,Histopathology,Not enable,-,-,NO,-,Not Verified,
+118,SMALL BIOPSY PROCEDURE SLIDE AND BLOCK,5677089,SMALL BIOPSY PROCEDURE SLIDE AND BLOCK,-,No,170,0.00,170,0.00,0.00,Pathology,SELF,Tissue,-,Histopathology,Not enable,-,-,NO,-,Not Verified,
+119,TRUE FULL BODY COMPLETE TESTING,5638596,TFCOMP,-,Yes,2499,0.00,0.0,0.00,0.00,Pathology,SELF,-,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+120,ICU PROFILE-1,5612018,ICU PROFILE-1,-,Yes,780.0,0.00,0.0,0.00,0.00,Pathology,SELF,-,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+121,FULL BODY HEALTH TEST,5534711,FULL BODY HEALTH TEST,-,Yes,699.0,0.00,0.0,0.00,0.00,Pathology,SELF,-,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+122,LFT & KFT  FULL BODY HEALTH TEST,5534710,LFT & KFT,-,No,1200,0.00,1100,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+123,BIOCHEMISTRY - FULL BODY HEALTH lite,5534705,-01,-,No,1000,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+124,SAMPLE COLLECTION CHARGE ,5483558,SAMPLE COLLECTION CHARGE ,-,No,100,0.00,100,0.00,0.00,Pathology,SELF,-,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+125,COVID RT PCR,5448623,COVID RT PCR,-,No,900,0.00,900,0.00,0.00,Pathology,SELF,Swab,-,Microbiology,Not enable,-,-,NO,-,Not Verified,
+126,Iron studies,5444374,Iron studies,-,No,600,0.00,600,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+127,PREGNANCY PROFILE ,5401042,PP01,-,Yes,1600.0,0.00,0.0,0.00,0.00,Pathology,SELF,-,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+128,Preoperative panel-1,5396649,Preoperative panel,-,Yes,2350.0,0.00,0.0,0.00,0.00,Pathology,SELF,-,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+129,ANC PROFILE -1,5396478,AN01,-,Yes,2610.0,2610.00,0.0,1500.00,1500.00,Pathology,SELF,-,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+130,Super Health - 4,5386237,SH04,-,Yes,2350.0,0.00,0.0,0.00,0.00,Pathology,SELF,-,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+131,Super Health - 2,5386235,SH02,-,Yes,1350.0,1350.00,0.0,0.00,0.00,Pathology,SELF,-,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+132,BIOCHEMISTRY:- TRUE FULL BODY COMPLETE TESTING ,5343475,BIOCHEMISRTY :-,-,No,1000,0.00,00,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+133,OGTT (Oral Glucose Tolerance Test -3 Sample),5301099,OG01,-,Yes,150.0,0.00,0.0,0.00,0.00,Pathology,SELF,Fluoride Plasma,-,Biochemistry,Not enable,-,GTT3,NO,-,Not Verified,
+134,2 Hours Plasma Glucose,5301085,2 Hours Plasma Glucose,-,No,100,0.00,00,0.00,0.00,Pathology,SELF,Fluoride Plasma 2 Hr,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+135,1st Hr Plasma Glucose,5301084,1st Hr Plasma Glucose,-,No,100,0.00,00,0.00,0.00,Pathology,SELF,Fluoride Plasma 1 Hr,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+136,Oral Glucose Tolerance Test (GTT- sample),5301083,Oral Glucose Tolerance Test (GTT- sample),-,No,150,0.00,150,0.00,0.00,Pathology,SELF,Fluoride-P,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+137,BIOCHEMISTRY -TRUE FULL BODY SCREENING,5292852,-01,-,No,1000,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+138,BIOCHEMISTRY,5292037,02,-,No,1000,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+139,KIDNEY FUNCTION TEST BASIC(KFT BASIC),5288853,KFT B,-,Yes,600,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+140,LFT & KFT  ,5288349,LFT & KFT,-,No,1200,0.00,1100,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+141,LFT & KFT extended,5288347,LFT & KFT,-,No,1200,0.00,1100,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+142,TRUE FEVER TESTING BASIC,5282908,TF001,-,Yes,800.0,0.00,0.0,0.00,0.00,Pathology,SELF,-,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+143,TRUE FEVER TESTING,5282905,TF01,-,Yes,1100.0,0.00,0.0,0.00,0.00,Pathology,SELF,-,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+144,DOUBLE MARKER(FIRST TRIMESTER SCREENING)*,5268483,DUAL MARKER(FIRST TRIMESTER SCREENING),-,No,2500,0.00,2500,1300.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,DUAL MARKER,NO,-,Not Verified,
+145,TRUE FULL BODY TOTAL TESTING,5262789,TRUE FULL BODY TOTAL TESTING,-,Yes,1099.0,0.00,0.0,0.00,0.00,Pathology,SELF,-,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+146,ANC PANEL,5253798,AN01,-,Yes,1350.0,0.00,0.0,0.00,0.00,Pathology,SELF,-,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+147,Viral Marker,5239040,Viral Marker,-,No,950,0.00,650,0.00,0.00,Pathology,SELF,Serum,-,Immunology/Serology,Not enable,-,-,NO,-,Not Verified,
+148,TRUE FULL BODY SCREENING TESTING,5238025,TRUE01,-,Yes,699.0,0.00,699.0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+149,KIDNEY FUNCTION TEST Extended With Urine,5237388,BC03,-,Yes,600.0,0.00,600.0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,1068,-,NO,-,Not Verified,
+150,KIDNEY FUNCTION TEST EXTENDED(KFT EXTENDED),5237380,KFT EXTENDED,-,No,900,0.00,700,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+151,Liver Function Test (LFT) Extended,5229383,LFT EXTENDED,-,No,800,0.00,700,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+152,BUN CREATNINE RATIO,5229099,-,-,Yes,399.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+153,Liver Function Test (LFT) MAX,5227054,DP0044,-,No,1000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+154,Liver Function Test (LFT),5227053,LFT CEP,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,HLT0009,LFT CEP,NO,-,Not Verified,
+155, KIDNEY FUNCTION TEST (KFT)*,5227052,KFT,-,No,700,0.00,600,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+156,Complete Blood Count Cbc,5225513,Complete Blood Count CBC,-,No,300,0.00,249,0.00,0.00,Pathology,SELF,EDTA WB,Haematology,Hematology,Not enable,-,CBC,NO,24:0,Not Verified,
+157,WIDAL TEST - SLIDE,5224941,WIDAL,-,No,120,0.00,120,0.00,0.00,Pathology,SELF,Serum,-,Immunology/Serology,Not enable,-,-,NO,-,Not Verified,WIDAL TEST -SLIDE METHOD
+158,PROSTATIC PROFILE ,5210717,P84,-,Yes,1600.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Immunology,Not enable,-,-,NO,-,Not Verified,
+159,STD DETECTION SCREENING PROFILE ,5210716,P569,-,Yes,1200.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+160,TORCH 5 Profile (IgG),5210714,p96,-,Yes,1200.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Immunology,Not enable,-,-,NO,-,Not Verified,
+161,TORCH 5 PROFILE   (IgM),5210713,P97,-,Yes,1200.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Immunology,Not enable,-,-,NO,-,Not Verified,
+162,TORCH 4 PROFILE   (IgG) ,5210712,P94,-,Yes,1000.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Immunology,Not enable,-,-,NO,-,Not Verified,
+163,THROMBOPHILIA PROFILE,5210711,P88,-,Yes,7500.0,0.00,0.0,0.00,0.00,Pathology,SELF,Plasma,-,Hematology,Not enable,-,-,NO,-,Not Verified,
+164,THROMBOSIS PROFILE(DEEP VEIN),5210710,P89,-,Yes,3850.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Hematology,Not enable,-,-,NO,-,Not Verified,
+165,THYROID ANTIBODY PROFILE ,5210709,P90,-,Yes,1800.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Immunology,Not enable,-,ANTI TFT,NO,-,Not Verified,
+166,TORCH 4 PROFILE   (IgM) ,5210708,P95,-,Yes,1000.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Immunology,Not enable,-,-,NO,-,Not Verified,
+167,TRIPLE MARKER WITH GRAPH,5210707,P99,-,Yes,1800.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+168,URINE ROUTINE WITH CULTURE,5210706,P515,-,Yes,650,0.00,0.0,0.00,0.00,Pathology,SELF,Urine,-,Microbiology,Not enable,-,-,NO,-,Not Verified,
+169,VITAMIN PROFILE,5210705,P532,-,Yes,1599.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Immunology,Not enable,-,-,NO,-,Not Verified,
+170,PANCREATITIS DIAGNOSTIC PROFILE,5210704,P78,-,Yes,3850.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+171,PAIN SCREEN PROFILE,5210703,P77,-,Yes,2450.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+172,NEW BRON SCREENING-I,5210702,P76,-,Yes,3450.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+173,NEW BORN SCREENING,5210701,P75,-,Yes,2250.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+174,NEPHRO CHECK PROFILE,5210700,P73,-,Yes,1050.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+175,NEPHRO CHECK PROFILE,5210699,P73,-,Yes,1050.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+176,NEUROENDOCRINE PROFILE,5210698,P74,-,Yes,6550.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+177,NATURAL KILLER CELLS PROFILE ,5210697,P72,-,Yes,6550.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+178,MYOEPITHELIAL TUMOR DIGNOSTIC PROFILE,5210696,P71,-,Yes,5050.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+179,Liver Function Test (LFT) - Extended -,5210695,P66,-,Yes,600.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,LFT EXT,NO,-,Not Verified,
+180,Lipid Profile Extended,5210693,P63,-,Yes,1999.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+181,LUPUS ANTICOAGULANT PROFILE,5210692,P67,-,Yes,1850.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+182,IRON PROFILE BASIC ,5210688,P110,-,Yes,600.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+183,IRON DEFICIENCY PROFILE,5210687,P59,-,Yes,799.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+184,INFERTILITY PROFILE ,5210686,P57,-,Yes,5500.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+185,INFECTIOUS DISEASE PROFILE TRIDOT,5210685,P514,-,Yes,950.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+186,INFECTIOUS DISEASE PROFILE,5210684,P56,-,Yes,1200.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+187,IHC-SPINDLE CELL PROFILE,5210683,P55,-,Yes,5050.0,0.00,0.0,0.00,0.00,Pathology,SELF,Slides & Blocks,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+188,IHC-ROUND CELL PROFILE ,5210682,P54,-,Yes,5050.0,0.00,0.0,0.00,0.00,Pathology,SELF,Slides & Blocks,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+189,HYPERTENSION PROFILE (BASIC):,5210681,P51,-,Yes,1000.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+190,HIV SCREEN,5210680,P48,-,Yes,2850.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Immunology/Serology,Not enable,-,-,NO,-,Not Verified,
+191,HIRSUTISN PROFILE -I ,5210679,P45,-,Yes,2050.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+192,HIRSUTISM PROFILE-II,5210678,P46,-,Yes,5500.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+193,HIRSUTISM ADVANCE PROFILE-III ,5210677,P47,-,Yes,7200.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+194,HEPATITIS PROFILE ACUTE,5210676,P440,-,Yes,5800.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+195,HEPATITIS C VIRUS MONITORING PROFILE,5210675,P430,-,Yes,12500.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+196,HEPATITIS B PROFILE ,5210674,P420,-,Yes,3200.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+197,HAEMOGRAM WITH P/S,5210673,HM10,-,Yes,300,0.00,0.0,0.00,0.00,Pathology,SELF,EDTA WB,-,Hematology,Not enable,-,-,NO,-,Not Verified,
+198,HAEMOGRAM (CBC+ESR),5210672,P330,-,Yes,400,0.00,0.0,0.00,0.00,Pathology,SELF,EDTA WB,Haematology,Hematology,Not enable,-,-,NO,-,Not Verified,
+199,GLUCOSE - FASTING/ PP/ PROFILE,5210671,P541,-,Yes,90.0,0.00,0.0,0.00,0.00,Pathology,SELF,Fluoride Plasma,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+200,FEVER PROFILE-I,5210669,P310,-,Yes,550.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+201,FEVER PANEL-II ,5210668,P523,-,Yes,860.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+202,FEVER COMPREHENSIVE PROFILE,5210667,P101,-,Yes,2800.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+203,FERTILITY PROFILE-II ,5210666,P44,-,Yes,1199.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+204,FERTILITY PROFILE,5210665,P42,-,Yes,900.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+205,FERTILITY PROFILE IV ,5210664,P43,-,Yes,1200.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+206,TRUE FERTILITY TESTING PLUS,5210663,P41,-,Yes,1299.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+207,TRUE HORMONES TESTING,5210662,P40,-,Yes,1150.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+208,ENA PROFILE/ANA PROFILE (QUANTITATIVE),5210661,P512,-,Yes,7500.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+209,ELECTROLYTE PROFILE,5210660,P39,-,Yes,500,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,ELECT,NO,-,Not Verified,
+210,DONOR PROFILE,5210658,P316,-,Yes,4500.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+211,TRUE DIABETESE TESTING,5210657,P643,-,Yes,499.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+212,COAGULATION PROFILE BASIC ,5210656,P30,-,Yes,700.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+213,COAGULATION PROFILE,5210655,P31,-,Yes,3200.0,0.00,0.0,0.00,0.00,Pathology,SELF,Plasma,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+214,CARDIOLIPIN PROFILE-I,5210654,P28,-,Yes,1800.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+215,CARDIOLIPIN PROFILE,5210653,P27,-,Yes,3000.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+216,CARDIAC MONITORING PROFILE -I,5210652,P26,-,Yes,2000.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+217,CARDIAC MONITORING PROFILE -I,5210651,P26,-,Yes,2000.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+218,CARDIAC MONITORING PROFILE,5210650,P25,-,Yes,4500.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+219,CANCER SCREENING-MALE,5210649,P665,-,Yes,2000.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+220,CANCER SCREENING-FEMALE,5210648,P632,-,Yes,2000.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+221,BOH PROFILE- I ,5210647,P506,-,Yes,4500.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+222,BIOT-II PROFILE,5210646,P22,-,Yes,2500.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+223,BIOT-I PROFILE,5210645,P23,-,Yes,2850.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+224,BAD OBSTERIC HISTORY  (BOH/ ABORTION) PROFILE,5209522,P21,-,Yes,5400.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+225,AUTOIMMUNE HEPATITIS PROFILE ,5209520,P18,-,Yes,6000.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+226,AUTOIMMUNE DISEASE PROFILE ,5209519,P17,-,Yes,7500.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+227,ARTHRITIS PROFILE REACTIVE,5209516,P15,-,Yes,3650.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+228,APOLIPROTEIN EVALUATION,5209515,P13,-,Yes,2000.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+229,APLA PROFILE ,5208354,P545,-,Yes,6500.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,0:0,Not Verified,C
+230,ANTE NATAL PROFILE ,5208353,P12,-,Yes,1600.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+231,ANEMIA PROFILE ,5208352,P11,-,Yes,4299.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+232,TRUE ANAEMIA TESTING ,5208351,P622P,-,Yes,1099.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+233,TRUE ANAEMIA TESTING PLUS,5208350,P622,-,Yes,2000.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+234,TRUE FERTILITY PLUS TESTING- 1,5208349,P524,-,Yes,4500.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+235,PHILADELPHIA CHROMOSOME SCREENING,5208347,R004,-,No,3050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,168:0,Not Verified,
+236,CULTURE - AEROBIC (OT SWAB),5208346,M043,-,No,600,0.00,0,0.00,0.00,Radiology,SELF,Any Specimen,Molecular Assays,Microbiology,Not enable,-,-,NO,-,Not Verified,
+237,TUMOR NECROSIS FACTOR (TNF) - ALPHA,5208345,C276,-,No,3550,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+238,ACUTE LYMPHOBLASTIC LEUKEMIA (ALL) CHARACTERIZATION PANEL,5208344,H185,-,No,10500,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Cytology,Not enable,-,-,NO,-,Not Verified,
+239,FIP1L1 - PDGFRA GENE REARRANGEMENT,5208343,P081,-,No,7250,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+240,JAPANESE ENCEPHALITIES VIRUS ANTIBODY-IGM,5208342,S137,-,No,1850.0,0.00,0.0,0.00,0.00,Radiology,SELF,Serum,Molecular Assays,Molecular Biology,Not enable,-,-,NO,-,Not Verified,
+241,JAPANESE ENCEPHALITIES VIRUS by PCR,5208341,P082,-,No,5250,0.00,0,0.00,0.00,Radiology,SELF,Serum,Molecular Assays,Molecular Biology,Not enable,-,-,NO,-,Not Verified,
+242,THEOPHYLIN,5208340,C288,-,No,1150,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+243,MYCOBACTERIUM COMPLEX - PCR TISSUE (QUALITATIVE),5208339,P009,-,No,1800,0.00,0,0.00,0.00,Radiology,SELF,Serum,Molecular Assays,Molecular Biology,Not enable,-,-,NO,-,Not Verified,
+244,MANTLE CELL LYMPHOMA MARKER:CYCLIN D1,5208338,H108,-,No,1750,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+245,SAAG(SERUM ASCITES-ALBUMIN GRADIENT),5208337,C232,-,No,550,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+246,BK POLIOMA VIRUS DNA BY REAL TIME PCR (PLASMA),5208336,P204,-,No,5250,0.00,0,0.00,0.00,Radiology,SELF,Serum,Molecular Assays,Molecular Biology,Not enable,-,-,NO,-,Not Verified,
+247,DNA PLOIDY & S PHASE - LEUKEMIA,5208335,H109,-,No,2850,0.00,0,0.00,0.00,Radiology,SELF,Serum,Molecular Assays,Molecular Biology,Not enable,-,-,NO,-,Not Verified,
+248,STOOL FOR PH LEVEL,5208334,H502,-,No,100,0.00,0,0.00,0.00,Pathology,SELF,Stool,-,Microbiology,Not enable,-,-,NO,-,Not Verified,
+249,"HEPATITIS B VIRUS - VIRAL LOAD, QUANTITATIVE",5208333,P002,-,No,5500,0.00,5500,0.00,0.00,Radiology,SELF,Serum,Molecular Assays,Molecular Biology,Not enable,-,-,NO,48:0,Not Verified,Previous blood reports should be attached. Fasting not required.
+250,OSTEOCALCIN,5208332,C312,-,No,2450,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,36:0,Not Verified,
+251,URINE DRUG SCREEN-CODEINE,5208331,C301,-,No,1150,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+252,BIOPSY- KIDNEY,5208330,A070,-,No,2350,0.00,0,0.00,0.00,Pathology,SELF,Tissue,-,Histopathology,Not enable,-,-,NO,-,Not Verified,Aspira Biochemistry
+253,ADENOSINE DEAMINASE - SYNOVIAL FLUID,5208329,C270,-,No,500,0.00,0,0.00,0.00,Pathology,SELF,Any Specimen,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,ADA Adenosine Deaminase Synovial Fluid
+254,SMEAR FOR GONOCOCCI,5208328,M041,-,No,250,0.00,0,0.00,0.00,Radiology,SELF,Serum,Routine (Pathology),Mycobacteriology,Not enable,-,-,NO,8:0,Not Verified,
+255,ALBUMIN FLUID,5208327,C241,-,No,250,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,-,NO,8:0,Not Verified,
+256,ACUTE MYELOID LEUKEMIA (AML)- NPM1 GENE MUTATIONS,5208326,P092,-,No,4550,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+257,CLONAL RESTRICTION / B - CELL MATURITY MARKER : LAMBDA LIGHT CHAIN,5208325,H102,-,No,1550,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,-,NO,8:0,Not Verified,
+258,ACUTE MYELOID LEUKEMIA (AML) - FLT3 MUTATIONS,5208324,P089,-,No,5850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+259,CLONAL RESTRICTION / B - CELL MATURITY MARKER : KAPPA LIGHT CHAIN,5208323,H101,-,No,1550,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,-,NO,8:0,Not Verified,
+260,PAN B - CELL MARKER : CD 19,5208322,H067,-,No,1550,0.00,0,0.00,0.00,Pathology,SELF,Serum,Haematology,Pathology,Not enable,-,-,NO,72:0,Not Verified,
+261,CITRATE 24 Hrs. Urine,5208321,C320,-,No,1250,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+262,CYCLOSPORINE CO LEVEL,5208320,C1251,-,No,3250,0.00,0,0.00,0.00,Pathology,SELF,Serum,Immunology,Pathology,Not enable,-,-,NO,48:0,Not Verified,
+263,ALPHA-1 ANTI TRYPSIN QUANTITATIVE,5208319,C024,-,No,1850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+264,ALPHA-1 ACID GLYCOPROTEIN,5208318,C260,-,No,2450,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+265,NICOTINE/COTININE(URINE),5208317,C248,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+266,HISTONE ANTIBODY,5208316,S140,-,No,2850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+267,7-OH KETOSTEROIDS - 24Hrs. Urine,5208315,C214,-,No,5250,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,"(1) Discard the first urine passed in the morning. Note down the exact time. (2) From this time onwards collect all subsequent urine samples in the container provided. (3) Collection should be done till same time next day. (4) Return the urine sample container within 1 hour, the next day. (5) Do not discard the preservative in the container."
+268,SPECIAL STAINS,5208314,A057,-,No,850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+269,IHC : CD 56,5208313,H088,-,No,1750,0.00,1750,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+270,MYOGLOBIN - URINE,5208312,C139,-,No,1850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+271,HUMAN EPIDIDYMIS PROTEIN 4 (HE-4),5208311,C296,-,No,2850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,96:0,Not Verified,
+272,LEUCOCYTE COMMON ANTIGEN (LCA):CD 45,5208310,H087,-,No,1550,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+273,GLYCOPHORIN A,5208309,C641,-,No,2550,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+274,METHYL MALONIC ACID (MMA),5208308,C330,-,No,1950,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+275,FRUCTOSAMINE,5208307,C007,-,No,1250,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+276,GLIADIN ANTIBODY IGA,5208306,S098,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+277,ANA / ENA BLOT PROFILE - QUALITATIVE,5208305,S116,-,No,5000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Immunology,Biochemistry,Not enable,-,-,NO,8:0,Not Verified,
+278,MENINGOCOCCAL ANTIGEN,5208304,S173,-,No,2550,0.00,0,0.00,0.00,Radiology,SELF,Serum,Microbiology,Microbiology,Not enable,-,-,NO,24:0,Not Verified,
+279,METABOLIC SCREEN (COMPREHENSIVE) - URINE,5208303,H189,-,No,4850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+280,"FACTOR XI, FUNCTIONAL",5208302,H545,-,No,2850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+281,CK - MM,5208301,C331,-,No,8550,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+282,AML TRANSLOCATION PANEL,5208300,H186,-,No,4850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+283,"C1 ESTERASE INHIBITOR, SERUM BY NEPHELOMETRY",5208299,IH001,-,No,4150,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,96:0,Not Verified,
+284,DRUG OF ABUSE (QUALITATIVE)- 10 DRUGS,5208298,C500,-,No,4850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+285,FLUID ANALYSIS,5208297,C096,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,BODY FLUID,-,Cytology,Not enable,-,-,NO,-,Not Verified,
+286,DNA PLOIDY & S PHASE - SOLID TUMORS,5208296,A075,-,No,2850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+287,ASPERGILLUS IGE ANTIBODY,5208295,S200,-,No,2050.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Immunodiagnostics,Not enable,-,-,NO,48:0,Not Verified,8 hrs fasting is required.
+288,"NMO- ANTI-AQUAPORIN-4,IGG-CSF",5208294,S239,-,No,4550,0.00,0,0.00,0.00,Pathology,SELF,Serum,Immunology,Immunodiagnostics,Not enable,-,-,NO,72:0,Not Verified,
+289,INTERLUKIN-6 (IL-6),5208293,C1326,-,No,3450,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Immunodiagnostics,Not enable,-,-,NO,8:0,Not Verified,
+290,PNEUMOCYSTIS CARINII DETECTION Â†,5208292,M175,-,No,2850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+291,CYFRA 21.1 (LUNG CANCER) - CANCER MARKERS,5208291,C244,-,No,4550,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,72:0,Not Verified,
+292,CRYOGLOBULINS SCREENING(QUALITATIVE),5208290,C287,-,No,1650,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,72:0,Not Verified,
+293,PROGNOSTIC B - CLL MARKER : ZAP 70,5208289,H105,-,No,1550,0.00,0,0.00,0.00,Pathology,SELF,Serum,Clinical Pathology,Pathology,Not enable,-,-,NO,-,Not Verified,
+294,IHC - VIMENTIN,5208288,A047,-,No,1750,0.00,0,0.00,0.00,Pathology,SELF,Slides & Blocks,Histopathology,Histopathology,Not enable,-,-,NO,-,Not Verified,
+295,BUCCAL SMEAR FOR BARR BODIES (SEX CHROMATIN),5208287,A087,-,No,650,0.00,0,0.00,0.00,Pathology,SELF,Slides & Blocks,Histopathology,Histopathology,Not enable,-,-,NO,-,Not Verified,
+296,IHC - THYROID TRANSCRIPTION FACTOR,5208286,A042,-,No,1750,0.00,0,0.00,0.00,Pathology,SELF,Slides & Blocks,Histopathology,Histopathology,Not enable,-,-,NO,-,Not Verified,
+297,IHC - SYNAPTOPHYSIN,5208285,A055,-,No,1750,0.00,0,0.00,0.00,Pathology,SELF,Serum,Histopathology,Histopathology,Not enable,-,-,NO,-,Not Verified,
+298,IHC-CK-7,5208284,A039,-,No,1750,0.00,1750,0.00,0.00,Pathology,SELF,Serum,Histopathology,Histopathology,Not enable,-,-,NO,-,Not Verified,
+299,IHC -CK 20,5208283,A115,-,No,1750,0.00,0,0.00,0.00,Pathology,SELF,Serum,Histopathology,Histopathology,Not enable,-,-,NO,-,Not Verified,
+300,FREE LIGHT CHAIN ASSAY,5208282,C277,-,No,5850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+301,IHC-CD34,5208281,A114,-,No,1750,0.00,0,0.00,0.00,Pathology,SELF,Serum,Histopathology,Histopathology,Not enable,-,-,NO,-,Not Verified,
+302,HOMA -IR,5208280,C335,-,No,1150,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Immunology,Not enable,-,-,NO,8:0,Not Verified,
+303,"AFB SENSITIVITY, SINGLE DRUG :CLOFAZIMINE",5208279,M061,-,No,2650,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+304,SEMEN FRUCTOSE,5208278,C289,-,No,1050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Andrology,Not enable,-,-,NO,-,Not Verified,
+305,5-ALPHA DHT (DI -HYDRO TESTOSTERONE) - HORMONE,5208277,C217,-,No,3150,0.00,0,0.00,0.00,Pathology,SELF,Serum,Immunology,Immunology,Not enable,-,-,NO,72:0,Not Verified,Test Schedule : Tuesday & Friday Till 12:00 Noon. Report Same Day
+306,CHROMIUM - URINE,5208276,C067,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+307,ANTI SOLUBLE LIVER ANTIGEN (SLA),5208275,C284,-,No,1850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+308,ALCIAN BLUE STAIN,5208274,A060,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Immunology,Immunology,Not enable,-,-,NO,7:0,Not Verified,
+309,HIV AG & AB - 4TH GENERATION,5208273,S118,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Serology,Immunology,Not enable,-,-,NO,8:0,Not Verified,"Previous blood reports should be attached. Fasting not required.
+"
+310,CLONAL RESTRICTION / PRE B - CELL ALL PROGNOSTIC MARKER : CYTOPLASMIC IGM,5208272,H112,-,No,1550,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+311,PAN T - CELL / EARLY MYELOID CELL MARKER : CD 7,5208271,H072,-,No,1550,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+312,SELENIUM,5208270,C1247,-,No,3550,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+313,URINE DRUG SCREEN-CANNABINOIDS,5208269,C303,-,No,1150,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+314,IHC-CYCLIN-D,5208268,A032,-,No,1750,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+315,AMOEBIC SEROLOGY(LIVER ABSCESS),5208267,S242,-,No,1850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Elisa,Not enable,-,-,NO,72:0,Not Verified,Amoebiasis Antibodies
+316,POLARISING MICROSCOPIC(SYNOVIAL FLUID),5208266,H552,-,No,2250,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+317,U1-NRNP ANTIBODIES,5208265,S109,-,No,2450,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Elisa,Not enable,-,-,NO,-,Not Verified,
+318,GALACTOMANNAN(ASPERGILLUS ANTIGEN),5208264,S246,-,No,2550,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+319,ALLERGY CONTACTS,5208263,C1257,-,No,4850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+320,CHROMOGRANIN A,5208262,C309,-,No,6500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Immunology,Elisa,Not enable,-,-,NO,72:0,Not Verified,
+321,URINE DRUG SCREEN-HEROIN,5208261,C299,-,No,1150,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+322,IHC - S100,5208260,A049,-,No,1750,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+323,ASPERGILLUS IGM ANTIBODY,5208259,S119,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+324,ASPERGILLUS IGG ANTIBODY,5208258,S100,-,No,2050.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,96:0,Not Verified,
+325,IHC- P53,5208257,A064,-,No,1750,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+326,ANTI SACCHROMYSES CEREVISIAE IgG (ASCA- IgG),5208256,S201,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,168:0,Not Verified,
+327,ANTI SACCHROMYSES CEREVISIAE IgA (ASCA-IgA),5208255,S202,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,180:0,Not Verified,
+328,ARSENIC - URINE,5208254,C036,-,No,2850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+329,ARSENIC - BLOOD,5208253,C035,-,No,2850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+330,IHC - NEURON SPECIFIC ENOLASE,5208252,A048,-,No,1750,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+331,ANTI DNASE B,5208251,C1325,-,No,1450,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+332,AMINOLVULINIC ACID (ALA),5208250,C210,-,No,4050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+333,IHC-GLIAL FIBRILLARY ACIDIC PROTEIN (GFAP),5208249,A046,-,No,1750,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+334,RETICULIN STAIN,5208248,A057-D,-,No,850,0.00,0,0.00,0.00,Pathology,SELF,Whole blood,,Hematology,Not enable,-,-,NO,8:0,Not Verified,
+335,VITAMIN A (RATINOL),5208247,C644,-,No,4250,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+336,MYCOBACTERIUM COMPLEX - PCR URINE,5208246,P017,-,No,1800,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+337,IHC-DESMIN,5208245,A038,-,No,1750,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+338,UIBC--SERUM,5208244,C005,-,No,400,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+339,HIV-I DRUG RESISTANCE ASSAY (PI),5208243,P030,-,No,8500,0.00,0,0.00,0.00,Radiology,SELF,Serum,Molecular Assays,Molecular Biology,Not enable,-,-,NO,-,Not Verified,Previous blood reports should be attached. Fasting not required.
+340,HIV-I DRUG RESISTANCE ASSAY (RT),5208242,P029,-,No,15500,0.00,0,0.00,0.00,Radiology,SELF,Serum,Molecular Assays,Molecular Biology,Not enable,-,-,NO,-,Not Verified,Previous blood reports should be attached. Fasting not required.
+341,IHC-CYTOKERATIN 5/6,5208241,A037,-,No,1750,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+342,HAEMOCHROMATOSIS / HFE - (2 MUTATIONS),5208240,P083,-,No,5850,0.00,0,0.00,0.00,Radiology,SELF,Serum,Molecular Assays,Molecular Biology,Not enable,-,-,NO,-,Not Verified,
+343,CULTURE - AEROBIC ,5208239,M021,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Pus,-,Microbiology,Not enable,-,PUS C/S,NO,48:0,Not Verified,"Bacterial Infection Sterile Container
+"
+344,PARIETAL CELL ANTIBODY,5208238,S096,-,No,2850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,19:0,Not Verified,"Pernicious Anemia 2 ml Serum
+"
+345,ENTAMOEBA HISTOLYTICA DETECTION,5208237,H007,-,No,1050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+346,INSULIN (RANDOM) - HORMONE ASSAYS,5208236,C314,-,No,650.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Special Biochemistry,Not enable,-,-,NO,168:0,Not Verified,- 2 ml Serum
+347,BIOPSY-BONE- D,5208235,A008-D,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Histopathology,Not enable,-,-,NO,-,Not Verified,
+348,ANTI JO-1 ANTIBODY,5208234,S082,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,19:0,Not Verified,"Mention ANA findings 2 ml Serum
+"
+349,ACID FAST SUSPECTIBILITY - 10 DRUGS. (L-J),5208233,M004,-,No,4550,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,504:0,Not Verified,"Drug resistance monitoring MTB Pure culture
+"
+350,STOOL EXAMINATION FOR REDUCING SABSTANCES,5208232,H501,-,No,200,0.00,0,0.00,0.00,Pathology,SELF,Stool,-,Microbiology,Not enable,-,-,NO,6:0,Not Verified,
+351,CYTOMEGALOVIRUS DNA PCR QUANTITATIVE (VIRAL LOAD),5208231,P202,-,No,4850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+352,BETA 2 MICROGLOBULIN - Serum,5208230,C040,-,No,1650,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,48:0,Not Verified,Increased in malignant &amp; immunological disorders. 2 ml Serum
+353,URINE DRUG SCREEN-BARBITURATES,5208229,H503,-,No,1150,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,6:0,Not Verified," 10 ml Urine
+"
+354,IHC -ESTROGEN RECEPTOR / PROGESTERONE RECEPTOR (ER,5208228,A012,-,No,1750,0.00,0,0.00,0.00,Radiology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+355,ANTI NEUTROPHILIC CYTOPLASMIC ANTIBODY (ANCA) TITRE,5208227,S011,-,No,2850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Immunology/Serology,Not enable,-,-,NO,19:0,Not Verified,"Vasculitis 3 ml Serum
+"
+356,P-ANCA (MPO),5208226,S002,-,No,1400.0,0.00,0.0,0.00,0.00,Pathology,CRL DIAGNOSTICS,Serum,-,Pathology,Not enable,-,-,NO,19:0,Not Verified,Vasculitis 2 ml Serum
+357,URINE DRUG SCREEN -AMPHETAMINES,5208225,C226,-,No,1150,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,6:0,Not Verified," 10 ml Urine
+"
+358,SM/RNP ANTIBODY,5208224,S079,-,No,1550,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+359,RH ANTIBODY TITRE*,5208223,H051,-,No,950,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,72:0,Not Verified,- 2 ml Serum
+360,STAIN- INDIAN INK,5208222,M035,-,No,250,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,6:0,Not Verified,"For cryptococus infection 1 ml CSF
+"
+361,METHAMPHETAMINE,5208221,C229,-,No,850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+362,THYROXINE BINDING GLOBULIN,5208220,C213,-,No,5550,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,144:0,Not Verified,"- 2 ml Serum
+"
+363,UREA - URINE SPOT,5208219,C195,-,No,230,0.00,0,0.00,0.00,Pathology,SELF,Serum,Clinical Biochemistry,Special Biochemistry,Not enable,-,UREA URINE ,NO,6:0,Not Verified,"Mention 24 hrs. Urine volume 10 ml 24 H Urine
+"
+364,ABSOLUTE LYMPHOCYTE COUNT,5208218,H011,-,No,119,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,"Mention Age & Sex 2 ml EDTA Blood
+"
+365,MYCOBACTERIUM TUBERCULOSIS VIABLE PROKARYOTIC -mRNA PCR,5208217,P032,-,No,3250,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+366,CULTURE MISCELLANEOUS (AEROBIC),5208216,M018,-,No,1000,0.00,1000,0.00,0.00,Pathology,SELF,Swab,-,Microbiology,Not enable,-,-,NO,48:0,Not Verified,"Bacterial Infection Swab
+"
+367,SCRUB TYPHUS ANTIBODY,5208215,M178,-,No,1400,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,SERUM
+368,MARIJUANA,5208214,C221,-,No,650,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+369,CULTURE - SWAB (AEROBIC),5208213,M046,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Swab,-,Microbiology,Not enable,-,-,NO,48:0,Not Verified,"Bacterial Infection 10 ml CSF
+"
+370,ABSOLUTE NEUTROPHIL COUNT,5208212,H012,-,No,119,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Hematology,Not enable,-,-,NO,-,Not Verified,"Mention Age & Sex 2 ml EDTA Blood
+"
+371,MUMPS IGM ANTIBODY - INFECTIOUS DISEASES,5208211,S093,-,No,1850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,72:0,Not Verified,"Type not mentioned IgM taken 1 ml Serum
+"
+372,TISSUE TRANSGLUTAMINASE IGM ANTIBODY,5208210,S105,-,No,1250,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+373,MEASLES - PCR,5208209,P026,-,No,3850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Immunology/Serology,Not enable,-,-,NO,72:0,Not Verified,"Rubeola infection 1 ml Serum
+"
+374,MICROFILARIA RAPID CARD,5208208,S055,-,No,699.0,0.00,0.0,0.00,0.00,Pathology,SELF,EDTA WB,-,Hematology,Not enable,-,-,NO,-,Not Verified,
+375,PACKED CELL VOULME,5208207,H045,-,No,180,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,"Mention Age & Sex 2 ml EDTA Blood
+"
+376,PHENOBARBITAL (GARDINAL),5208206,C142,-,No,1050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,48:0,Not Verified,"Mention Time Of Drug Dose. (Non Serum Separator Tube) 2 ml Serum
+"
+377,BIOPSY-  LARGE SPECIMEN,5208205,A022,-,No,1499,0.00,0,0.00,0.00,Pathology,SELF,Tissue,-,Histopathology,Not enable,-,HPE LARGE,NO,-,Not Verified,
+378,AFB CULTURE (L-J) ,5208204,M190,-,No,1200,0.00,0,0.00,0.00,Pathology,SELF,Any Specimen,-,Microbiology,Not enable,-,AFB C/S,NO,-,Not Verified,Report 5 - 8 week
+379,ENDOMYSIAL ANTIBODY IGA IFA,5208203,S086,-,No,1650,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+380,BLOCKS/SLIDE FOR SECOND OPINION,5208202,A020,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+381,BIOPSY- SMALL SPECIMEN,5208201,A079,-,No,599,0.00,0,0.00,0.00,Radiology,SELF,Tissue,-,Histopathology,Not enable,-,HPE SMALL,NO,-,Not Verified,
+382,PHENYTOIN (DILANTIN/EPTOIN/EPSOLIN) - DRUG ASSAY,5208200,C143,-,No,950,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,67:0,Not Verified," 1 ml Serum
+"
+383,BIOPSY- MEDIUM SPECIMEN,5208199,A022-C,-,No,899,0.00,0,0.00,0.00,Radiology,SELF,Tissue,-,Histopathology,Not enable,-,HPE MEDIUM,NO,72:0,Not Verified,
+384,CULTURE - MISCELLANEOUS (AEROBIC),5208198,M019,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Any Specimen,-,Microbiology,Not enable,-,-,NO,-,Not Verified,
+385,HEPATITIS DELTA VIRUS - IgM (HDV IgM)ANTIBODY,5208197,S166,-,No,3050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,19:0,Not Verified,"Diagnosing Hepatitis E Infection 2 ml Serum
+"
+386,INFECTIOUS MONONUCLEOSIS (Heterophilic antibodies- Monospot test),5208196,S052,-,No,1550,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,72:0,Not Verified,"Same as infectious Mononuclesis (Monospot)(Hetirophile Ab)_test 1 ml serum
+"
+387,MYOGLOBIN-SERUM,5208195,C242,-,No,1850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,72:0,Not Verified,"measures skeletal muscle injury 10 ml Urine
+"
+388,HEV RNA QUANTITATIVE ASSSAY,5208194,P195,-,No,3850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,19:0,Not Verified,"Diagnosing Hepatitis E Infection 2 ml Serum
+"
+389,IMMUNOFIXATION ELECTROPHORESIS- SERUM,5208193,C112,-,No,6500,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,96:0,Not Verified,"Protein Electrophoresis, quantification of heavy & light chains, immunofixation characterization of M band 2 ml Serum
+"
+390,INSULIN LIKE GROWTH FACTOR BONDING PROTEIN (IGF-BP3),5208192,C285,-,No,3650,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,48:0,Not Verified,"Fasting Required 2 ml Serum
+"
+391,URINE DRUG SCREEN-OPIATES,5208191,C220,-,No,1150,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,6:0,Not Verified,"- 5 ml Urine
+"
+392,MAGNESIUM - 24 Hrs. Urine,5208190,C1303,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Clinical Biochemistry,Not enable,-,-,NO,6:0,Not Verified,"checking deficiency in bones 2 ml Serum
+"
+393,MERCURY- URINE,5208189,C133,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Clinical Biochemistry,Not enable,-,-,NO,144:0,Not Verified," 3 ml serum
+"
+394,SERUM LACTATE,5208188,C121,-,No,1050,0.00,0,0.00,0.00,Pathology,SELF,Serum,Clinical Biochemistry,Biochemistry,Not enable,-,-,NO,19:0,Not Verified,"Labile analyte. Separate early 2ml Fluoride Plasma
+"
+395,CULTURE - BLOOD (AEROBIC) AUTOMATED,5208187,M014,-,No,1500,0.00,0,0.00,0.00,Pathology,SELF,Whole Blood,-,Microbiology,Not enable,-,-,NO,96:0,Not Verified,"Bacterial Infection Sterile Container
+"
+396,CHIKUNGUNYA IGM ANTIBODY - INFECTIOUS DISEASES (RAPID),5208186,S247,-,No,800.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Immunology/Serology,Not enable,-,-,NO,-,Not Verified,Serum
+397,MANTOUX SKIN TEST,5208185,H002,-,No,99,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+398,HIV-DNA PCR - QUALITATIVE,5208184,P007,-,No,3050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,59:0,Not Verified,"HIV infection Detection 5 ml EDTA Plasma
+"
+399,"BILIRUBIN - TOTAL, DIRECT & INDIRECT",5208183,C047,-,No,250,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,BIL T,NO,-,Not Verified,
+400,ANTI TPO (THYROID PEROXIDASE) ANTIBODY*,5208182,AB032,-,No,1449.0,0.00,1449.0,0.00,0.00,Pathology,SELF,Serum,-,Special Biochemistry,Not enable,-,-,NO,-,Not Verified,Serum  1 ml
+401,GLOMERULAR BASEMENT MEMBRANE ANTIBODY IGG,5208181,S101,-,No,2250,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Clinical Biochemistry,Not enable,-,GFR,NO,-,Not Verified,
+402,LEAD - 24 Hrs. Urine,5208180,C127,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Clinical Biochemistry,Not enable,-,-,NO,48:0,Not Verified,"Detecting industrial,dietary & accidental exposure to lead 2 ml EDTA blood
+"
+403,CULTURE - THROAT SWAB (AEROBIC),5208179,M024,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Swab,-,Microbiology,Not enable,-,THCS,NO,54:0,Not Verified,"Bacterial Infection Sterile Container
+"
+404,INTRINSIC FACTOR IGG ANTIBODY,5208178,S107,-,No,2550,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,Serum 2 ml
+405,HUMAN PAPILOMA VIRUS (16&18) DNA BY REAL TIME PCR + LBC ,5208177,P036,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,96:0,Not Verified,"Screening cervical cancers Vaginal Swab in Transport Medium
+"
+406,HDV RNA QUANTITATIVE - VIRAL LOAD,5208176,P020,-,No,7000,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Molecular Biology,Not enable,-,-,NO,59:0,Not Verified,"HIV infection Detection 2 ml EDTA Plasma
+"
+407,CULTURE - VAGINAL SWAB (AEROBIC),5208175,M025,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Swab,-,Microbiology,Not enable,-,-,NO,54:0,Not Verified,"Bacterial Infection Sterile Container
+"
+408,CULTURE - SEMEN (AEROBIC),5208174,M022,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Semen,-,Microbiology,Not enable,-,SECS,NO,54:0,Not Verified,"Bacterial Infection Sterile Container
+"
+409,HAPTOGLOBIN,5208173,C109,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,48:0,Not Verified,"Inflammatory Diseases 2 ml Serum
+"
+410,IRON DEFICIENCY PROFILE,5208172,C1296,-,No,850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Clinical Biochemistry,Not enable,-,SIRON,NO,6:0,Not Verified,"Age, transfusion history required 2 ml Serum
+"
+411,ALLERGY - WITHOUT DURGS (FOOD+INHALANT+NON VEG),5208171,C223,-,No,6500,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,19:0,Not Verified,"Covers 16 inhalants 2 ml Serum
+"
+412,CULTURE - NASAL SWAB (AEROBIC),5208170,M020,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Swab,-,Microbiology,Not enable,-,-,NO,54:0,Not Verified,"Bacterial Infection Sterile Container
+"
+413,ACID FAST SUSPECTIBILITY - 5 DRUGS (L- J),5208169,M003,-,No,3250,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,504:0,Not Verified,"Includes Streptomycin, Isoniazid, Rifampicin, Ethambutol MTB Pure culture
+"
+414,ALCOHOL SCREEN,5208168,C014,-,No,1600.0,0.00,0.0,0.00,0.00,Pathology,SELF,-,-,Clinical Biochemistry,Not enable,-,-,NO,48:0,Not Verified,"Air Tight container, Creatinine urine will be done along 10ml of spot urine"
+415,AMYLASE - URINE,5208167,C1323,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Urine,-,Clinical Biochemistry,Not enable,-,AMY,NO,6:0,Not Verified,"Acute inflammation of pancreas 1 ml Fluid
+"
+416,ALUMINIUM,5208166,C025,-,No,2450,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,168:0,Not Verified,"For Detecting Aluminium Toxicity 2 ml serum
+"
+417,"DENGUE DUO RAPID CARD (NS1,IgG,IgM)",5208165,S114,-,No,700,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Immunology/Serology,Not enable,-,NS1 G M ,NO,6:0,Not Verified,"Detects Dengue 0 to 4 Days Symptom 1 ml Serum
+"
+418,ADENOSINE DEAMINASE - SERUM,5208164,C251,-,No,500,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Clinical Biochemistry,Not enable,-,-,NO,6:0,Not Verified,Diagnosing Tuberculosis 2 ml Serum
+419,AFB CULTURE (L-J)*,5208163,M006,-,No,1000,0.00,0,0.00,0.00,Pathology,SELF,Sputum,-,Microbiology,Not enable,-,-,NO,720:0,Not Verified,"To demonstrate TB bacilli Sample in Sterile Container
+"
+420,GLIADIN ANTIBODY IGG,5208162,S130,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,19:0,Not Verified,"Celiac disease 2 ml Serum
+"
+421,HEPATITIS B VIRUS - VIRAL LOAD (QUANTITATIVE),5208161,P001,-,No,5500,0.00,0,0.00,0.00,Pathology,SELF,EDTA Plasma,-,Molecular Biology,Not enable,-,-,NO,59:0,Not Verified,"Hepatitis B infection. 2 ml EDTA Plasma
+"
+422,5-HYDROXY INDOLE ACETIC ACID (5- HIAA),5208160,C188,-,No,3200,0.00,3200,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,168:0,Not Verified,"Carcinoid Syndrome.Do not consume bananas,pineapple,nuts 48 hours before collection. Mention Ct scan report,Usg and Medication history 10 ml 24 H Urine"
+423,"ENTAMOEBA HISTOLYTICA (AMEBIASIS), ANTIBODY, IGG",5208159,S089,-,No,1850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,96:0,Not Verified,"Amoebiasis 2 ml Serum
+"
+424,FLUID CELL COUNT,5208158,H058,-,No,249,0.00,0,0.00,0.00,Pathology,SELF,BODY FLUID,-,Cytology,Not enable,-,-,NO,-,Not Verified,"Clinical History Required 1 ml Ascitic Fluid
+"
+425,FACTOR V LEIDEN MUTATION - HAEMATOLOGY (COAGULATION),5208157,P031,-,No,6500,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,120:0,Not Verified,"- 3 ml Citrated Plasma
+"
+426,CORTISOL (MORNING),5208156,C074,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Special Biochemistry,Not enable,-,-,NO,6:0,Not Verified,"Time of collection, medication 2 ml Serum
+"
+427,DENGUE - RNA PCR - QUALITATIVE,5208155,P025,-,No,3850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Immunology/Serology,Not enable,-,-,NO,120:0,Not Verified,"Dengue hemorrhagic fever 2 ml EDTA Plasma
+"
+428,CHROMOSOME ANALYSIS - BONE MARROW,5208154,R002,-,No,3250,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,HEP,NO,504:0,Not Verified,"Clinical History Required 4 ml Na+Heparin Blood
+"
+429,MINERAL(CALCIUM),5208153,C1280,-,No,1000,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Clinical Biochemistry,Not enable,-,CAL,NO,6:0,Not Verified,"Bone Metabolism 2 ml Serum
+"
+430,CREATINE KINASE MB (CK-MB),5208152,C078,-,No,500,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,MB,NO,-,Not Verified,
+431,FACTOR-IX (Haemophilia B),5208151,H029,-,No,2450,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,96:0,Not Verified,"- 3 ml Citrated Plasma
+"
+432,"ECHINOCOCCUS ANTIBODY, IGG (HYDATID SEROLOGY)",5208150,S097,-,No,1850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,96:0,Not Verified,"Cystic hydatid disease. 2 ml Serum
+"
+433,OXALATE - 24 Hrs. Urine,5208149,C200,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,72:0,Not Verified,"Oxalic acid 10 ml 24H Urine
+"
+434,IHC- BETA HUMAN CHORIONIC GONADOTROPIN (BHCG),5208148,A044,-,No,1750,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Special Biochemistry,Not enable,-,-,NO,-,Not Verified,
+435,FLUID PROTEINS,5208147,C203,-,No,230,0.00,0,0.00,0.00,Pathology,SELF,BODY FLUID,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+436,"CHLAMYDIA, IgG ANTIBODY",5208146,S143,-,No,2070,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,168:0,Not Verified,"Type not specified IgM is selected 2 ml Serum
+"
+437,C3 COMPLEMENT COMPONENT*,5208145,C069,-,No,650,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Special Biochemistry,Not enable,-,-,NO,6:0,Not Verified,"SLE, Immune Complex disease. 1 ml Serum
+"
+438,ANTI CYSTICERCOSIS ANTIBODY (TAENIA SOLIUM)-IGG,5208144,S004,-,No,1500,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,120:0,Not Verified,"Cysticercosis 1 ml Serum
+"
+439,CIRCULATING IMMUNOCOMPLEX (CIC)- IgM,5208143,S081,-,No,2450,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,360:0,Not Verified,"Evaluation immune system 3 ml serum
+"
+440,HEMOSIDERIN - URINE,5208142,H006,-,No,650,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,72:0,Not Verified,"For Intravascular Hemolysis 10 ml Urine of LBC Container
+"
+441,CHLAMYDIA IGM ANTIBODIES,5208141,S141,-,No,2450,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,168:0,Not Verified,"Type not specified IgM is selected 2 ml Serum
+"
+442,LEISHMANIA ANTIBODY (KALAAZAR)/rk- 39 Antigen,5208140,C295,-,No,2500.0,0.00,2500.0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,168:0,Not Verified,Diagnosis of Kala Azar 1 ml Serum
+443,TISSUE TRANSGLUTAMINASE IGG ANTIBODY,5208139,S104,-,No,1250,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,19:0,Not Verified,"Celiac Disease & Dermatitis 2 ml Serum
+"
+444,RBC FOLATE,5208138,C160,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,67:0,Not Verified,"Anemia 2 ml EDTA Blood
+"
+445,IMMUNOGLOBULIN IgG,5208137,C115,-,No,550.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Special Biochemistry,Not enable,-,IgG,NO,6:0,Not Verified,"Age, Sex to be mentioned. 1 ml Serum"
+446,BRUCELLA IgG & IgM AGGLUTINATION TEST - INFECTIOUS DISEASES,5208136,S021,-,No,3250,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,19:0,Not Verified,"Brucellosis infection 2 ml Serum
+"
+447,CULTURE - EAR SWAB (AEROBIC),5208135,M017,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Swab,-,Microbiology,Not enable,-,-,NO,-,Not Verified,"Bacterial Infection Swab
+"
+448,ACETYLCHOLINE RECEPTOR (ACHR) ANTIBODIES (BINDING)*,5208134,C1279,-,No,4800,3250.00,0,3500.00,0.00,Pathology,SELF,Serum,-,Microbiology,Not enable,-,-,NO,48:0,Not Verified,"Mention ANA findings 2 ml Serum
+"
+449,CD3 ABSOLUTE COUNT,5208133,H019,-,No,1650,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,19:0,Not Verified,"HIV infection monitoring 3 ml WB- EDTA
+"
+450,URINE DRUG SCREEN-COCAINE,5208132,C222,-,No,1150,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,6:0,Not Verified,"- 5 ml Spot Urine
+"
+451,ORAL GLUCOSE TOLERANCE TEST (OGTT) 3 SAMPLE,5208131,C1299,-,No,150,0.00,0,0.00,0.00,Pathology,SELF,Fluoride Plasma,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+452,TACROLIMUS - DRUG ASSAY,5208130,C060,-,No,3600,0.00,0,0.00,0.00,Pathology,SELF,EDTA WB,-,Special Biochemistry,Not enable,-,-,NO,-,Not Verified,
+453,CENTROMERE ANTIBODY IGG,5208129,S102,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,19:0,Not Verified,"Mention ANA findings 9 ml Serum
+"
+454,TLC & DLC,5208128,H054,-,No,180,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Hematology,Not enable,-,-,NO,-,Not Verified,"Mention Age & Sex 2 ml EDTA Blood
+"
+455,TOTAL IgE,5208127,C176,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Special Biochemistry,Not enable,-,IgE,NO,6:0,Not Verified,Age and Sex to be mentioned. 1 ml Serum
+456,"BRUCELLA, DNA PCR - QUALITATIVE",5208126,P021,-,No,4050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+457,CHOLESTEROL/HDL RATIO,5208125,C247,-,No,330,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Clinical Biochemistry,Not enable,-,HDL,NO,6:0,Not Verified,"12-14-hrs fasting 2 ml Serum
+"
+458,TOXOPLASMA DNA PCR - QUALITATIVE,5208124,P022,-,No,3850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,-,Not Verified,
+459,URINE DRUG SCREEN - BENZODIAZEPINES,5208123,C201,-,No,1150,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Profiles,Not enable,-,-,NO,6:0,Not Verified," 10 ml Urine
+"
+460,BONE MARROW SMEAR MICROSCOPY EXAMINATION WITH PROCEDURE,5208122,H017P,-,No,1999,0.00,0,0.00,0.00,Radiology,SELF,Serum,Cytology,Hematology,Not enable,-,BONE MARROW,NO,-,Not Verified,
+461,ZINC- URINE,5208121,C184,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Clinical Biochemistry,Not enable,-,-,NO,96:0,Not Verified,"Monitor industrial, dietary accidental exposure to zinc 10 ml 24 H Urine
+"
+462,BIOPSY- LARGE SPECIMEN (> 5CM),5208120,A005,-,No,1499,0.00,0,0.00,0.00,Pathology,SELF,Tissue,-,Histopathology,Not enable,-,HPE EXTRA LARGE ,NO,96:0,Not Verified,
+463,BILIRUBIN - DIRECT,5208119,C238,-,No,100,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+464,CULTURE- AEROBIC,5207528,M009,-,No,600,0.00,700,0.00,0.00,Pathology,SELF,Any Specimen,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,
+465,CULTURE- STOOL ,5207527,M007,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Stool,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,
+466,CULTURE -SPUTUM ,5207526,M045,-,No,850,0.00,0,0.00,0.00,Pathology,SELF,Sputum,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,SPUTUM CONTAINER
+467,ALBERT STAIN (C.Diphtheriae),5207525,M039,-,No,250,0.00,0,0.00,0.00,Radiology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,Sample : Throat Swab in transport medium / sterile container.
+468,Pap Smear (Cervical & Vaginal Cytology),5207524,A003,-,No,800,0.00,0,0.00,0.00,Radiology,SELF,-,Cytology,Cytology,Not enable,-,-,NO,-,Not Verified,
+469,CULTURE - BLOOD  (BD BACTEC),5207523,M042,-,No,1500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,
+470,CULTURE URINE ,5207522,M044,-,No,600,0.00,400,0.00,0.00,Pathology,SELF,Urine,Outsource,Microbiology,Not enable,-,URINE  C/S,NO,-,Not Verified,URINE SAMPLE (STERILE CONTAINER)
+471,CULTURE - BODY FLUIDS (AEROBIC),5207521,M015,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,BODY FLUID,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,
+472,FACTOR X,5207520,H192,-,No,6500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Anaemia Markers,Pathology,Not enable,RATIO123,-,NO,3:30,Not Verified,
+473,"THYROID PROFILE : T3, T4 & TSH",5207519,TFT,-,No,450,0.00,0,0.00,0.00,Pathology,SELF,Serum,Immunology,Immunology,Not enable,-,TFT,NO,-,Not Verified,
+474,Thyroglobulin,5207518,C167,-,No,1650.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+475,THYROXINE TOTAL (T4),5207517,C170,-,No,300,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Immunology,Not enable,-,-,NO,-,Not Verified,"2 ml of Serum (Serum)
+Method : CLIA
+Instrument : Centaur"
+476,TRIODOTHYRONINE TOTAL (T3),5207516,C174,-,No,300,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,2 ml of Serum (Serum)
+477,SYNOVIAL FLUID FOR CRYSTALS,5207515,H009,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Synovial Fluid,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+478,STOOL FOR OCCULT BLOOD,5207514,H004,-,No,149,0.00,0,0.00,0.00,Pathology,SELF,Stool,Clinical Pathology,Microbiology,Not enable,-,-,NO,-,Not Verified,
+479,SODIUM - 24 Hrs. Urine,5207513,C163,-,No,230,0.00,0,0.00,0.00,Pathology,SELF,Serum,E,Pathology,Not enable,-,-,NO,-,Not Verified,
+480,SICKLING TEST,5207512,H052,-,No,350,0.00,0,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,Sickling Test
+481,SGOT/AST ,5207511,C037,-,No,100,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,SGOT,NO,-,Not Verified,
+482,TESTOSTERONE FREE - HORMONE ASSAYS,5207510,C165,-,No,1150,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Immunology,Not enable,-,-,NO,-,Not Verified,
+483,TESTOSTERONE TOTAL,5207509,C166,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Immunology,Not enable,-,-,NO,-,Not Verified,
+484,SCRUB TYPHUS IgM ANTIBODY,5207508,M067,-,No,1400,0.00,0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+485,RETICULOCYTE INDEX,5207507,H034,-,No,180,0.00,0,0.00,0.00,Pathology,SELF,Whole blood,Routine (Pathology),Hematology,Not enable,-,-,NO,-,Not Verified,
+486,TROPONIN - T RAPID CARD,5207506,C209,-,No,1650,0.00,1650,0.00,0.00,Pathology,SELF,EDTA WB,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+487,INTACT PARATHYROID HORMONE (IPTH)*,5207505,C114,-,No,1800,0.00,0,0.00,0.00,Pathology,SELF,EDTA Plasma,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+488,PROTHROMBIN TIME & INR,5207504,H049,-,No,450,0.00,450,0.00,0.00,Pathology,SELF,Plasma,Routine (Pathology),Biochemistry,Not enable,-,-,NO,-,Not Verified,
+489,PROTEIN TOTAL,5207503,C157,-,No,99,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+490,Urine Protein -Quantitative,5207502,C207,-,No,230,0.00,0,0.00,0.00,Pathology,SELF,Urine,Special (Pathology),Clinical Biochemistry,Not enable,-,-,NO,-,Not Verified,"2 ml of Serum (Serum)<br />
+Method : CLIA<br />
+Instrument : Centaur"
+491,PROLACTIN(PRL),5207501,C150,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Immunology,Not enable,-,-,NO,-,Not Verified,
+492,PROGESTERONE,5207500,C149,-,No,650,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Immunology,Not enable,-,-,NO,-,Not Verified,
+493,POTASSIUM,5207499,C146,-,No,399,0.00,0,0.00,0.00,Pathology,SELF,Serum,E,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+494,PLEURAL FLUID ANALYSIS,5207498,C093,-,No,600,0.00,600,0.00,0.00,Pathology,SELF,Fluid,Special (Pathology),Cytology,Not enable,-,-,NO,-,Not Verified,
+495,PLATELET COUNT,5207497,H046,-,No,100,0.00,0,0.00,0.00,Pathology,SELF,EDTA WB,Routine (Pathology),Haematology,Not enable,-,-,NO,-,Not Verified,
+496,PHOSPHORUS,5207496,C144,-,No,350,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+497,TUBERCULOSIS - GAMMA INTERFERON - QUANTIFERON,5207495,S112,-,No,2250,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+498,UREA / CREATININE RATIO,5207494,C237,-,No,350,0.00,0,0.00,0.00,Pathology,SELF,Serum,Clinical Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+499,MALARIAL PARASITE(QBC),5207493,H551,-,No,850,0.00,0,0.00,0.00,Pathology,SELF,EDTA WB,Routine (Pathology),Hematology,Not enable,-,-,NO,-,Not Verified,
+500,MAGNESIUM,5207492,C132,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+501,LH (LEUTINIZING HORMONE),5207491,C131,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Immunology,Not enable,-,-,NO,-,Not Verified,
+502,LUPUS ANTICOAGULANT*,5207490,H546,-,No,2050.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,Lupus ( Metro )
+503,LIPOPROTEIN A(LP-A),5207489,C129,-,No,950,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+504,LIPASE,5207488,C128,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+505,CHOLESTEROL-LDL/ HDL RATIO,5207487,C246,-,No,350,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,Plain Tube
+506,Lactate Dehydrogenase ( Ldh ),5207486,C124,-,No,586,0.00,600,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+507,CALCIUM IONIZED,5207485,C190,-,No,550,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,PLAIN TUBE (RANDOM SAMPLE)
+508,INSULIN - POST PRANDIAL(PP)*,5207484,C219,-,No,650,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Special Biochemistry,Not enable,-,-,NO,-,Not Verified,
+509,CRP QUANTITATIVE ,5207483,C077,-,No,550,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,CRP,NO,-,Not Verified,
+510,HIV 1 WESTERN BLOT,5207482,S049,-,No,2850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+511,HIV P24 ANTIGEN,5207481,C313,-,No,1450,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+512,HERPES SIMPLEX VIRUS- DNA PCR ,5207480,P024,-,No,4000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+513,HERPES SIMPLEX VIRUS 2 IgM,5207479,S048,-,No,550,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Immunology,Not enable,-,-,NO,-,Not Verified,
+514,HEPATITIS E VIRUS - IGM (HEV IGM),5207478,S042,-,No,1600,0.00,1600,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+515,HEPATITIS B ENVELOPE ANTIBODY (Anti HBe),5207477,S034,-,No,850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+516,CHROMIUM,5207476,C066,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+517,HANGING DROP FOR V.CHOLERAE,5207475,M040,-,No,250,0.00,0,0.00,0.00,Radiology,SELF,Serum,Clinical Pathology,Pathology,Not enable,-,-,NO,-,Not Verified,For <em>Vibrio cholerae .?</em>
+518,HEMOGLOBIN (HB),5207474,H033,-,No,100,0.00,0,0.00,0.00,Pathology,SELF,EDTA WB,Haematology,Hematology,Not enable,-,-,NO,-,Not Verified,
+519,HELICOBACTER PYLORI ANTIGEN,5207473,S244,-,No,1550,0.00,0,0.00,0.00,Radiology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+520,GROWTH HORMONE (GH),5207472,C108,-,No,1000,650.00,1000,700.00,700.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+521,GRAMS STAIN,5207471,M029,-,No,300,0.00,0,0.00,0.00,Radiology,SELF,-,Routine (Pathology),Microbiology,Not enable,-,-,NO,-,Not Verified,Cerebrospinal fluid (CSF) and Eye samples will be processed and reported within 2 Hours after reaching the Laboratory. 
+522,HBA1C,5207470,C107,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,EDTA WB,A,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+523,GAMMA GLUTAMYL TRANSFERASE (GGT),5207469,C099,-,No,299.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,0:0,Not Verified,
+524,GLUCOSE 6 PHOSPHATE DEHYDROGENASE (G6PD QUANTITATIVE),5207468,C106,-,No,1200,0.00,1200,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Biochemistry,Not enable,-,-,NO,-,Not Verified,
+525,LH/FSH RATIO,5207467,C1286,-,No,900,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Immunology,Not enable,-,-,NO,-,Not Verified,
+526,THYROID PROFILE FREE,5207466,FTFT,-,No,700,0.00,0,0.00,0.00,Pathology,SELF,Serum,Immunology,Immunology,Not enable,-,FTFT,NO,-,Not Verified,
+527,THYROXINE FREE (FT4),5207465,C169,-,No,350,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Immunology,Not enable,-,-,NO,-,Not Verified,PLAIN TUBE
+528,TRIODOTHYRONINE FREE (FT3),5207464,C173,-,No,350,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Immunology,Not enable,-,-,NO,-,Not Verified,
+529,FREE PSA/TOTAL PSA RATIO,5207463,C240,-,No,1550,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Immunology,Not enable,-,-,NO,-,Not Verified,
+530,FOLIC ACID,5207462,C097,-,No,850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+531,FERRITIN,5207461,C091,-,No,499,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Immunology,Not enable,-,-,NO,-,Not Verified,
+532,ESTRADIOL (E2),5207460,C089,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Immunology,Not enable,-,-,NO,-,Not Verified,
+533,ERYTHROCYTE SEDIMENTATION RATE (ESR),5207459,H028,-,No,200,0.00,0,0.00,0.00,Pathology,SELF,EDTA WB,Haematology,Hematology,Not enable,-,-,NO,-,Not Verified,ESR TUBE
+534,"ELECTROLYTE PROFILE : POTASSIUM,CHLORIDE,SODIUM",5207458,ELECTROLYTECEP,-,No,500,0.00,0,0.00,0.00,Pathology,SELF,Serum,E,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+535,DEHYDROEPIANDROSTERONE SULPHATE(DHEA-S),5207457,C086,-,No,1050,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+536,D DIMER,5207456,C084,-,No,1500,0.00,1500,0.00,0.00,Pathology,SELF,Plasma,Serology,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+537,CYSTATIN C,5207455,C243,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+538,URINE FOR CHYLURIA,5207454,C197,-,No,600.0,0.00,0.0,0.00,0.00,Pathology,SELF,Urine,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+539,CREATININE,5207453,C079,-,No,100,0.00,100,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,CREAT,NO,-,Not Verified,
+540,CREATININE KINASE (CPK)*,5207452,C082,-,No,599,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,CPK,NO,-,Not Verified,
+541,CORTISOL URINARY 24 HOURS,5207451,C194,-,No,900,0.00,900,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+542,COOMB S TEST INDIRECT,5207450,H025,-,No,699,0.00,0,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Hematology,Not enable,-,-,NO,-,Not Verified,
+543,COOMB S TEST DIRECT,5207449,H024,-,No,599,0.00,0,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Hematology,Not enable,-,-,NO,-,Not Verified,
+544,"CYTOMEGALOVIRUS, IGM ANTIBODY",5207448,S029,-,No,550,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+545,"CYTOMEGALOVIRUS, IGG ANTIBODY",5207447,S028,-,No,550,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+546,CHLORIDE - URINE,5207446,C061,-,No,399,0.00,0,0.00,0.00,Pathology,SELF,Serum,E,Pathology,Not enable,-,-,NO,-,Not Verified,
+547,CHIKUNGUNIYA - PCR - QUALITATIVE,5207445,P201,-,No,3850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+548,CERULOPLASMIN,5207444,C058,-,No,1200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+549,ANTI CCP (ANTI CYCLIC CITRULLINATED PEPTIDE)*,5207443,AB003,-,No,1300,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+550,IHC- CARCINOEMBRYONIC ANTIGEN (CEA),5207442,A065,-,No,1750,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+551,CALCIUM,5207441,C054,-,No,119,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,PLAIN TUBE (RANDOM SAMPLE)
+552,CADMIUM,5207440,C052,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+553,"BREAST CARCINOMA PROGNOSIS PROFILE :
+(IHC-HER-2/NEU,IHC - ER/PR)",5207439,P24,-,No,5050,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+554,CA125,5207438,C049,-,No,1200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+555,C4 COMPLEMENT COMPONENT,5207437,C070,-,No,650,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+556,CD - 57,5207436,H196,-,No,1550,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+557,HIGH SENSITIVE CRP (HSCRP),5207435,C110,-,No,650,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,HSCRP,NO,-,Not Verified,
+558,C-PEPTIDE,5207434,C076,-,No,1250,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+559,-,5207433,C1237,-,No,200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+560,BLOOD GROUP (ABO & Rh TYPING),5207432,H015,-,No,100,0.00,0,0.00,0.00,Pathology,SELF,EDTA WB,Routine (Pathology),Hematology,Not enable,-,-,NO,-,Not Verified,
+561,BLOOD GLUCOSE POST LUNCH - URINE,5207431,C187,-,No,60,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry 1,Clinical Pathology,Not enable,-,-,NO,-,Not Verified,
+562,RBS,5207430,RBS,-,No,60,0.00,50,0.00,0.00,Pathology,SELF,Fluoride Plasma,Biochemistry 1,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+563,FBS,5207429,FBS,-,No,60,0.00,50,0.00,0.00,Pathology,SELF,Fluoride Plasma,Biochemistry 1,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+564,BILIRUBIN -TOTAL,5207428,C046,-,No,100,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+565,BETA-HCG - TOTAL QUANTITATIVE (RANDOM URINE),5207427,C042,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+566,BETA 2 MICROGLOBULIN - URINE,5207426,C640,-,No,1550,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+567,ALLERGY DRUGS- 31 DRUGS,5207425,C290,-,No,4850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+568,ACTIVATED PARTIAL THROMBOPLASTIN TIME(APTT/PTTK),5207424,H010,-,No,500,0.00,0,0.00,0.00,Pathology,SELF,Plasma,Routine (Pathology),Clinical Biochemistry,Not enable,-,-,NO,-,Not Verified,
+569,APOLIPOPROTEIN B (APO-B),5207423,C034,-,No,700,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+570,APOLIPOPROTEIN A1 (APO-A1),5207422,C033,-,No,700,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+571,MEASLES ANTIBODY IGM,5207421,S091,-,No,1650,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+572,TIBC (TOTAL IRON BINDING CAPACITY),5207420,C239,-,No,250,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+573,ANTI THYROGLOBULIN (ATG),5207419,AB031,-,No,1450,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+574,STREPTOCOCCUS GROUP B ANTIGEN,5207418,S142,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+575,ANTI CARDIOLIPIN ANTIBODY IgM,5207417,S026,-,No,750,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+576,ANTI CARDIOLIPIN ANTIBODY IgG*,5207416,S025,-,No,750,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+577,AMYLASE,5207414,C027,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+578,AMMONIA,5207413,C026,-,No,1200,0.00,0,0.00,0.00,Pathology,SELF,EDTA Plasma,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+579,ALPHA FETO PROTEIN (AFP)* ,5207412,C023,-,No,1050,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+580,IHC - PLACENTAL ALKALINE PHOSPHATASE (PLAP),5207411,A043,-,No,1750,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+581,ALBUMIN,5207410,C012,-,No,99,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,Plain Tube (Random Sample)
+582,ACID PHOSPHATASE - TOTAL,5207409,C003,-,No,400,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+583,ANGIOTENSIN CONVERTING ENZYME (ACE)*,5207408,C030,-,No,950,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,ACE ( Angiotensin Converting Enzyme)
+584,ABSOLUTE EOSINOPHIL COUNT,5207407,H056,-,No,300,0.00,300,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Hematology,Not enable,-,-,NO,-,Not Verified,
+585,CHOLESTROL - URINE,5207406,C1259,-,No,300,0.00,300,0.00,0.00,Pathology,SELF,Serum,Pathology,Pathology,Not enable,-,-,NO,-,Not Verified,
+586,FACTOR-VIII (Haemophilia A),5207405,H030,-,No,2450,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+587,FACTOR XIII,5207404,H041,-,No,2450,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+588,THROMBOTIC PROFILE,5207403,C1248,-,No,12500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+589,ALDOLASE,5207402,C016,-,No,850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+590,HbsAg (Australian Antigen) - Qualitative,5207401,S236,-,No,300,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Immunology/Serology,Not enable,-,-,NO,-,Not Verified,
+591,BICARBONATE,5207400,C044,-,No,850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+592,COPPER - 24Hrs Urine,5207399,C072,-,No,1450,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+593,RUBELLA VIRUS IgM,5207398,S062,-,No,550,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+594,ANTI MITOCHONDRIAL ANTIBODY - IFA*,5207397,S009,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+595,GASTRIN,5207396,C225,-,No,2250,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+596,PHOSPHORUS 24 Hrs. Urine,5207395,C196,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+597,"URINARY ELECTROLYTES (Na,K & Cl)",5207394,C1313,-,No,950,0.00,0,0.00,0.00,Pathology,SELF,Serum,E,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+598,DENGUE IgG & IgM ANTIBODY,5207393,S030,-,No,1200.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,Serology,Immunology/Serology,Not enable,-,-,NO,-,Not Verified,
+599,URINE DRUG SCREEN - PHENCYCLIDINE,5207392,C227,-,No,1150,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+600,"HEPATITIS C VIRUS-VIRAL LOAD, QUANTITATIVE*",5207391,P004,-,No,5500,0.00,5500,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+601,PAPP-A (PREGNANCY ASSOCIATED PARA PROTEIN-A),5207390,C205,-,No,1850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+602,FREE BETA HCG,5207389,C1287,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+603,FUNGAL CULTURE,5207388,M027,-,No,850,0.00,0,0.00,0.00,Pathology,SELF,Any Specimen,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,
+604,PAS STAIN,5207387,A057-H,-,No,399,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Cytology,Not enable,-,-,NO,-,Not Verified,
+605,SHBG (SEX HORMONE BINDING GLOBULIN) - HORMONE ASSAY,5207386,C161,-,No,2550,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+606,LIQUID BASED CYTOLOGY,5207385,A076,-,No,1200,0.00,0,0.00,0.00,Radiology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+607,CRYPTOCOCCUS ANTIGEN,5207384,S027,-,No,2100,0.00,2100,0.00,0.00,Pathology,SELF,Serum,Outsource,Immunology/Serology,Not enable,-,-,NO,-,Not Verified,
+608,URINE FOR FAT GLOBULES,5207383,H008,-,No,200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Clinical Pathology,Pathology,Not enable,-,-,NO,-,Not Verified,
+609,LIVER-KIDNEY MICROSOME (LKM) - 1 ANTIBODY,5207382,S083,-,No,1650.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+610,SCL-70 ANTIBODY,5207381,S080,-,No,1850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+611,URIC ACID-URINE 24 Hrs. Urine,5207380,C199,-,No,230,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+612,CALCIUM URINE SPOT,5207379,C1314,-,No,150,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+613,DRUG OF ABUSE (QUALITATIVE)- 6 DRUGS,5207378,C218,-,No,1800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+614,DENGUE NS1(Qualitative),5207377,S229,-,No,850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+615,HERPES SIMPLEX VIRUS 2 IgG,5207376,S047,-,No,550,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Immunology,Not enable,-,-,NO,-,Not Verified,
+616,HIV-RNA PCR - QUALITATIVE,5207375,P006,-,No,2850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+617,EGFR (ESTIMATED GLOMERULAR FILTRATION RATE),5207374,C208,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+618,ANTI SPERM ANTIBODY - AUTO - IMMUNE TEST MENU,5207373,S020,-,No,1050,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+619,STONE ANALYSIS,5207372,C164,-,No,1500,0.00,1500,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+620,FUNGAL STAIN,5207371,M036,-,No,250,0.00,0,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+621,ALDOSTERONE (SERUM)- HORMONE ASSAYS,5207370,C017,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+622,URINE PROTEIN - 24Hrs. Urine,5207369,C153,-,No,230,0.00,0,0.00,0.00,Pathology,SELF,Urine,Routine (Pathology),Clinical Biochemistry,Not enable,-,-,NO,-,Not Verified,
+623,PARVOVIRUS B19 IGM ANTIBODIES - INFECTIOUS DISEASE,5207368,S133,-,No,3550,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+624,MEASLES ANTIBODY IgG,5207367,S090,-,No,1650,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+625,POTASSIUM - URINE,5207366,C1293,-,No,399,0.00,0,0.00,0.00,Pathology,SELF,Serum,E,Pathology,Not enable,-,-,NO,-,Not Verified,
+626,IHC - KI 67-MARKER,5207365,A059,-,No,1750,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+627,ACETONE,5207364,C643,-,No,750,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+628,TPMT ENZYME ACTIVITY,5207363,C280,-,No,5050.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+629,EPSTEIN BARR VIRUS IGG (VIRAL CAPSID AG) - INFECTION,5207362,S094,-,No,2250,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+630,IRON STUDIES (FOR ANEMIA PROFILE),5207361,C1310,-,No,2450,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+631,ADH (ANTIDIURETIC HORMONE) - HORMONE ASSAYS,5207360,C272,-,No,5850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+632,SPOT PROTEIN/CREATININE RATIO,5207359,C258,-,No,250,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+633,TOTAL LEUKOCYTE COUNT (TLC),5207358,H059,-,No,180,0.00,0,0.00,0.00,Pathology,SELF,EDTA WB,Routine (Pathology),Hematology,Not enable,-,-,NO,-,Not Verified,
+634,17 - ALPHA OH PROGESTERONE - HORMONE ASSAYS,5207357,C001,-,No,1550,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+635,PROCALCITONIN-PCT,5207356,C231,-,No,2800,0.00,2800,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+636,ISLET CELL ANTIBODY,5207355,C318,-,No,2850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+637,INHIBIN B,5207354,S139,-,No,2850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+638,HLA - DR4 (DRB1*04),5207353,H190,-,No,6500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+639,URIC ACID URINE SPOT,5207352,C1305,-,No,230,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,2ml Serum to be collected in Plain Tube.
+640,HELICOBACTER PYLORI IGM ANTIBODY,5207351,S073,-,No,1850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+641,RHEUMATOID FACTOR IGM ANTIBODY,5207350,S057,-,No,950,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+642,EPSTEIN BAR VIRUS(EBV) DNA QUALITATIVE TEST BY REAL TIME PCR,5207349,P199,-,No,3850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+643,EPSTEIN BARR VIRUS IGM ANTIBODY,5207348,S095,-,No,2250,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+644,IHC - CHROMOGRANIN,5207347,A054,-,No,1750,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+645,CULTURE - CERVICAL SWAB (AEROBIC),5207346,M012,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Swab,Special (Pathology),Microbiology,Not enable,-,-,NO,-,Not Verified,
+646,URINE DRUG SCREEN-MORPHINE,5207345,C271,-,No,1150,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+647,VLDL -VERY LOW DENSITY LIPOPROTEIN,5207344,C235,-,No,350,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+648,VITAMIN B6  (PYRIDOXINE),5207343,C317,-,No,4250,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Immunology,Not enable,-,-,NO,-,Not Verified,
+649,HEPATITIS B SURFACE ANTIGEN(Australian Antigen) - HBsAg,5207342,S037,-,No,300,0.00,199,0.00,0.00,Pathology,SELF,Serum,Outsource,Immunology/Serology,Not enable,-,-,NO,-,Not Verified,
+650,Cytology for malignant cell,5207341,M028,-,No,700,0.00,0,0.00,0.00,Pathology,SELF,Any Specimen,Cytology,Pathology,Not enable,-,-,NO,-,Not Verified,
+651,PLASMA RENIN,5207340,C212,-,No,5050,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+652,ROTA VIRUS ANTIGEN,5207339,S060,-,No,850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+653,LEPTOSPIRA IgG ANTIBODY - INFECTIOUS DISEASES,5207338,S053,-,No,1600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+654,SLIT SKIN SMEAR FOR LEPROSY,5207337,M177,-,No,250,0.00,0,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Microbiology,Not enable,-,-,NO,-,Not Verified,
+655,LE CELLS,5207336,H036,-,No,350,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+656,INSULIN - FASTING,5207335,C117,-,No,650,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Biochemistry,Not enable,-,-,NO,-,Not Verified,
+657,GLUCOSE CHALLENGE TEST (GCT),5207334,C257,-,No,100,0.00,0,0.00,0.00,Pathology,SELF,Fluoride Plasma,Biochemistry 1,Biochemistry,Not enable,-,GCT,NO,-,Not Verified,
+658,GLOBULIN,5207333,C100,-,No,180,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+659,MYCOBACTERIUM TUBERCULOSIS - GENE EXPERT,5207332,P040,-,No,2750,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+660,FNAC (FINE NEEDLE ASPIRATION) - CYTOLOGY,5207331,CY001,-,No,599,0.00,0,0.00,0.00,Pathology,SELF,BODY FLUID,Cytology,Cytology,Not enable,-,FNAC,NO,-,Not Verified,
+661,FIBRINOGEN DEGRADATION PRODUCT (FDP)*,5207330,H031,-,No,2000,0.00,2000,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+662,"DENGUE PROFILE ELISA :DENGUE NS1 ANTIGEN,DENGUE IgG & IgM ANTIBODY*",5207329,P531,-,No,3000,0.00,3000,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+663,CHROMOSOME ANALYSIS BY AMNOTIC FLUID,5207328,R197,-,No,3250,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+664,UREA - SERUM ,5207327,C177,-,No,100,0.00,0,0.00,0.00,Pathology,SELF,Serum,Clinical Biochemistry,Biochemistry,Not enable,-,UREA,NO,-,Not Verified,
+665,THALASSEMIA BETA GLOBIN GENE SEQUENCING,5207326,P088,-,No,15500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+666,ANTI PHOSPHOLIPID ANTIBODY IgA*,5207325,S161,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+667,DENGUE IgG,5207324,S128,-,No,1200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+668,ANTI SS-B ANTIBODY,5207323,S076,-,No,1650.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+669,ANDROSTENEDIONE (A4) - HORMONE ASSAYS,5207322,C029,-,No,2250,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+670,ANTI NEUTROPHILIC CYTOPLASMIC ANTIBODY (ANCA)-IFA,5207321,S010,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+671,"PROTEIN TOTAL WITH ALBUMIN, GLOBULIN",5207320,C158,-,No,198,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+672,IHC1,5207319,A118,-,No,1750,0.00,0,0.00,0.00,Radiology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+673,ZINC-Plasma,5207318,C183,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+674,VARICELLA ZOSTER VIRUS IGM (CHICKEN POX) - INFECTION,5207317,S078,-,No,1650,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+675,PORPHOBILILNOGEN - URINE,5207316,C211,-,No,3550,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+676,ZINC -Serum,5207315,C185,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+677,LITHIUM (LI),5207314,C130,-,No,350,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+678,IMMUNOGLOBULIN G4 (IgG4),5207313,C1242,-,No,5250,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+679,HIV I & II Antibody Elisa,5207312,S123,-,No,650,0.00,0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+680,GLUTAMIC ACID DECORBYLASE (GAD- 65),5207311,C261,-,No,7800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+681,RUBELLA VIRUS IgG,5207310,S061,-,No,550,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+682,SGPT/ALT ,5207309,C011,-,No,100,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,SGPT,NO,-,Not Verified,
+683,OSMOLALITY - URINE,5207308,C141,-,No,850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+684,24 HOUR URINE PROTEIN CREATININE RATIO*,5207307,C1294,-,No,600,0.00,600,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+685,"ESTRIOL, UNCONJUGATED (E3)",5207306,C090,-,No,1250,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+686,TROPONIN -I ,5207305,C175,-,No,1700,0.00,0,0.00,0.00,Pathology,SELF,EDTA WB,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+687,TISSUE TRANSGLUTAMINASE ANTIBODY IGA (TTG IgA),5207304,S103,-,No,1250,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+688,PRO-BETA NATRIURETIC PEPTIDE (BNP),5207303,C008,-,No,2850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+689,PYRUVATE/PYUVIC ACID,5207302,C1291,-,No,3500,0.00,3500,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+690,CYTOLOGY For Malignant cells -Body Fluid,5207301,A001,-,No,550,0.00,0,0.00,0.00,Pathology,SELF,Fluid,Cytology,Pathology,Not enable,-,-,NO,-,Not Verified,
+691,OSMOLALITY-SERUM,5207300,C140,-,No,850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+692,OSMOTIC FRAGILITY TEST,5207299,H044,-,No,1050,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+693,P/S FOR MICROFLARIA,5207298,H555,-,No,250,0.00,0,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+694,DENGUE IgM,5207297,S127,-,No,1200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+695,IMMUNOHISTOCHEMISTRY HER2NEU,5207296,A117,-,No,1750,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+696,IMMUNOGLOBULIN IgM,5207295,C116,-,No,550,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+697,ORAL GLUCOSE TOLERANCE TEST (OGTT)5 SAMPLE,5207294,C1300,-,No,250,0.00,0,0.00,0.00,Pathology,SELF,Fluoride Plasma,Biochemistry 1,Pathology,Not enable,-,GTT5,NO,-,Not Verified,
+698,IMMUNOGLOBULIN A (IgA),5207293,C113,-,No,550.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+699,HLA B-27 - PCR*,5207292,P034,-,No,3050.0,0.00,0.0,0.00,0.00,Pathology,SELF,EDTA WB,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+700,"TRUE DIABETESE TESTING- GLUCOSE FASTING,GLUCOSE PP,HBA1C",5207291,P643,-,No,449,0.00,0,0.00,0.00,File Report,SELF,Serum,-,Special Biochemistry,Not enable,-,-,NO,-,Not Verified,
+701,HIV - QUANTITATIVE (VIRAL LOAD),5207290,P005,-,No,3850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Immunology/Serology,Not enable,-,-,NO,-,Not Verified,
+702,HEPATITIS E VIRUS -  (HEV IGM),5207289,S041,-,No,1600,0.00,1600,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+703,Hepatitis C Antibody Elisa,5207288,S039,-,No,850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+704,Hepatitis B Envelope Antigen (HBeAg),5207287,S035,-,No,850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+705,HEPATITIS CORE ANTIBODY IgM (Anti HBc-IgM)*,5207286,S040,-,No,1000,0.00,1000,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+706,OLIGOCLONAL BANDS CSF ELECTROPHORESIS BASED TEST,5207285,C230,-,No,4850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+707,HELICOBACTER PYLORI IGA ANTIBODY,5207284,S136,-,No,1850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+708,BILE ACIDS - TOTAL,5207283,C006,-,No,2450,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+709,HEPATITIS B SURFACE ANTIBODY TOTAL(Anti Hbs),5207282,S036,-,No,850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+710,FIBRINOGEN,5207281,H032,-,No,1250,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+711,HEPATITIS A VIRUS (HAV IgG),5207280,S033,-,No,950,0.00,0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+712,ERYTHROPOIETIN (EPO),5207279,C088,-,No,1950,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+713,DIGOXIN Level,5207278,C087,-,No,950,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+714,RUBELLA IgG AVIDITY,5207277,S249,-,No,1050,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+715,MUMPS- PCR,5207276,P027,-,No,3850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+716,COPPER - SERUM,5207275,C071,-,No,1450,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+717,VITAMIN E (TOCOPHEROL),5207274,C215,-,No,5050,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+718,VITAMIN C (ASCORBIC ACID),5207273,C307,-,No,4250,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Immunology,Not enable,-,-,NO,-,Not Verified,
+719,ANTI DS- DNA ANTIBODY - TITRE,5207272,S005,-,No,2450,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+720,ANTI-MUSCLE SPECIFIC KINASE ANTIBODY(MUSK Ab)-MYASTHENIA GRAVIS,5207271,C1260,-,No,7500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+721,KOH PREPARATION FOR FUNGAL ELEMENTS ,5207270,M032,-,No,500,0.00,500,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+722,RESULT FOR JAK2 (V617F) MUTATION,5207269,P194,-,No,5850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+723,BLOOD (PNH) MARKER : CD 59,5207268,H103,-,No,1550,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+724,ANTI CARDIOLIPIN ANTIBODY IgA,5207267,S024,-,No,750,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+725,CATECHOLAMINES - PLASMA,5207266,C310,-,No,4850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+726,ANTI NUCLEAR ANTIBODY-(ANA)* IFA,5207265,S013,-,No,2000,0.00,2000,540.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+727,ALLERGY- WITHOUT NON VEG (FOOD+INHALANT),5207264,C1239,-,No,6500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+728,MILK ALLERGY,5207263,C645,-,No,5000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+729,METHYLENE TETRAHYDROFOLATE REDUCTASE (MTHFR),5207262,P093,-,No,6850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+730,BUCCAL SMEAR FOR CYTOLOGY,5207261,A107,-,No,450,0.00,0,0.00,0.00,Radiology,SELF,Serum,Histopathology,Pathology,Not enable,-,-,NO,-,Not Verified,
+731,CA 72.4 (GASTRIC CANCER) - CANCER MARKERS,5207260,C138,-,No,2550,0.00,0,0.00,0.00,Radiology,SELF,Serum,Histopathology,Pathology,Not enable,-,-,NO,-,Not Verified,
+732,SPUTUM FOR AFB STAIN,5207259,A057-C,-,No,300,0.00,0,0.00,0.00,Pathology,SELF,Sputum,Routine (Pathology),Microbiology,Not enable,-,-,NO,-,Not Verified,
+733,RISK OF OVARIAN MALIGNANCY ALOGRITHM (ROMA),5207258,C297,-,No,4650,0.00,0,0.00,0.00,Radiology,SELF,Serum,Histopathology,Pathology,Not enable,-,-,NO,-,Not Verified,
+734,UREA - 24Hrs. Urine,5207257,C1304,-,No,230,0.00,0,0.00,0.00,Pathology,SELF,Serum,Clinical Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+735,HEPATITIS A VIRUS (HAV IgM)*,5207256,S032,-,No,1200,0.00,1200,0.00,0.00,Pathology,SELF,Serum,Serology,Immunology/Serology,Not enable,-,-,NO,54:0,Not Verified,
+736,ANTI SS-A ANTIBODY,5207255,S075,-,No,1650.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+737,CULTURE -URINE,5207254,M038,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Urine,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,URINE SAMPLE (STERILE CONTAINER)
+738,IRON PROFILE*,5207252,C1297,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+739,PROTEIN C-FUNCTIONAL,5207251,H047,-,No,3450,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+740,PROTEIN S-FUNCTIONAL,5207250,H048,-,No,3450,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+741,HLA B-27,5207249,H035,-,No,1850,0.00,0,0.00,0.00,Pathology,SELF,EDTA WB,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+742,Homocysteine,5207248,C111,-,No,950,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,EDTA TUBE
+743,HAEMOGRAM (CBC+ESR+PS),5207247,H554,-,No,500,0.00,0,0.00,0.00,Pathology,SELF,EDTA WB,Haematology,Hematology,Not enable,-,-,NO,-,Not Verified,
+744,LEUCOCYTE ALKALINE PHOSPHATASE(LAP) SCORE,5207246,C1238,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+745,ANTI PHOSPHOLIPID ANTIBODY IgG*,5207245,S015,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,PLAIN TUBE (RANDOM)
+746,ANTI PHOSPHOLIPID ANTIBODY IGM*,5207244,S016,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,PLAIN TUBE (RANDOM SAMPLE)
+747,CHOLINESTERASE,5207243,C065,-,No,650,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+748,CD4 ABSOLUTE COUNT(CD4),5207242,H548,-,No,1500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+749,CARBAMAZEPINE (TEGRETOL/MAZETOL/CARBATOL),5207241,C056,-,No,950,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+750,CALCITONIN,5207240,C083,-,No,2250,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+751,BCR-ABL QUALITATIVE,5207239,P035,-,No,4850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+752,BRUCELLA IGM ANTIBODIES - INFECTIOUS DISEASES,5207238,S023,-,No,1850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+753,BRUCELLA IGG ANTIBODIES - INFECTIOUS DISEASES,5207237,S022,-,No,1850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+754,PERITONEAL/ASCITIC FLUID ANALYSIS,5207236,C094,-,No,600,0.00,500,0.00,0.00,Pathology,SELF,Fluid,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+755,ANTI DS DNA ANTIBODY,5207235,S007,-,No,1850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,PLAIN TUBE
+756,BETA 2 GLYCOPROTEIN-1 ANTIBODY IGM*,5207234,C283,-,No,1650.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+757,BETA 2 GLYCOPROTEIN-1 ANTIBODY IGG*,5207233,C282,-,No,1650,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+758,ANTI NEUTROPHILIC CYTOPLASMIC ANTIBODY (ANCA) - C,5207232,S001,-,No,1400.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+759,FSH (FOLLICLE STIMULATING HORMONE),5207231,C098,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Immunology,Not enable,-,-,NO,-,Not Verified,
+760,FLUORESCENT TREPONEMAL ANTIBODY ABSORPTION (FTA-AB),5207230,S106,-,No,3450,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+761,ACTH (ADRENOCORTICOTROPIC HORMONE)*,5207229,C010,-,No,2050,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+762,ADENOSINE DEAMINASE- FLUID,5207228,C250,-,No,500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+763,PROSTATIC ACID PHOSPHATASE (PAP),5207227,C002,-,No,850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+764,VMA - 24Hrs. Urine,5207226,C181,-,No,4500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+765,WIDAL (TUBE AGGLUTINATION),5207225,S071,-,No,230,0.00,0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,Widal Test - Tube Method
+766,ALPHA HYDROXY BUTYRATE DEHYDROGENASE (HBDH)- LDH -1,5207224,C234,-,No,850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,Vitamin D3 ( Metro )
+767,"1, 25-Di HYDROXY CHOLECALCIFEROL
+(Vitamin D3)",5207223,C224,-,No,3250,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Immunology,Not enable,-,-,NO,-,Not Verified,
+768,VDRL  (SEROLOGY FOR SYPHILIS),5207221,S131,-,No,100,0.00,150,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+769,SODIUM SPOT URINE,5207220,C1292,-,No,399,0.00,0,0.00,0.00,Pathology,SELF,Serum,E,Pathology,Not enable,-,-,NO,-,Not Verified,
+770,URINE EXAMINATION ROUTINE,5207219,H001,-,No,70,0.00,0,0.00,0.00,Pathology,SELF,Urine,Clinical Pathology,Clinical Pathology,Not enable,-,URINE R/M,NO,-,Not Verified,
+771,PREGNANCY TEST - URINE,5207218,C148,-,No,100,0.00,0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+772,MICROALBUMIN  CREATININE RATIO SPOT URINE,5207217,C249,-,No,550,0.00,0,0.00,0.00,Pathology,SELF,Urine,Biochemistry,Clinical Biochemistry,Not enable,-,ACR,NO,-,Not Verified,
+773,KETONE,5207216,H198,-,No,150,0.00,0,0.00,0.00,Pathology,SELF,Serum,Clinical Pathology,Pathology,Not enable,-,-,NO,-,Not Verified,
+774,BENCE JONES PROTEIN - URINE,5207215,C039,-,No,550,0.00,0,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+775,SEMEN ANALYSIS,5207214,H005,-,No,450,0.00,440,0.00,0.00,Pathology,SELF,Serum,Clinical Pathology,Pathology,Not enable,-,-,NO,-,Not Verified,
+776,TRIGLYCERIDES - Serum,5207213,C172,-,No,230,0.00,230,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,PLAIN SAMPLE (FASTING SAMPLE)
+777,VITAMIN D 25-HYDROXY,5207212,C189,-,No,1350,0.00,1350,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Immunology,Not enable,-,-,NO,-,Not Verified,
+778,TPHA (TREPONEMA PALLIDUM HAEMAGGIUTINATION)*,5207211,S065,-,No,750,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+779,TOXOPLASMA GONDII IgM,5207210,S063,-,No,550,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+780,TOXOPLASMA IgG AVIDITY,5207209,C1244,-,No,1050,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+781,17 - ALPHA OH PROGESTERONE - HORMONE ASSAYS,5207208,C001,-,No,1550,0.00,1550,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+782,Culture & Sensitivity - Pus,5163286,Culture Sensitivity Pus,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Pus,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,
+783,Culture Sensitivity-Stool,5163285,Culture sensitivity-stool,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Stool,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,
+784,Culture Sensitivity-PUS,5163281,Culture sensitivity-sputum,-,No,600,0.00,600,0.00,0.00,Pathology,SELF,Sputum,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,STERILE CONTAINER
+785,Culture Sensitivity-Blood,5163280,Culture sensitivity-blood,-,No,1200,0.00,0,0.00,0.00,Pathology,SELF,Whole Blood,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,
+786,URINE CULTURE,5163279,Culture sensitivity-urine,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Urine,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,URINE SAMPLE (STERILE CONTAINER)
+787, MICROALBUMIN  RANDOM URINE MAU,5163278, MICROALBUMIN  RANDOM URINE MAU,-,No,550,0.00,0,0.00,0.00,Pathology,SELF,Urine,Biochemistry,Clinical Biochemistry,Not enable,-,-,NO,-,Not Verified,SPOT URINE SAMPLE
+788,Culture Sensitivity-Body Fluid,5163277,Culture sensitivity-body fluid body fluid,-,No,700,0.00,0,0.00,0.00,Pathology,SELF,Fluid,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,
+789,Culture And Sensitivity- Semen,5163274,,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Semen,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,
+790,"TORCH  PROFILE   (IgG , IgM) 10 PARA*",5163272,TORCH II [ 10 PARA ],-,No,2000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Immunology,Not enable,-,-,NO,-,Not Verified,
+791,"TORCH  PROFILE   (IgG , IgM) 8 PARA*",5163271,TORCH I [ 8 PARA ],-,No,1800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Immunology,Not enable,-,-,NO,-,Not Verified,
+792,Thyroglobulin (Tg),5163269,Thyroglobulin (Tg),-,No,1650,0.00,1650,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+793,T4 ( Thyroxine),5163268,T4 ( THYROXINE),-,No,180,0.00,180,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Immunology,Not enable,-,-,NO,-,Not Verified,"2 ml of Serum (Serum)
+Method : CLIA
+Instrument : Centaur"
+794,T3 ( Tri-Iodothyronine ),5163267,T3 ( TRI-IODOTHYRONINE ),-,No,180,0.00,180,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Immunology,Not enable,-,-,NO,-,Not Verified,2 ml of Serum (Serum)
+795,Synovial Fluid Examination,5163266,SYNOVIAL FLUID EXAMINATION,-,No,600,0.00,600,0.00,0.00,Pathology,SELF,Serum,Cytology,Pathology,Not enable,-,-,NO,-,Not Verified,
+796,Stool For Occult Blood,5163265,,-,No,200,0.00,0,0.00,0.00,Pathology,SELF,Stool,Clinical Pathology,Microbiology,Not enable,-,-,NO,-,Not Verified,
+797,Stool Routine & Microscopic Examination,5163264,STOOL ANALYSIS REPORT,-,No,100,0.00,100,0.00,0.00,Pathology,SELF,Stool,Clinical Pathology,Microbiology,Not enable,-,-,NO,-,Not Verified,
+798,Sodium ( Na ),5163263,Sodium ( Na ),-,No,399,0.00,0,0.00,0.00,Pathology,SELF,Serum,E,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+799,Sickling Test,5163262,SICKLING TEST,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,Sickling Test
+800,Sgpt ,5163261,SGPT ,-,No,100,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+801,Sgot ,5163260,,-,No,100,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+802,Free Testosteron,5163259,Free Testosteron,-,No,1150,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+803,Testosteron (Total),5163258,Testosteron (Total),-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+804,TYPHIDOT IgG & IgM RAPID CARD,5163257,Salmonella typhi IgM (Card Test),-,No,450,0.00,400,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+805,Gamma-Glutamyl Transferase (GGT),5163256,Gamma-Glutamyl Transferase (GGT),-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+806,Reticulocyte Count,5163255,RETICULOYTE COUNT,-,No,300,0.00,300,0.00,0.00,Pathology,SELF,Whole blood,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+807, Troponin T ,5163254,REPORT OF CARDIAC MARKERS ( TROPONIN T ),-,No,1600,0.00,1650,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+808,Renal Function Test (Max),5163253,RENAL FUNCTION TEST (MAX),-,No,700,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,Biochemistry Test Report for Profile RFT Maxi - RFT I
+809,Renal Function Test (Mini),5163252,RENAL FUNCTION TEST (MINI),-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,Biochemistry Test Report for Profile RFT Mini - RFT II
+810,TUBERCULOSIS - GAMMA INTERFERON - QUANTIFERON*,5163251,QuantiFERON-TB Gold ( QFT ) ,-,No,2250,0.00,2250,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,TB Gold ( Metro )
+811,"Quadruple Marker Maternal Screen, Serum*",5163250,QUADRAPLE TEST,-,No,3250,0.00,3250,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+812,PARATHYROID HORMONE (PTH)*,5163249,PTH (PARATHYROID HORMONE),-,No,1800,0.00,1800,0.00,0.00,Pathology,SELF,EDTA Plasma,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+813,PROTHROMBIN TIME & INR*,5163248,PT CEP,-,No,500,0.00,249,0.00,0.00,Pathology,SELF,Plasma,Routine (Pathology),Pathology,Not enable,-,PT CEP,NO,-,Not Verified,
+814,"Protein with Albumin, Globulin ratio",5163247,PROTEINS ( Serum ),-,No,200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+815,Prostate Specific Antigen ( PSA TOTAL  )*,5163246,PROSTATE SPECIFIC ANTIGEN ( PSA ),-,No,700,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,"2 ml of Serum (Serum)<br />
+Method : CLIA<br />
+Instrument : CL900i"
+816,Prolactin ( Prl ),5163245,,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+817,PROGESTERONE,5163244,PROGESTERONE,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+818,Potassium,5163243,POTASSIUM,-,No,400,0.00,0,0.00,0.00,Pathology,SELF,Serum,E,Pathology,Not enable,-,-,NO,-,Not Verified,
+819,Pleural Fluid Examination,5163242,PLEURAL FLUID EXAMINATION,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Cytology,Pathology,Not enable,-,-,NO,-,Not Verified,
+820,Platelet Count,5163241,PLATELET COUNT,-,No,150,0.00,0,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+821,Phosphorus,5163240,PHOSPHORUS,-,No,350,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+822,MYCOBACTERIUM TUBERCULOSIS DNA PCR - QUALITATIVE*,5163239,PCR TUBERCULOSIS ( TB - PCR ),-,No,2000.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+823,Microalbuminuria,5163238,Microalbuminuria,-,No,550,0.00,0,0.00,0.00,Pathology,SELF,Urine,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+824,Microalbumin /Creatinine Ratio- Urine,5163237,Microalbumin /Creatinine Ratio-Spot Urine,-,No,550,0.00,0,0.00,0.00,Pathology,SELF,Urine,Biochemistry,Clinical Biochemistry,Not enable,-,-,NO,-,Not Verified,
+825,Malarial Parasite (MP),5163236,MALARIAL PARASITE,-,No,100,0.00,0,0.00,0.00,Pathology,SELF,EDTA WB,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+826,Magnesium - Serum,5163235,MAGNESIUM - SERUM,-,No,1200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+827,Luteinizing Hormone ( Lh ),5163234,LUTEINIZING HORMONE ( LH ),-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Immunology,Not enable,-,-,NO,-,Not Verified,
+828,Lupus Anticoagulant ( La ),5163233,LUPUS ANTICOAGULANT ( LA ),-,No,2200.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,Lupus ( Metro )
+829,Liver Function Test ( Lft ),5163232,P66M,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,LFT,NO,-,Not Verified,
+830,Lipoprotein- A (Lp -A),5163231,Lipoprotein- a (LP -a),-,No,1200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+831,Lipid Profile,5163230,LIPID PROFILE,-,No,600,0.00,399,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+832,Lipase,5163229,LIPASE,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+833,Leptospira Antibody Igm,5163228,LEPTOSPIRA ANTIBODY IgM,-,No,1500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+834,Ldl Cholesterol,5163227,LDL CHOLESTEROL,-,No,500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,Plain Tube
+835,Lactate Dehydrogenase ( Ldh ),5163226,Lactate Dehydrogenase ( Ldh ),-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+836,Ionic Calcium,5163225,IONIC CALCIUM,-,No,400.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,PLAIN TUBE (RANDOM SAMPLE)
+837,Insulin Level,5163224,INSULIN LEVEL ,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+838,Total IgE*,5163223,IGE LEVEL,-,No,850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+839,HLA B-27*,5163222,HLA - B 27 By Flow cytometry method,-,No,2000,0.00,0,0.00,0.00,Pathology,SELF,EDTA WB,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+840,Hiv Western Blot Assay(Hiv 1 & 2),5163221,HIV WESTERN BLOT ASSAY(HIV 1 & 2),-,No,1600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+841,Hiv P24 Antigen,5163220,HIV p24 Antigen,-,No,1500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+842,Semen Wash Analysis,5163219,SEMEN WASH ANALYSIS,-,No,1000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Clinical Pathology,Pathology,Not enable,-,-,NO,-,Not Verified,
+843,Herpes Simplex Virus (Hsv ) 1 & 2 Igg & Igm,5163218,Herpes Simplex Virus [ HSV ] IgG & IgM,-,No,2100,0.00,2100,0.00,0.00,Pathology,SELF,Serum,Outsource,Immunology,Not enable,-,-,NO,-,Not Verified,
+844,Herpes Simplex Virus 1 & 2 Igm [ Hsv ],5163217,Herpes Simplex Virus 1 & 2 IgM,-,No,1600,0.00,1600,0.00,0.00,Pathology,SELF,Serum,Outsource,Immunology,Not enable,-,-,NO,-,Not Verified,
+845,Hepatitis E Virus - Igm ( Hev Igm ),5163216,HEPATITIS E VIRUS - IgM ( HEV IgM ),-,No,1600.0,0.00,1600.0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+846,Hepatitis B Envelope Antigen (HBeAg) ,5163215,HEPATITIS B VIRUS ENVELOPE ANTIGEN ( HBeAg ),-,No,1000,0.00,1000,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+847,Hepatitis A Virus - Igm ( Hav - Igm ),5163214,HEPATITIS A VIRUS - IgM ( HAV - IgM ),-,No,2000.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+848,Hematocrit ( Pcv ),5163213,HEMATOCRIT ( PCV ),-,No,120,0.00,0,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+849,Hdl Cholesterol,5163212,HDL Cholesterol,-,No,400,0.00,0,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Biochemistry,Not enable,-,-,NO,-,Not Verified,
+850,Hanging Drop Preparation,5163211,Hanging Drop Preparation,-,No,1500,0.00,0,0.00,0.00,Radiology,SELF,Serum,Clinical Pathology,Pathology,Not enable,-,-,NO,-,Not Verified,For <em>Vibrio cholerae .?</em>
+851,Haemoglobin,5163210,HB CEP,-,No,100,0.00,0,0.00,0.00,Pathology,SELF,EDTA WB,Biochemistry,Hematology,Not enable,-,HB CEP,NO,-,Not Verified,
+852,H.Pylori Antigen,5163209,H.Pylori Antigen,-,No,1200,0.00,0,0.00,0.00,Radiology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+853,Growth Hormone ( Gh ),5163208,GROWTH HORMONE ( GH ),-,No,1200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+854,Glycosylated Haemoglobin ( Ghb / Hba1C ),5163207,GLYCOSYLATED HAEMOGLOBIN ( GHB / HBA1c ),-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,A,Pathology,Not enable,-,-,NO,-,Not Verified,
+855,Modified Glucose Tolerance Test,5163206,MODIFIED GLUCOSE TOLERANCE TEST,-,No,400,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry 1,Pathology,Not enable,-,-,NO,-,Not Verified,
+856,Gamma Glutamyl Transferase ( Ggtp ),5163205,,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+857,"G-6-PD, QUANTITATIVE, BLOOD",5163204,G6PD (Glucose 6 Phosphate Dehydrogenase) Quantitative,-,No,1200,0.00,1200,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+858,G6PD (Glucose 6 Phosphate Dehydrogenase) Quantitative,5163203,G6PD (Glucose 6 Phosphate Dehydrogenase) Qualitative,-,No,1200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+859,Fsh / Lh / Prl,5163202,C099,-,No,1500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+860,FREE THYROID PROFILE*,5163201,FREE THYROID PANEL,-,No,700,0.00,599,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Immunology,Not enable,-,FTFT,NO,-,Not Verified,
+861,Free T4 (Thyroxine - Free),5163200,FREE T4 (THYROXINE - FREE),-,No,200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,PLAIN TUBE
+862,Free T3 ( Tri-Iodothyronine - Free ),5163199,FREE T3 ( TRI-IODOTHYRONINE - FREE ),-,No,200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+863,Free Prostate Specific Antigen (Free Psa ),5163198,Free PROSTATE SPECIFIC ANTIGEN (Free PSA ),-,No,850,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+864,Follicle Stimulating Hormone ( Fsh ),5163197,,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+865,Folic Acid,5163196,FOLIC ACID,-,No,950,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+866,FERRITIN,5163195,Ferritin,-,No,600.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+867,Estradiol ( E2 ),5163194,ESTRADIOL ( E2 ),-,No,600,0.00,600,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+868,ERYTHROCYTE SEDIMENTATION RATE (ESR),5163193,ESR CEP,-,No,200,0.00,0,0.00,0.00,Pathology,SELF,EDTA WB,Haematology,Hematology,Not enable,-,ESR CEP,NO,-,Not Verified,ESR TUBE
+869,Electrolytes,5163192,ELECTROLYTES,-,No,500,0.00,0,0.00,0.00,Pathology,SELF,Serum,E,Pathology,Not enable,-,-,NO,-,Not Verified,
+870,Dhea - Sulphate ( Dhea-S ),5163190,DHEA - SULPHATE ( DHEA-S ),-,No,1500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+871,D - Dimer,5163189,D - Dimer,-,No,2000,0.00,0,0.00,0.00,Pathology,SELF,Plasma,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+872,Cystatin C,5163188,Cystatin C,-,No,1200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+873,Creatinine Clearance ( 24 Hrs Urine ),5163187,CREATININE CLEARANCE ( 24 HRS URINE ),-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+874,Creatinine,5163186,CREATININE CEP,-,No,100,0.00,100,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+875,CK-MB*,5163185,CPK - MB,-,No,700,0.00,700,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+876,Creatine Phosphokinase (CPK),5163184,CPK (CK NAC),-,No,400,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+877,"Cortisol, Serum",5163183,CORTISOL,-,No,800.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+878,Coombs Test-Indirect,5163182,COO1,-,No,700,0.00,0,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+879,Coombs Test-Direct,5163181,COO2,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+880,Cmv (Cytomegalo Virus) - Igm,5163180,CMV (CYTOMEGALO VIRUS) - IGM,-,No,1000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+881,Cmv (Cytomegalo Virus) - Igg,5163179,CMV (CYTOMEGALO VIRUS) - IgG,-,No,1000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+882,Chloride(Cl),5163178,Chloride(Cl),-,No,400,0.00,0,0.00,0.00,Pathology,SELF,Serum,E,Pathology,Not enable,-,-,NO,-,Not Verified,
+883,CHIKUNGUNYA IGM ANTIBODY - INFECTIOUS DISEASES (RAPID),5163177,S113,-,No,2000.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+884,Ceruloplasmin ,5163176,CERULOPLASMIN ,-,No,1200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+885,Cerebrospinal Fluid Examination ( CSF),5163175,CY10,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Cytology,Cytology,Not enable,-,-,NO,-,Not Verified,
+886,Ccp - Cyclic Citrullinated Peptide Antibody,5163174,CCP - CYCLIC CITRULLINATED PEPTIDE ANTIBODY,-,No,1500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+887,Carcino Embryonic Antigen ( Cea )*,5163173,CARCINO EMBRYONIC ANTIGEN ( CEA ),-,No,900,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+888,CALCIUM*,5163172,CALCIUM CEP,-,No,200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,PLAIN TUBE (RANDOM SAMPLE)
+889,Ca 19.9 ( Pancreatic Cancer Marker )*,5163171,CA 19.9 ( PANCREATIC CANCER MARKER ),-,No,1500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+890,Ca 15.3 ( Breast Cancer Marker ),5163170,CA 15.3 ( BREAST CANCER MARKER ),-,No,1500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+891,CA 125 Level ,5163169,CA - 125,-,No,1200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+892,C4 Complement Component,5163168,C4,-,No,1200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+893,C3 COMPLEMENT COMPONENT*,5163167,C3 ,-,No,650,0.00,650,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+894,Hs Crp (High Sensitive C Reactive Protein),5163166,hs CRP (High Sensitive C Reactive Protein),-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+895,C - Peptide,5163165,C PEPTIDE,-,No,1000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+896,Blood Urea Nitrogen ( Bun ),5163164,BLOOD UREA NITROGEN ( BUN ),-,No,200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Clinical Biochemistry,Biochemistry,Not enable,-,BUN,NO,-,Not Verified,
+897,BLOOD GROUP (ABO & Rh TYPING),5163163,BLOOD GROUP CEP,-,No,100,0.00,0,0.00,0.00,Pathology,SELF,EDTA WB,Routine (Pathology),Hematology,Not enable,-,BLOOD GROUP CEP,NO,-,Not Verified,
+898,PPBS,5163162,Blood Glucose PP ( PPBS),-,No,60,0.00,49.0,0.00,0.00,Pathology,SELF,Fluoride-P,Biochemistry 1,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+899,RBS,5163161,RBS CEP,-,No,60,0.00,0,0.00,0.00,Pathology,SELF,Fluoride Plasma,Biochemistry 1,Biochemistry,Not enable,-,RBS,NO,-,Not Verified,
+900,FBS,5163160,BLOOD GLUCOSE LEVEL ( FASTING ),-,No,60,0.00,0,0.00,0.00,Pathology,SELF,Fluoride Plasma,Biochemistry 1,Biochemistry,Not enable,-,FBS,NO,-,Not Verified,
+901,Bleeding Time ( Bt ) & Clotting Time ( Ct ),5163159,BLEEDING TIME ( BT ) & CLOTTING TIME ( CT ),-,No,100,0.00,0,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Hematology,Not enable,-,-,NO,-,Not Verified,
+902,Bilirubin,5163158,,-,No,100,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+903,BETA HCG-SERUM,5163157,BC101,-,No,500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Immunology,Not enable,-,-,NO,-,Not Verified,
+904,Beta 2 Microglobulin,5163156,BETA 2 MICROGLOBULIN,-,No,1700,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+905,ALLERGY COMPREHENSIVE PANEL(FOOD+INHALANT+NON VEG +DRUG),5163155,ALLERGY COMPREHENSIVE PANEL,-,No,8500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special Biochemistry,Profiles,Not enable,-,-,NO,-,Not Verified,
+906,Immunoglubulin Igg Level,5163154,Immunoglubulin IgG level,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+907,Apolipoprotein,5163153,APOLIPOPROTEIN,-,No,1400,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+908,Apolipoprotein B,5163152,APOLIPOPROTEIN B,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+909,Apolipoprotein A1,5163151,APOLIPOPROTEIN A1,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+910,Anti Thyroglobulin Antibody (Atg),5163149,Anti Thyroglobulin Antibody (ATG),-,No,1600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+911,Anti Streptolysin O (ASO )*,5163148,ANTI STREPTOLISIN O ( ASO ),-,No,200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Immunology/Serology,Not enable,-,-,NO,-,Not Verified,
+912,Anti Cardiolipin Antibody - Igm*,5163147,ANTI CARDIOLIPIN ANTIBODY - IgM,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+913,Anti Cardiolipin Antibody - Igg*,5163146,ANTI CARDIOLIPIN ANTIBODY - IgG,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+914,Anti Mullerian Hormone ( Amh )*,5163145,ANTI MULLERIAN HORMONE ( AMH ),-,No,1950,0.00,1800,0.00,0.00,Pathology,SELF,Serum,Immunology,Immunology,Not enable,-,AMH,NO,-,Not Verified,
+915,ANTI NUCLEAR ANTIBODY-(ANA)* IFA,5163144,ANA BY IFA,-,No,2000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+916,Amylase Fluid,5163143,AMYLASE FLUID,-,No,600,0.00,600,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+917,Ammonia,5163142,AMMONIA,-,No,1200,0.00,0,0.00,0.00,Pathology,SELF,EDTA Plasma,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+918,Alpha Feto Protein (AFP)-Ascitic Fluid,5163141,ALPHA FETOPROTEIN ( AFP ),-,No,1400,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+919,Alkaline Phosphatase  ,5163140,ALKALINE PHOSPHATASE  ,-,No,200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+920,Measles Igm Antibody,5163138,Measles IgM Antibody,-,No,1700,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+921,Albumin,5163137,Albumin,-,No,200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,Plain Tube (Random Sample)
+922,Acid Phosphatase Total,5163136,ACID PHOSPHATASE TOTAL,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+923,Ace (Angiotensin Converting Enzyme)*,5163135,ACE (ANGIOTENSIN CONVERTING ENZYME) ,-,No,950,0.00,950,650.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,ACE ( Angiotensi Converting Enzyme)
+924,Uric Acid - SERUM,5163134,URIC ACID,-,No,100,0.00,99,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,UA,NO,-,Not Verified,2ml Serum to be collected in Plain Tube.
+925,24 Hrs Urinary Protein,5163133,24 HRS URINARY PROTEIN,-,No,400,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+926,Urine 24 Hr Copper,5163132,Urine 24 hr Copper,-,No,1600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+927,TOTAL CHOLESTEROL,5163131, Cholesterol,-,No,100,0.00,100,0.00,0.00,Pathology,SELF,Serum,,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+928,Semen Analysis Report,5163130,SEMEN ANALYSIS REPORT,-,No,450,0.00,440,0.00,0.00,Pathology,SELF,Serum,Clinical Pathology,Pathology,Not enable,-,-,NO,-,Not Verified,
+929,Ra Factor ( Rheumatoid Arthritis Factor ) Quantitative,5163129,BC20,-,No,500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+930,Factor Viii (Anti-Hemophilia A) Activity,5163126,Factor VIII (Anti-Hemophilia A) Activity,-,No,2800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+931,Factor V Leiden -Mutation Detection - Pcr,5163125,Factor V Leiden -Mutation Detection - PCR,-,No,7000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+932,Anti Thrombin (At Iii) Activity -Functional,5163124,Anti Thrombin (AT III) Activity -Functional,-,No,3000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,
+933,Aldolase,5163123,Aldolase,-,No,1000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+934, Hepatitis B Surface Antigen (Hbsag) -Quantitative*,5163122,C319,-,No,550,0.00,550,0.00,0.00,Pathology,SELF,Serum,Outsource,Immunology/Serology,Not enable,-,-,NO,-,Not Verified,
+935,Sr Bicarbonate Level,5163121,Sr bicarbonate level,-,No,1200,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+936,Hiv By Elisa Method,5163120,HIV BY ELISA METHOD,-,No,900,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+937,TB PCR,5163119,Endometrium TB PCR,-,No,2000.0,0.00,0.0,0.00,0.00,Pathology,SELF,Any Specimen,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+938,Rubella (German Measles) IgM,5163118,Rubella Virus Antibody - IgM,-,No,600,0.00,500,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+939,Anti Mitochondrial Antibody,5163117,Anti Mitochondrial Antibody,-,No,2000.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+940,Sr Gastrin ,5163116,Sr Gastrin level,-,No,2500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+941,Elisa - Dengue Combicheck,5163115,ELISA - Dengue Combicheck,-,No,1200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+942,Anti Nmo Antibody,5163114,Anti NMO Antibody,-,No,5000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+943,24 Hrs Urinary Phosphorus,5163113,24 HRS URINARY PHOSPHORUS,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+944,Rh Antibody Titre,5163112,Anti D Titre,-,No,1200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+945,Urine Electrolytes ,5163111,Urine Electrolytes ,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,E,Pathology,Not enable,-,-,NO,-,Not Verified,
+946,Elisa Dengue Igm & Igg Antibodies,5163110,Dengue IgM & IgG Antibodies,-,No,2400,0.00,0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+947,Hb-H,5163109,Hb-H,-,No,900,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+948,Free B Hcg,5163104,Free B HCG,-,No,1000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+949,Fungal Culture & Sensitivity,5163103,Fungal Culture & sensitivity,-,No,1000.0,0.00,0.0,0.00,0.00,Pathology,SELF,Any Specimen,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,
+950,Pas Staining,5163102,PAS staining,-,No,750,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+951,Sex Hormone Binding Globulin,5163101,Sex Hormone Binding Globulin,-,No,3000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+952,Pap Smear (Liquid Based Prepataion),5163098,PAP SMEAR (LIQUID BASED PREPATAION),-,No,1000,0.00,0,0.00,0.00,Radiology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+953,CRYPTOCOCCUS ANTIGEN,5163097,Cryptococcal antigen,-,No,2100,0.00,2100,0.00,0.00,Pathology,CRL DIAGNOSTICS,Serum,Outsource,Immunology/Serology,Not enable,-,-,NO,-,Not Verified,
+954,Liver-Kidney Microsome (LKM) - 1,5163096,Anti LKM Antibody,-,No,2000.0,0.00,2000.0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+955,Anti smooth muscle antibody (ASMA),5163095,Anti smooth muscle antibody,-,No,1850.0,0.00,1850.0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+956,24 Hrs Urinary Uric Acid,5163094,24 HRS URINARY URIC ACID,-,No,450,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+957,CALCIUM-URINE 24 HRS,5163093,24 HRS URINARY CALCIUM,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+958,Dengue Ns1 Antigen (Elisa),5163091,Dengue Ns1 Antigen (card Test),-,No,1200.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+959,HERPES SIMPLEX VIRUS DNA PCR*,5163090,Herpes Simplex Virus Type 1 & 2 Qualitative PCR,-,No,4000,0.00,4000,0.00,0.00,Pathology,SELF,CSF,Outsource,Immunology,Not enable,-,-,NO,-,Not Verified,
+960,HIV RNA QUALITATIVE PCR,5163088,HIV RNA QUALITATIVE PCR,-,No,3000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+961,Egrf,5163086,EGRF,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+962,Anti Sperm Antibodies Total (Asab),5163085,ANTI SPERM ANTIBODIES TOTAL (ASAB),-,No,1200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+963,Stone Analysis,5163084,Stone Analysis,-,No,1600,0.00,0,0.00,0.00,Pathology,SELF,Any Specimen,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+964,Fungal Stain,5163083,Fungal Stain,-,No,400,0.00,0,0.00,0.00,Pathology,SELF,Any Specimen,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+965,"TB PLATINUM INTERFERON GAMMA RELEASE ASSAY,BLOOD*",5163081,TB Platinum,-,No,3000,0.00,0,0.00,0.00,Pathology,SELF,Blood,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,
+966,"URINE REDUCING SUBSTANCES (Dipstick,Benedict's test)",5163080,Reducing Sugar ,-,No,498,0.00,498,0.00,0.00,Pathology,SELF,Urine,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+967,Aldosterone,5163079,ALDOSTERONE,-,No,2400,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+968,Metanephrines Free,5163077,Serum Free metanephrin,-,No,3200,0.00,3200,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+969,Urine ,5163076,Urine Protein,-,No,400,0.00,0,0.00,0.00,Pathology,SELF,Urine,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+970,Parvo Virus B19 Dna Pcr,5163075,PARVO VIRUS B19 DNA PCR,-,No,6000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+971,Urine Potassium,5163073,Urine potasium,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,E,Pathology,Not enable,-,-,NO,-,Not Verified,
+972,Ki 67,5163072,Ki 67,-,No,2500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+973,Culture Ot,5163071,Culture OT,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,
+974,Serum Acetone,5163070,Serum Acetone,-,No,1200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+975,Tibc (Total Iron Binding Capacity (Tibc)),5163069,TIBC (TOTAL IRON BINDING CAPACITY (TIBC)),-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+976,24 HOUR URINE PROTEIN CREATININE RATIO*,5163065,"PROTEIN/ CREATININE RATIO, Random Urine SBI117",-,No,500,0.00,500,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,PCR,NO,-,Not Verified,
+977,Wbc Count,5163064,WBC COUNT,-,No,300,0.00,0,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+978,17-Oh-Progesteron,5163063,17-OH-PROGESTERON,-,No,1600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+979,"HEPATITIS B VIRUS - VIRAL LOAD, QUANTITATIVE",5163062,Hepatis B Viral Load By PCR,-,No,5500,0.00,5500,0.00,0.00,Pathology,SELF,EDTA Plasma,Outsource,Molecular Biology,Not enable,-,-,NO,-,Not Verified,
+980,Culture Sensitivity-(No Growth),5163061,@,-,No,600,0.00,0,0.00,0.00,Radiology,SELF,Serum,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,URINE SAMPLE (STERILE CONTAINER)
+981,Procalcitonin,5163060,Procalcitonin,-,No,2800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+982,Peripheral Blood Smear Examination,5163059,Peripheral blood smear examination,-,No,400,0.00,250,0.00,0.00,Pathology,SELF,EDTA WB,Haematology,Pathology,Not enable,-,-,NO,-,Not Verified,
+983,Culture Sensitiviy-Body Fluid (No Growth),5163056,@,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,URINE SAMPLE (STERILE CONTAINER)
+984,Urine For Sugar,5163052,Urine for Sugar,-,No,100,0.00,0,0.00,0.00,Pathology,SELF,Urine,Clinical Pathology,Pathology,Not enable,-,-,NO,-,Not Verified,
+985,Er Pr Her2,5163051,ER PR Her2,-,No,5500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+986,"Insulin - Like Growth Factor (igf-i), Somatomedin",5163047,IGF 1,-,No,2500,0.00,2500,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+987,"CHROMOSOME ANALYSIS, PRODUCTS  OF CONCEPTION(POC) BY NGS",5163045,CHROMOSOMAL STUDY - BLOOD,-,No,7250,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+988,Culture Sensitivity-Stool (No-Growth),5163044,$,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Stool,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,URINE SAMPLE (STERILE CONTAINER)
+989,Anti Hepatitis B Surface Antigen (Hbsag) Total,5163043,HEPATITIS B SURFACE ANTIGEN (HBsAg) TOTAL,-,No,700,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Immunology/Serology,Not enable,-,-,NO,-,Not Verified,
+990,Cultue Sensitivity-Semen (No-Growth),5163042,$,-,No,700,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,SEMEN SAMPLE (STERILE CONTAINER)
+991,Insulin Level ( Post Prandial/Post Glucose),5163041,INSULIN LEVEL ( POST PRANDIAL /Post Glucose),-,No,700,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+992,Ascitic Fluid Examination,5163040,ASCITIC FLUID EXAMINATION,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Cytology,Pathology,Not enable,-,-,NO,-,Not Verified,
+993,Cervical Smear ,5163039,CERVICAL SMEAR ,-,No,750,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+994,Capd Fluid Examintion,5163038,CAPD FLUID EXAMINTION,-,No,700,0.00,0,0.00,0.00,Pathology,SELF,Serum,Cytology,Pathology,Not enable,-,-,NO,-,Not Verified,
+995,24 Hrs. Urine Metanephrine,5163035,24 Hrs. Urine Metanephrine,-,No,3000,0.00,0,0.00,0.00,Pathology,SELF,Urine,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+996,TOTAL CHOLESTEROL (URINE),5163034,CHOLE URINE,-,No,300,0.00,300,0.00,0.00,Pathology,SELF,Urine,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+997,Vitamin B6*,5163033,VITAMIN B6,-,No,5000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+998,Urine For Haemoglobinuria,5163032,URINE FOR HAEMOGLOBINURIA,-,No,500,0.00,0,0.00,0.00,Pathology,SELF,Urine,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+999,DESMOLGLEIN 1 & 3 ANTIBODY,5163031,DESMOLGLEIN 1 & 3 ANTIBODY,-,No,5500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Special Biochemistry,Not enable,-,-,NO,-,Not Verified,
+1000,Afb Staining (Zeil Nielson Stain) 3 Days Samples,5163030,,-,No,600,0.00,0,0.00,0.00,Radiology,SELF,Any Specimen,Clinical Pathology,Pathology,Not enable,-,-,NO,-,Not Verified,
+1001,Rota Virus Antigen Detection (Stool),5163028,ROTA VIRUS ANTIGEN DETECTION (STOOL),-,No,1000,0.00,0,0.00,0.00,Pathology,SELF,Stool,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,
+1002,PHENYTOIN LEVEL,5163027,"PHENYTOIN LEVEL (Eptoin, Dilantin)",-,No,1000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1003,Molecular Karyotyping,5163026,Molecular Karyotyping,-,No,4000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1004,Leptospira Antibody Igg,5163025,LEPTOSPIRA ANTIBODY IgG,-,No,3000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+1005,Leptospira Antibody Igg & Igm,5163024,LEPTOSPIRA ANTIBODY IgG & IgM,-,No,3800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+1006,Genexpert MTB/RIF,5163023,Gene Expert Plus,-,No,2850,0.00,0,0.00,0.00,Pathology,SELF,Any Specimen,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,
+1007,Anti Diuretic Hormone (Adh) / Vasopressin,5163022,Anti Diuretic Hormone (ADH) / Vasopressin,-,No,5850,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+1008,"HEPATITIS B VIRUS - VIRAL LOAD, QUANTITATIVE*",5163021,5656,-,No,5500.0,0.00,5500.0,0.00,0.00,Pathology,SELF,EDTA Plasma,-,Molecular Biology,Not enable,-,-,NO,-,Not Verified,
+1009,Filaria Antibody,5163020,Filaria Antibody,-,No,1600,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+1010,Elisa- Dengue Igm Antibody,5163019,ELISA- Dengue IgM Antibody,-,No,1200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+1011,Filaria Antigen,5163018,,-,No,1500,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+1012,Leptospira Detection By Dark Field Microscopy,5163014,Leptospira Detection by dark field microscopy,-,No,2000,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+1013,"DENGUE DUO RAPID CARD (NS1,IgG,IgM)*",5163013,Dengue IgG ,-,No,700,0.00,0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+1014,Anti Ssb (La) Igg (Elisa),5163012,ANTI SSB (LA) IGG (ELISA),-,No,4000,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+1015,Sputum For Zn Stain,5163011,spu,-,No,300,0.00,0,0.00,0.00,Pathology,SELF,Serum,Clinical Pathology,Pathology,Not enable,-,-,NO,-,Not Verified,
+1016,Semen Analysis,5163009,SEMEN ANALYSIS ,-,No,450,0.00,440,0.00,0.00,Pathology,SELF,Serum,Clinical Pathology,Pathology,Not enable,-,-,NO,-,Not Verified,
+1017,Ihc On Tissue Block,5163008,IHC On tissue Block,-,No,3000,0.00,0,0.00,0.00,Radiology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1018,Anti Ssa (Ro) Igg (Elisa),5163007,ANTI SSA (RO) IGG (ELISA),-,No,4000,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+1019,Tb Rt Pcr On Tissue Block,5163006,TB RT PCR on tissue Block,-,No,3000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1020,NT-PRO B NATRIURETIC PEPTIDE (NT-PRO BNP)*,5163002,Pro BNP ,-,No,2850,0.00,2850,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1021,Serum Zinc,5163001,Serum Zinc,-,No,2200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1022,Fluid Cytology,5163000,Fluid cytology,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Cytology,Pathology,Not enable,-,-,NO,-,Not Verified,
+1023,Fnac Reporting,5162998,FNAC reporting ,-,No,600,0.00,0,0.00,0.00,Radiology,SELF,BODY FLUID,Cytology,Cytology,Not enable,-,-,NO,-,Not Verified,
+1024,Torch Igm ,5162997,TORCH IgM ,-,No,1000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Immunology,Not enable,-,-,NO,-,Not Verified,
+1025,Lymph Node Biopsy,5162996,Lymph node biopsy - small,-,No,2000,0.00,0,0.00,0.00,Radiology,SELF,Serum,Histopathology,Histopathology,Not enable,-,-,NO,-,Not Verified,
+1026,Apo B/Apo A1 Ratio,5162995,Apo B/Apo A1 ratio,-,No,2000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1027,Karyotyping,5162986,Karyotyping,-,No,3000,0.00,3000,0.00,0.00,Pathology,SELF,Blood,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1028,Bile Acid,5162981,Bile acid,-,No,2600,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+1029,Hepatitis B Surface Antibody Total,5162980,Hepatitis B surface Antibody total,-,No,1200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1030,Vitamin C,5162972,Vitamin C,-,No,4600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1031,Anti Ds Dna - Ifa With Titre,5162971,Anti ds DNA - IFA with titre,-,No,2700,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1032,Anti Musk Antibody (Myasthenia Gravis),5162970,Anti MuSK antibody (Myasthenia gravis),-,No,8000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1033,KOH PREPRATION (KOH MOUNT),5162969,FUNGUS ROUTINE (KOH MOUNT),-,No,500,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+1034,"FECAL CALPROTECTIN, STOOL",5162968,Calprotectin - stool,-,No,4000.0,0.00,4000.0,0.00,0.00,Pathology,SELF,Stool,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,
+1035,Sputum Analysis,5162967,Sputum Analysis,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Clinical Pathology,Pathology,Not enable,-,-,NO,-,Not Verified,
+1036,Culture Icu,5162966,Culture ICU,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Swab,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,
+1037,Jak2 (V617F) Mutation Analysis - Pcr,5162963,Jak2 (V617F) Mutation Analysis - PCR,-,No,6500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1038,Anti Nuclear Antibodies (Ana)*,5162958,ANTI NUCLEAR ANTIBODIES (ANA),-,No,2000,0.00,2000,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1039,Allergy Panel - Food Vegetarian And Nonvegetarian Panel,5162957,Allergy Panel - Food Vegetarian and Nonvegetarian Panel,-,No,5000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1040,"Allergy Panel - Food Vegetarians (Cow Milk, Lemon, Pineapple, Peanut, Potato, Wheat, Rice,Soyabean, Lentils, Tomato, Olive, Total Ige)",5162956,"Allergy Panel - Food Vegetarians (Cow Milk, Lemon, Pineapple, Peanut, Potato, Wheat, Rice,Soyabean, ",-,No,4500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1041,"Allergen, Individual - Single Food",5162955,"Allergen, Individual - single food",-,No,4200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1042,Absolute Eosinophil Count ( Aec ),5162953,ABSOLUTE EOSINOPHIL COUNT ( AEC ),-,No,300,0.00,0,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+1043,Gram Stain Report,5162952,GRAM STAIN REPORT,-,No,300,0.00,0,0.00,0.00,Radiology,SELF,Serum,Routine (Pathology),Microbiology,Not enable,-,-,NO,-,Not Verified,Cerebrospinal fluid (CSF) and Eye samples will be processed and reported within 2 Hours after reaching the Laboratory. 
+1044,Urine Fat Globules,5162951,Urine Fat Globules,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Clinical Pathology,Pathology,Not enable,-,-,NO,-,Not Verified,
+1045,24 Hrs Urinary Albumin,5162950,24 HRS URINARY ALBUMIN,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+1046,Interferon Gamma release assay,5162949,Interferon Gamma release assay,-,No,3000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+1047,VITAMIN D 25-HYDROXY*,5162948,VITAMIN D CEP,-,No,1350,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Immunology,Not enable,-,VITAMIN D CEP,NO,-,Not Verified,PLAIN TUBE (RANDOM SAMPLE)
+1048,SGPT,5162945,SGPT,-,No,100,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+1049,SPOT PROTEIN/CREATININE RATIO ,5162944,24 HRS URINE CALCIUM to CREATININE RATIO,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+1050,ANTI HEPATITIS E VIRUS-lgM,5162943,ANTI HEPATITIS E VIRUS-lgM,-,No,1600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+1051, CALCIUM random URINE,5162942, CALCIUM random URINE,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+1052,Slit Skin Smear,5162941,Slit skin smear,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Microbiology,Not enable,-,-,NO,-,Not Verified,
+1053,Insulin Level ( Fasting),5162939,INSULIN LEVEL ( FASTING & POST PRANDIAL ),-,No,700,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+1054,Glucose Challenge Test (After 75 Gms Of Glucose),5162938,Glucose Challenge Test (PG 1 hr After 50 gms of Glucose),-,No,100,0.00,100,0.00,0.00,Pathology,SELF,Fluoride Plasma,Biochemistry 1,Pathology,Not enable,-,GCT,NO,-,Not Verified,
+1055,Globulin,5162937,Globulin,-,No,300,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+1056,Genexpert MTB/RIF,5162936,Gene Expert Plus (Sputum/BAL) ,-,No,2850,0.00,2850,0.00,0.00,Pathology,SELF,Any Specimen,Outsource,Microbiology,Not enable,-,-,NO,-,Not Verified,
+1057,FNAC WITH PROCEDURE,5162935,CY002,-,No,1000,0.00,0,0.00,0.00,Pathology,SELF,BODY FLUID,Cytology,Cytology,Not enable,-,FNAC WP,NO,-,Not Verified,
+1058,Fibrinogen Degradation Product ( Fdp ),5162934,FIBRINOGEN DEGRADATION PRODUCT ( FDP ),-,No,2200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+1059,Dengue Igg & Igm Antibody And Ns1 Antigen (Card Test),5162933,Dengue IgG & IgM Antibody and Ns1 Antigen (card Test),-,No,700,0.00,0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+1060,Chromosomal Analysis Report,5162932,CHROMOSOMAL ANALYSIS REPORT,-,No,3000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1061,UREA - SERUM *,5162931,UREA CEP,-,No,200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Clinical Biochemistry,Pathology,Not enable,-,UREA CEP,NO,-,Not Verified,
+1062,Anti Phospholipid Antibodies (Igg & Igm)*,5162929,ANTI PHOSPHOLIPID ANTIBODIES (IgG & IgM),-,No,1600.0,0.00,0.0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1063,Anti Ds-Dna - With Titre,5162928,ANTI ds-DNA - IFA with titre,-,No,2700,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1064,Anti Cardiolipin Antibody - Iga*,5162927,ANTI CARDIOLIPIN ANTIBODY - IgA,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1065,Anti Cardiolipin Antibodies ( Aca ),5162926,ANTI CARDIOLIPIN ANTIBODIES ( ACA ),-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1066,Anti Beta-2-Glycoprotein Antibodies (Igg And Igm),5162925,ANTI BETA-2-GLYCOPROTEIN ANTIBODIES (IgG and IgM),-,No,1800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1067,Afb Staining,5162921,AFB Staining,-,No,300,0.00,300,0.00,0.00,Pathology,SELF,Any Specimen,Routine (Pathology),Microbiology,Not enable,-,-,NO,-,Not Verified,
+1068,Weil Felix Test,5162920,WEIL FELIX TEST,-,No,1200,0.00,1200,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+1069,TROPONIN -I (QUANTITATIVE),5162914,TROPONIN I,-,No,1700,0.00,0,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+1070,TRIPLE MARKER-MATERNAL SCREEN*,5162913,TRIPLE MARKER TEST,-,No,2000,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1071,Tissue Transglutaminase - Iga ( Ttga ),5162912,TISSUE TRANSGLUTAMINASE - IgA ( TTGA ),-,No,1500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1072,MALARIA ANTIGEN (MP ANTIGEN)RAPID CARD,5162909,RAPID MALARIA TEST,-,No,400,0.00,0,0.00,0.00,Pathology,SELF,EDTA WB,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,
+1073,Protein Electrophoresis*,5162908,PROTEIN ELECTROPHORESIS,-,No,800,0.00,800,0.00,0.00,Pathology,SELF,Serum,Outsource,Special Biochemistry,Not enable,-,PROTEIN HPLC,NO,-,Not Verified,
+1074,Microfilaria Detection By Pbs,5162903,Microfilaria Detection by PBS,-,No,200,0.00,0,0.00,0.00,Pathology,SELF,EDTA WB,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+1075,Lithium Level*,5162902,LITHIUM LEVEL,-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1076,"HLA - B27, PCR",5162895,HLA - B 27 By PCR method,-,No,3200,0.00,0,0.00,0.00,Pathology,SELF,EDTA WB,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1077,Hiv 1 & 2 RAPID CARD,5162894,HIV 1 & 2 Antibody ,-,No,300,0.00,300,0.00,0.00,Pathology,SELF,Serum,Serology,Immunology/Serology,Not enable,-,-,NO,-,Not Verified,
+1078,HEPATITIS E VIRUS - IGM (HEV IGM)*,5162892,HEV - IgG ANTIBODY TO HEPATITIS E VIRUS*,-,No,1600,0.00,1600,0.00,0.00,Pathology,SELF,Serum,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+1079,"Hepatitis C (HCV), Rapid Card",5162891,S023,-,No,350,0.00,300,0.00,0.00,Pathology,SELF,Serum,Serology,Immunology/Serology,Not enable,-,-,NO,-,Not Verified,
+1080,HEPATITIS CORE ANTIBODY IgM (Anti HBc-IgM)*,5162889,HEPATITIS B VIRUS CORE ANTIBODY ( HBcAb ),-,No,1200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1081,Hemoglobin Electrophoresis*,5162887,HEMOGLOBIN ELECTROPHORESIS,-,No,850,0.00,850,0.00,0.00,Pathology,SELF,EDTA WB,Outsource,Hematology,Not enable,-,HB HPLC,NO,-,Not Verified,
+1082,Fluid Examination Report,5162884,FLUID EXAMINATION REPORT,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,Cytology,Cytology,Not enable,-,-,NO,-,Not Verified,
+1083,Fibrinogen,5162883,Fibrinogen,-,No,1100,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1084,Estradiol ( E3 ),5162882,ESTRADIOL ( E3 ),-,No,900,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+1085,Serum Copper,5162877,Serum Copper,-,No,2200,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1086,Billriubin Direct,5162842,Billriobin Direct B08,-,No,100.0,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+1087,Billriubin Total,5162841,Billriobin Total B07,-,No,100.0,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+1088,URINE CULTURE,5162804,$,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Urine,-,Microbiology,Not enable,-,-,NO,-,Not Verified,URINE SAMPLE (STERILE CONTAINER)
+1089,Culture & Sensitivity - Pus ,5162803,#,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Microbiology,Not enable,-,-,NO,-,Not Verified,
+1090,Serum Iron,5162800,BC01,-,No,300,0.00,0,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+1091,Urine Albumin,5162793,URINE ALBUMIN,-,No,400,0.00,100,0.00,0.00,Pathology,SELF,Urine,Routine (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,spot urine
+1092,Anti Phospholipid Antibodies (Igg),5162792,ANTI PHOSPHOLIPID ANTIBODIES (IgG),-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,PLAIN TUBE (RANDOM)
+1093,Anti Phospholipid Antibodies (Igm),5162791,ANTI PHOSPHOLIPID ANTIBODIES (IgM),-,No,800,0.00,0,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,PLAIN TUBE (RANDOM SAMPLE)
+1094,Fasting Urine Sugar,5162788,Fasting Urine Sugar,-,No,100,0.00,49,0.00,0.00,Pathology,SELF,Serum,Clinical Pathology,Pathology,Not enable,-,-,NO,-,Not Verified,
+1095,Post Prandial ( Pp ) Urine Sugar ,5162787,Post Prandial ( PP ) urine sugar ,-,No,100,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+1096,Carbamazepine Level,5162782,CARBAMAZEPINE LEVEL,-,No,1000,0.00,1000,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+1097,BONE MARROW SMEAR MICROSCOPY EXAMINATION,5162777,H017,-,No,1199,0.00,0,0.00,0.00,Pathology,SELF,Serum,Cytology,Pathology,Not enable,-,BONE MARROW,NO,-,Not Verified,
+1098,Bile Salt And Pigments - Urine,5162776,BILE SALT AND PIGMENTS - URINE,-,No,100,0.00,0,0.00,0.00,Pathology,SELF,Serum,Clinical Pathology,Clinical Pathology,Not enable,-,-,NO,-,Not Verified,
+1099,Anti Ds-Dna ,5162773,ANTI ds-DNA (ELISA),-,No,1499,0.00,1500,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+1100,ADA ,5162763,	ADA BODY FLUID,-,No,500,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Pathology,Not enable,-,-,NO,-,Not Verified,
+1101,Widal Test - Slide,5162759,WIDAL TEST - Tube,-,No,160,0.00,160,0.00,0.00,Pathology,SELF,Serum,Serology,Pathology,Not enable,-,-,NO,-,Not Verified,Widal Test - Tube Method
+1102,"Vitamin D (1, 25 Dihydroxycholecalciferol)",5162758,"VITAMIN D3 (1, 25 DIHYDROXYCHOLECALCIFEROL)",-,No,4000,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Immunology,Not enable,-,-,NO,-,Not Verified,Vitamin D3 ( Metro )
+1103,VITAMIN D 25-HYDROXY*,5162757,VD25%,-,No,1350,0.00,0,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Immunology,Not enable,-,-,NO,-,Not Verified,
+1104,"VITAMIN B12, SERUM",5162756,"VITAMIN B12, SERUM",-,No,1300,0.00,0,0.00,0.00,Pathology,SELF,Serum,Immunology,Immunology,Not enable,-,-,NO,-,Not Verified,
+1105,Urine Pregnancy Test ,5162752,URINE PREGNANCY TEST ,-,No,100,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+1106,Urine For Occult Blood,5162751,URINE FOR OCCULT BLOOD,-,No,200,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+1107,MICROALBUMIN (SPOT URINE),5162750,Urine For Microalbumin,-,No,550,0.00,0,0.00,0.00,Pathology,SELF,Urine,Biochemistry,Pathology,Not enable,-,-,NO,-,Not Verified,
+1108,Urine For Ketone Bodies (Acetone) ,5162749,URINE FOR KETONE BODIES (ACETONE) ,-,No,200,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+1109,Urine For Bence Jones Proteins ,5162748,URINE FOR BENCE JONES PROTEINS ,-,No,600,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+1110,Montoux Test,5162747,TUBERCULIN TEST ( TT ) (Montoux test) ,-,No,200,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+1111,Tsh (Thyroid Stimulating Hormone),5162746,TSH (THYROID STIMULATING HORMONE),-,No,250,0.00,160,0.00,0.00,Pathology,SELF,Serum,Special (Pathology),Immunology,Not enable,-,-,NO,-,Not Verified,PLAIN TUBE (minimum 2 ml serum )
+1112,Triglycerides (URINE) ,5162745,Triglycerides (URINE) ,-,No,300,0.00,300,0.00,0.00,Pathology,SELF,Serum,Biochemistry,Biochemistry,Not enable,-,-,NO,-,Not Verified,PLAIN SAMPLE (FASTING SAMPLE)
+1113,Transferrin,5162744,TRANSFERRIN,-,No,1200,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+1114,TPHA*,5162743,TPHA (TREPONEMA PALLIDIUM HAEMAGGLUTINATION ASSAY),-,No,1500,0.00,0,0.00,0.00,Pathology,SELF,Serum,-,Pathology,Not enable,-,-,NO,-,Not Verified,
+1115,Toxoplasma - Igm Antibody*,5162742,TOXOPLASMA - IGM ANTIBODY,-,No,550,0.00,550,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
+1116,Toxoplasma Gondii IgG,5162741,TOXOPLASMA - IGG ANTIBODY,-,No,550,0.00,550,0.00,0.00,Pathology,SELF,Serum,Outsource,Pathology,Not enable,-,-,NO,-,Not Verified,
