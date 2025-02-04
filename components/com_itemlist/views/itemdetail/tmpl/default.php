@@ -135,35 +135,33 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             </h1>
         </div>
     </div>
+    </div>
 
     <div class="w-full bg-white rounded-lg shadow-lg p-6 mb-18">
-        <div class="flex items-center justify-between w-full">
-            <div class="flex flex-row items-center">
-                <div class="ml-6">
-                    <h3 class="text-4xl font-bold mb-2" style="color: #03C03C">
-                        ₹<?= number_format($item->offer_price, 2) ?>
-                    </h3>
-                </div>
-
-                <div class="mr-6 ml-3 flex items-center">
-                    <h3 class="text-xl font-medium text-gray-600">
-                        <span class="line-through text-red-500">₹<?= number_format($item->mrp, 2) ?></span>
-                    </h3>
-                </div>
+    <div class="flex items-center justify-between w-full">
+        <div class="flex flex-row items-center">
+            <div class="ml-6">
+                <h3 class="text-4xl font-bold mb-2" style="color: #03C03C">
+                    ₹<?= number_format($item->offer_price, 2) ?>
+                </h3>
             </div>
+
+            <div class="mr-6 ml-3 flex items-center">
+                <h3 class="text-xl font-medium text-gray-600">
+                    <span class="line-through text-red-500">₹<?= number_format($item->mrp, 2) ?></span>
+                </h3>
+            </div>
+        </div>
+
+        <!-- "Get A Call Back" button placed here -->
+        <div class="ml-4">
+            <button class="bg-indigo-600 text-white py-3 px-6 rounded-lg hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-all" onclick="document.getElementById('request-form-pack').classList.remove('hidden')">
+                Get A Call Back
+            </button>
         </div>
     </div>
 </div>
 
-
-            <div class="mt-4 flex justify-center">
-                <button class="bg-indigo-600 text-white py-3 px-6 rounded-lg hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-all" onclick="document.getElementById('request-form-pack').classList.remove('hidden')">
-                    Get A Call Back
-                </button>
-            </div>
-        </div>
-    </div>
-</div>
 
 <!-- Modal for Callback Form -->
 <div id="request-form-pack" class="hidden fixed inset-0 flex items-center justify-center bg-gray-900 bg-opacity-50">
