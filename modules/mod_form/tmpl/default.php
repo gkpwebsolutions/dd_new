@@ -41,27 +41,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 }
 ?>
 
-    // Get form data and escape it to prevent SQL injection
-    $name = $conn->real_escape_string($_POST['name']);
-    $email = $conn->real_escape_string($_POST['email']);
-    $branch = $conn->real_escape_string($_POST['branch']);
-    $message = $conn->real_escape_string($_POST['message']);
-
-    // SQL query to insert the data into the database
-    $sql = "INSERT INTO w1h54_contact_messages (name, email, branch, message) VALUES ('$name', '$email', '$branch', '$message')";
-
-    // Execute the query and handle the result
-    if ($conn->query($sql) === TRUE) {
-        echo "<p class='text-green-600 text-center'>Your message has been sent successfully!</p>";
-    } else {
-        echo "<p class='text-red-600 text-center'>Error: " . $conn->error . "</p>";
-    }
-
-    // Close the database connection
-    $conn->close();
-}
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>

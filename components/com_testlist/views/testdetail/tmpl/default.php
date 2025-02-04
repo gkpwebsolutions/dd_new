@@ -77,12 +77,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         ₹<?= number_format($item->test_amount) ?>
                     </h3>
                 </div>
-               
             </div>
            
             <a href="#" class="bg-indigo-600 text-white py-2 px-6 rounded-lg hover:bg-indigo-700 transition-colors" onclick="document.getElementById('request-form-pack').classList.remove('hidden')">
-    Buy Now
-</a>
+                Buy Now
+            </a>
         </div>
     </div>
 </div>
@@ -90,22 +89,18 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <section class="pack-icon mt-10">
     <div class="container mx-auto px-4 pb-8">
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 text-center shadow-lg rounded-md p-6">
-            
             <div class="bg-white p-6 rounded-md shadow-md">
                 <img src="images/report-p.webp" alt="Fastest Online Report" class="w-16 h-16 mx-auto mb-4">
                 <h5 class="font-semibold text-lg text-gray-800">Fastest Online Report</h5>
             </div>
-            <!-- Free Home Sample -->
             <div class="bg-white p-6 rounded-md shadow-md">
                 <img src="images/sample-p.webp" alt="Free Home Sample" class="w-16 h-16 mx-auto mb-4">
                 <h5 class="font-semibold text-lg text-gray-800">Free Home Sample</h5>
             </div>
-            <!-- 100% Accurate Report -->
             <div class="bg-white p-6 rounded-md shadow-md">
                 <img src="images/doctor-p.webp" alt="100% Accurate Report" class="w-16 h-16 mx-auto mb-4">
                 <h5 class="font-semibold text-lg text-gray-800">100% Accurate Report</h5>
             </div>
-            <!-- Customer Care Support -->
             <div class="bg-white p-6 rounded-md shadow-md">
                 <img src="images/support-p.webp" alt="Support Customer Care" class="w-16 h-16 mx-auto mb-4">
                 <h5 class="font-semibold text-lg text-gray-800">Support Customer Care</h5>
@@ -113,54 +108,63 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         </div>
     </div>
 </section>
-
-<div class="container mx-auto px-4 py-8 max-h-screen flex flex-col mb-18">
+<div class="container mx-auto px-4 py-8 mb-18">
     <div class="flex flex-wrap lg:flex-nowrap items-stretch bg-white rounded-md shadow-md overflow-hidden mb-18">
-        <div class="w-full lg:w-1/3 flex-shrink-0 bg-blue-100" style="min-height: 400px;">
+
+        <!-- Image Section -->
+        <div class="w-full lg:w-1/3 flex-shrink-0 bg-blue-100" style="min-height: 300px;">
             <?php if (!empty($item->image_path)): ?>
                 <img src="<?= JURI::root() . $item->image_path ?>" alt="Item Image" class="w-full h-full object-cover" />
-                <?php else: ?>
+            <?php else: ?>
                 <img src="<?= JURI::root() . 'images/8622.jpg' ?>" alt="Default Image" class="w-full h-full object-cover" />
             <?php endif; ?>
         </div>
-        
-        <div class="w-full lg:w-2/3 p-6">
-            <h5 class="text-left text-3xl font-bold text-blue-800 mb-6"><?= htmlspecialchars($item->test_name) ?></h5>
-            <p class="text-gray-700 text-lg leading-relaxed mb-6"><?= nl2br(htmlspecialchars($item->test_code)) ?></p>
-            <hr class="border-t-4 border-blue-800 mb-6">
-            <div class="mb-6">
-                <h6 class="text-indigo-600 font-semibold text-xl mb-6">Exclusive Benefits with Diagnodrugs Diagnostics & Imaging Center</h6>
-                <hr class="border-t-4 border-green-700 mb-6">
-                <ul class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                    <li class="flex items-center">
-                    <i class="fas fa-microscope mr-2 text-3xl" style="color: #03C03C;"></i>
-                    Latest Technology for Diagnostics
+
+        <!-- Content Section -->
+        <div class="w-full lg:w-2/3 p-6 md:p-8 lg:p-12">
+            <!-- Test Name -->
+            <h5 class="text-left text-3xl font-bold text-blue-800 mb-6 sm:mb-8"><?= htmlspecialchars($item->test_name) ?></h5>
+            
+            <!-- Test Code -->
+            <p class="text-gray-700 text-lg leading-relaxed mb-6 sm:mb-8"><?= nl2br(htmlspecialchars($item->test_code)) ?></p>
+            
+            <!-- Divider -->
+            <hr class="border-t-4 border-blue-800 mb-8">
+            
+            <!-- Exclusive Benefits Section -->
+            <div class="mb-8">
+                <h6 class="text-indigo-600 font-semibold text-xl mb-6 sm:mb-8 text-center lg:text-left">
+                    Exclusive Benefits with Diagnodrugs Diagnostics & Imaging Center
+                </h6>
+                <ul class="grid grid-cols-1 sm:grid-cols-2 gap-6 sm:gap-8">
+                    <li class="flex items-center text-lg mb-6">
+                        <i class="fas fa-microscope mr-3 text-3xl" style="color: #03C03C;"></i> Latest Technology for Diagnostics
                     </li>
-                    <li class="flex items-center">
-                    <i class="fas fa-home mr-2 text-3xl" style="color: #03C03C;"></i> Free Home Sample Collection  
+                    <li class="flex items-center text-lg mb-6">
+                        <i class="fas fa-home mr-3 text-3xl" style="color: #03C03C;"></i> Free Home Sample Collection
                     </li>
-                    <li class="flex items-center">
-                    <i class="fas fa-check-circle mr-2 text-3xl" style="color: #03C03C;"></i> NABL & NABH Certified  
+                    <li class="flex items-center text-lg mb-6">
+                        <i class="fas fa-check-circle mr-3 text-3xl" style="color: #03C03C;"></i> NABL & NABH Certified
                     </li>
-                    <li class="flex items-center">
-                    <i class="fas fa-percent mr-2 text-3xl" style="color: #03C03C;"></i> Up to 86% Discount
+                    <li class="flex items-center text-lg mb-6">
+                        <i class="fas fa-percent mr-3 text-3xl" style="color: #03C03C;"></i> Up to 86% Discount
                     </li>
                 </ul>
             </div>
-            
-            <h1 class="text-center text-lg font-semibold text-indigo-600 font-bold">Free Doctor Consultation</h1>
-            
+
+            <!-- Free Doctor Consultation -->
+            <h1 class="text-center text-lg font-semibold text-indigo-600 font-bold mb-8">Free Doctor Consultation</h1>
         </div>
     </div>
+</div>
+
 
     <div class="w-full bg-white rounded-md shadow-md p-6 mb-18">
         <div class="flex items-center justify-between">
             <div class="flex items-center">
                 <h3 class="text-4xl font-bold mr-4 "  style="color: #03C03C;">
-
                     ₹<?= number_format($item->test_amount) ?>
                 </h3>
-               
             </div>
             <div class="mt-4 flex justify-center">
                 <button class="bg-indigo-600 text-white py-3 px-6 rounded-lg hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-all" onclick="document.getElementById('request-form-pack').classList.remove('hidden')">
@@ -195,22 +199,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <button type="submit" class="bg-indigo-600 text-white py-3 px-6 rounded-lg hover:bg-indigo-700 transition-all">
                         Submit
                     </button>
-
-                    <div class="text-center">
-                        <button type="submit" class="bg-indigo-600 text -white py-3 px-6 rounded-lg hover:bg-indigo-700 transition-all">
-                            Submit
-                        </button>
-                        <div class="text-center">
-                            <button type="submit" class="bg-indigo-600 text-white py-3 px-3 rounded-lg hover:bg-indigo-700 transition-all">
-                                Submit
-                            </button>
-                            <div class="text-ceter">
-                                <button type="submit" class="bg-indigo-600 text-white py-3 px-3 rounded-lg hover:bg-indigo-700 transition-all">
-                                    Submit
-                                </button>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </form>
         </div>
@@ -218,7 +206,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </div>
 
 </div>
-
 
 <script>
 // AJAX form submission
@@ -249,32 +236,29 @@ document.getElementById('callback-form').addEventListener('submit', function(eve
     };
     xhr.send(formData); 
 });
-
 </script>
 
+<!-- Custom Slider Section -->
+<div class="col-12 artist__general upcoming mt-12" id="upcoming">
+    <?php
+        jimport('joomla.application.module.helper');
+        $module = JModuleHelper::getModule('mod_customslider', '');
+        $attribs['style'] = 'xhtml';
+        echo JModuleHelper::renderModule($module, $attribs);
+    ?>
+</div>
 
+<div class="col-12 artist__general upcoming mt-12" id="upcoming">
+    <?php
+        jimport('joomla.application.module.helper');
+        $module = JModuleHelper::getModule('mod_test', '');
+        $attribs['style'] = 'xhtml';
+        echo JModuleHelper::renderModule($module, $attribs);
+    ?>
+</div>
 
-    <!-- Custom Slider Section -->
-    <div class="col-12 artist__general upcoming mt-12" id="upcoming">
-        <?php
-            jimport('joomla.application.module.helper');
-            $module = JModuleHelper::getModule('mod_customslider', '');
-            $attribs['style'] = 'xhtml';
-            echo JModuleHelper::renderModule($module, $attribs);
-        ?>
-    </div>
-
-    <div class="col-12 artist__general upcoming mt-12" id="upcoming">
-        <?php
-            jimport('joomla.application.module.helper');
-            $module = JModuleHelper::getModule('mod_test', '');
-            $attribs['style'] = 'xhtml';
-            echo JModuleHelper::renderModule($module, $attribs);
-        ?>
-    </div>
-
-    <?php else: ?>
-    <div class="container mx-auto my-5 px-6 mb-10">
-        <p class="text-red-500 text-center font-semibold text-lg">Item not found</p>
-    </div>
+<?php else: ?>
+<div class="container mx-auto my-5 px-6 mb-10">
+    <p class="text-red-500 text-center font-semibold text-lg">Item not found</p>
+</div>
 <?php endif; ?>

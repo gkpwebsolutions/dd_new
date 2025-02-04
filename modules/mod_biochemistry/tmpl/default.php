@@ -178,32 +178,36 @@ defined('_JEXEC') or die;
 
     
     <div class="space-y-8 mt-8 text-center">
-      <h2 class="text-4xl font-semibold mb-6 font-[Poppins]" style="color:#001861">Our Biochemistry Instruments</h2> 
+  <h2 class="text-4xl font-semibold mb-6 font-[Poppins]" style="color:#001861">Our Biochemistry Instruments</h2>
 
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-        <div class="flex justify-center items-center h-full">
-          <img src="images/biochemistry.webp" alt="Biochemistry Instruments" class="rounded-lg shadow-lg w-full md:w-4/5 lg:w-3/4 xl:w-2/3 object-cover h-full">
-        </div>
+  <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
 
-        <div class="flex flex-wrap justify-between w-full md:w-1/2 gap-4">
-          
-          <ul class="flex items-center justify-start w-full space-x-4 text-gray-700 text-sm flex-nowrap">
-            <li class="flex items-center p-3 rounded-md transition duration-300 ease-in-out">
-              <i class="fas fa-cogs mr-3" style="color:#03C03C"></i>
-              <span>Mindray BS-480 Biochemistry Analyzer</span>
-            </li>
-            <li class="flex items-center p-3 rounded-md transition duration-300 ease-in-out">
-              <i class="fas fa-cogs mr-3" style="color:#03C03C"></i>
-              <span>Mindray BS-200 Biochemistry Analyzer</span>
-            </li>
-            <li class="flex items-center p-3 rounded-md transition duration-300 ease-in-out">
-              <i class="fas fa-cogs mr-3" style="color:#03C03C"></i>
-              <span>Mindray BS-300 Biochemistry Analyzer</span>
-            </li>
-          </ul>
-        </div>
-      </div>
+    <!-- Image Section -->
+    <div class="flex justify-center items-center">
+      <img src="images/biochemistry.webp" alt="Biochemistry Instruments" class="rounded-lg shadow-lg w-full lg:w-4/5 object-cover h-auto">
     </div>
+
+    <!-- List Section -->
+    <div class="flex flex-wrap justify-center lg:justify-start gap-8 lg:gap-12 w-full">
+      <!-- List of Instruments -->
+      <ul class="flex flex-col lg:flex-row lg:space-x-8 text-gray-700 text-sm w-full">
+        <li class="flex items-center p-3 rounded-md transition duration-300 ease-in-out w-full sm:w-auto">
+          <i class="fas fa-cogs mr-3" style="color:#03C03C"></i>
+          <span>Mindray BS-480 Biochemistry Analyzer</span>
+        </li>
+        <li class="flex items-center p-3 rounded-md transition duration-300 ease-in-out w-full sm:w-auto">
+          <i class="fas fa-cogs mr-3" style="color:#03C03C"></i>
+          <span>Mindray BS-200 Biochemistry Analyzer</span>
+        </li>
+        <li class="flex items-center p-3 rounded-md transition duration-300 ease-in-out w-full sm:w-auto">
+          <i class="fas fa-cogs mr-3" style="color:#03C03C"></i>
+          <span>Mindray BS-300 Biochemistry Analyzer</span>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
 
   </div>
 
