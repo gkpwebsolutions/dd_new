@@ -2,7 +2,6 @@
 // No direct access
 defined('_JEXEC') or die;
 
-// Create an instance of JConfig
 $config = new JConfig();
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {

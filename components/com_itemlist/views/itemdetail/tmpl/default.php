@@ -4,17 +4,24 @@ defined('_JEXEC') or die('Restricted access');
 
 $item = $this->item; 
 
-$host = 'localhost'; 
-$username = 'root'; 
-$password = 'root'; 
-$dbname = 'joomla_db'; 
+$config = new JConfig();
 
-$conn = new mysqli($host, $username, $password, $dbname);
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
-if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
+    // Use the config object for database connection details
+    $host = $config->host;
+    $username = $config->user;
+    $password = $config->password;
+    $dbname = $config->db;
+
+    // Establish the database connection
+    $conn = new mysqli($host, $username, $password, $dbname);
+
+    // Check for connection errors
+    if ($conn->connect_error) {
+        die("Connection failed: " . $conn->connect_error);
+    }
 }
-
 $successMessage = '';
 $errorMessage = '';
 if ($_SERVER["REQUEST_METHOD"] == "POST") {

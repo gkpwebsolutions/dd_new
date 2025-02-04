@@ -4,15 +4,23 @@ defined('_JEXEC') or die('Restricted access');
 
 $item = $this->item; 
 
-$host = 'localhost'; 
-$username = 'root'; 
-$password = 'root'; 
-$dbname = 'joomla_db'; 
+$config = new JConfig();
 
-$conn = new mysqli($host, $username, $password, $dbname);
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
-if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
+    // Use the config object for database connection details
+    $host = $config->host;
+    $username = $config->user;
+    $password = $config->password;
+    $dbname = $config->db;
+
+    // Establish the database connection
+    $conn = new mysqli($host, $username, $password, $dbname);
+
+    // Check for connection errors
+    if ($conn->connect_error) {
+        die("Connection failed: " . $conn->connect_error);
+    }
 }
 
 $successMessage = '';
@@ -187,6 +195,22 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <button type="submit" class="bg-indigo-600 text-white py-3 px-6 rounded-lg hover:bg-indigo-700 transition-all">
                         Submit
                     </button>
+
+                    <div class="text-center">
+                        <button type="submit" class="bg-indigo-600 text -white py-3 px-6 rounded-lg hover:bg-indigo-700 transition-all">
+                            Submit
+                        </button>
+                        <div class="text-center">
+                            <button type="submit" class="bg-indigo-600 text-white py-3 px-3 rounded-lg hover:bg-indigo-700 transition-all">
+                                Submit
+                            </button>
+                            <div class="text-ceter">
+                                <button type="submit" class="bg-indigo-600 text-white py-3 px-3 rounded-lg hover:bg-indigo-700 transition-all">
+                                    Submit
+                                </button>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </form>
         </div>
