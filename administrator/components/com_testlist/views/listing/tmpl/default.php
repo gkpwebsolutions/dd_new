@@ -6,9 +6,9 @@ defined('_JEXEC') or die;
 ?>
 
 <head>
-    <!-- Tailwind CSS CDN Link -->
+    
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-    <!-- You can also include any additional CSS here if necessary -->
+    
 </head>
 
 <div>
@@ -78,7 +78,7 @@ defined('_JEXEC') or die;
                         <td> <?= $item->test_description ?> </td>
                         <td>
     <?php if (!empty($item->image_path)): ?>
-        <!-- Add inline CSS to control max-width and height -->
+        
         <img src="<?= JURI::root() . $item->image_path ?>" alt="Item Image" style="max-width: 200px; height: auto;" class="rounded-md" />
     <?php else: ?>
         <p class="text-center text-gray-600">No Image Available</p>
@@ -120,19 +120,19 @@ defined('_JEXEC') or die;
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 <script>
 $(document).on('click', '.pagination a', function(e) {
-    e.preventDefault(); // Prevent default link behavior
+    e.preventDefault(); 
 
-    var pageUrl = $(this).attr('href'); // Get the href URL from the pagination link
+    var pageUrl = $(this).attr('href'); 
 
     $.ajax({
-        url: pageUrl, // Send the URL of the clicked page as a GET request
+        url: pageUrl, 
         type: 'GET',
         success: function(response) {
-            // Extract the new table and pagination from the server response
+            
             var newTable = $(response).find('table');
             var newPagination = $(response).find('.pagination-container');
 
-            // Update the table and pagination with the new content
+           
             $('table').html(newTable.html());
             $('.pagination-container').html(newPagination.html());
         },
@@ -182,7 +182,7 @@ $('#selectdelete').click(function() {
     }
 });
 
-// Handle individual delete action
+
 $(".deleteBtn").click(function(e) {
     e.preventDefault();
 

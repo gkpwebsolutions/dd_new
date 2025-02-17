@@ -6,7 +6,6 @@ defined('_JEXEC') or die('Restricted access');
 // import Joomla view library
 jimport('joomla.application.component.view');
 
-// No direct access to this file
 
 class TestlistViewListing extends JViewLegacy
 {

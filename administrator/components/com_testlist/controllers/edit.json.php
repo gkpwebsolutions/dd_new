@@ -7,11 +7,11 @@ defined('_JEXEC') or die;
 class TestlistControllerEdit extends TestlistController {
 
     public function editItem() {
-        // Database connection and input handling
+       
         $db = JFactory::getDbo();
         $input = JFactory::getApplication()->input;
 
-        // Get form data
+        
         $testName = $input->getString('test_name');
         $testId = $input->getString('test_id');
         $testCode = $input->getString('test_code');
@@ -19,19 +19,18 @@ class TestlistControllerEdit extends TestlistController {
         $image = '';
 
        
-       // Ensure the relative image path is stored
+       
 if (!empty($_FILES['image']['name'])) {
     $imagePath = '/images/testlist/' . JFile::makeSafe($_FILES['image']['name']);
-    $uploadDir = JPATH_SITE . '/images/testlist/';  // The correct upload directory
+    $uploadDir = JPATH_SITE . '/images/testlist/';  
     
-    // Ensure the directory exists, create it if not
+    
     if (!is_dir($uploadDir)) {
         mkdir($uploadDir, 0755, true);
     }
     
-    // Move the uploaded file to the target directory
     if (move_uploaded_file($_FILES['image']['tmp_name'], $uploadDir . basename($_FILES['image']['name']))) {
-        // Save only the relative path in the database
+    
         $image = $imagePath;
     } else {
         echo json_encode(array('status' => false, 'message' => 'File upload failed.'));

@@ -3,10 +3,10 @@
 // No direct access
 defined('_JEXEC') or die;
 
-// Controller for listing and saving data for the "test" table
+
 class TestlistControllerListi extends JControllerForm {
 
-    // Save data from the form into the database
+    
     public function saveItem() {
         $db = JFactory::getDbo();
         $input = JFactory::getApplication()->input;
@@ -46,7 +46,7 @@ class TestlistControllerListi extends JControllerForm {
             }
 
             if (JFile::upload($_FILES['image']['tmp_name'], $uploadDir . $imagePath)) {
-                // Successfully uploaded
+                
             } else {
                 echo json_encode(array('status' => false, 'message' => 'Error uploading the image.'));
                 return;
@@ -91,41 +91,58 @@ class TestlistControllerListi extends JControllerForm {
     public function listItems() {
         $db = JFactory::getDbo();
         $query = $db->getQuery(true);
-    
-        // Get limitstart and limit from the URL or default values
+
+        
         $limitstart = JFactory::getApplication()->input->getInt('limitstart', 0);
-        $limit = 10; // Default value, you can adjust this as needed
-    
-        // Create the query to fetch the data
-        $query->select('*')
-              ->from($db->quoteName('w1h54_test'))
-              ->setLimit($limit, $limitstart);
-    
-        // Execute the query
-        $db->setQuery($query);
-        $items = $db->loadObjectList();
-    
-        // Get total records for pagination
-        $queryTotal = $db->getQuery(true);
-        $queryTotal->select('COUNT(*)')
-                   ->from($db->quoteName('w1h54_test'));
-        $db->setQuery($queryTotal);
-        $total = $db->loadResult();
-    
-        // Create pagination object
-        $pagination = new JPagination($total, $limitstart, $limit);
-    
-        // Set the data to be passed to the view
+        $limit = 10; 
+       
+$search = JFactory::getApplication()->input->getString('search', '');
+
+
+$query = $db->getQuery(true);
+$query->select('*')
+      ->from($db->quoteName('w1h54_test'))
+      ->setLimit($limit, $limitstart);
+
+
+if (!empty($search)) {
+    $query->where('test_name LIKE ' . $db->quote('%' . $search . '%'));
+}
+
+$db->setQuery($query);
+$this->allItems = $db->loadObjectList();
+
+
+
+$queryTotal = $db->getQuery(true);
+$queryTotal->select('COUNT(*)')
+           ->from('w1h54_test');
+
+
+if (!empty($search)) {
+    $queryTotal->where('test_name LIKE ' . $db->quote('%' . $search . '%'));
+}
+
+$db->setQuery($queryTotal);
+$total = $db->loadResult();
+
+
+$pagination = new JPagination($total, $limitstart, $limit);
+$this->pagination = $pagination;
+
+
+        
         $this->items = $items;
         $this->pagination = $pagination;
         $this->limitstart = $limitstart;
         $this->limit = $limit;
-    
+        $this->search = $search; 
+
+       
         parent::display();
     }
-    
-    
 
+    
     public function deleteItem() {
         $db = JFactory::getDbo();
         $input = JFactory::getApplication()->input;
@@ -147,6 +164,7 @@ class TestlistControllerListi extends JControllerForm {
         }
     }
 
+    
     public function selectItems() {
         $db = JFactory::getDbo();
         $input = JFactory::getApplication()->input;
@@ -166,6 +184,7 @@ class TestlistControllerListi extends JControllerForm {
         } else {
             echo json_encode(array('status' => false, 'message' => 'No records selected.'));
         }
-    
+    }
 }
-}
+
+?>

@@ -33,7 +33,7 @@
                         <span id="image1" class="text-danger"></span>
                     </div>
 
-                    <!-- New Fields for MRP and Offer Price -->
+                    
                     <div class="form-group">
                         <label for="mrp">MRP:</label>
                         <input type="text" name="mrp" id="mrp" value="<?= $this->editItem->mrp ?>" placeholder="Maximum Retail Price" class="form-control">

@@ -1,9 +1,7 @@
 <?php
 	// No direct access
 	defined('_JEXEC') or die;
-    // print_r($this->editItem);
-    // $data =   $this->editItem[0];
-    // echo $this->editItem[0]->item_name;
+    
 ?>
 
 

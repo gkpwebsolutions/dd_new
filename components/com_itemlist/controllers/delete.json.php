@@ -30,13 +30,6 @@ class ItemlistControllerDelete extends ItemlistController {
       }else{
           echo json_encode(array('status' => $status, 'message' => 'Error Occoured!'));
       }
-
-      // if($status){
-      //   $app = JFactory::getApplication();
-      //   $app->redirect('index.php?option=com_itemlist');
-      // }else{
-      //     echo json_encode(array('status' => $status, 'message' => 'Error Occoured!'));
-      // }
       
     }
 }

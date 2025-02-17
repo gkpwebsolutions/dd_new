@@ -23,22 +23,22 @@ if ($item): ?>
         </div>
         
         <div class="text-right flex flex-col items-end"> 
-            <!-- Offer Price and MRP in a row -->
+            
             <div class="flex items-center mb-4">
-                <!-- Offer Price -->
+            
                 <div class="mr-4">
                     <h3 class="text-2xl font-bold text-green-600">
                         ₹<?= number_format($item->offer_price, 2) ?>
                     </h3>
                 </div>
-                <!-- MRP -->
+                
                 <div>
                     <p class="text-xl text-gray-600">
                         <span class="line-through text-red-500">₹<?= number_format($item->mrp, 2) ?></span>
                     </p>
                 </div>
             </div>
-            <!-- Book Now Button -->
+        
             <a href="#" class="bg-indigo-600 text-white py-2 px-6 rounded-lg hover:bg-indigo-700 transition-colors">
                 Buy Now
             </a>
@@ -52,7 +52,6 @@ if ($item): ?>
                 <div class="p-0 h-100 m-icon" style="    border-right: 1px solid;">
                     <span class="mb-4 d-inline-block p-icon"><img src="https://www.ganeshdiagnostic.com/assets/img/report-p.webp" alt="Location" width="60" height="60" title="Location"></span>
                     <h2 class="h5 mb-2 m-text" style="color:#000;"> FASTEST ONLINE REPORT</h2>
-                    <!-- <p class=" display-80" style="color:#000;">We are located in your nearby areas.</p> -->
                 </div>
             </div>
             <div class="col-3 bg-white" style="    padding-top: 25px;    padding-bottom: 25px;">
@@ -65,14 +64,12 @@ if ($item): ?>
                 <div class="p-0 h-100 m-icon" style="    border-right: 1px solid;">
                     <span class="mb-4 d-inline-block p-icon"><img src="https://www.ganeshdiagnostic.com/assets/img/doctor-p.webp" alt="Health Package" width="60" height="60" title="Health Package"></span>
                     <h2 class="h5 mb-2 m-text" style="color:#000;">100% ACCURATE REPORT</h2>
-                    <!-- <p class=" display-80" style="color:#000;">Packages for every type of health issue.</p> -->
                 </div>
             </div>
             <div class="col-3 bg-white" style="    padding-top: 25px;    padding-bottom: 25px;">
                 <div class="p-0 h-100 m-icon">
                     <span class="mb-4 d-inline-block p-icon"><img src="https://www.ganeshdiagnostic.com/assets/img/support-p.webp" alt="Health Package" width="60" height="60" title="Health Package"></span>
                     <h2 class="h5 mb-2 m-text" style="color:#000;">SUPPORT CUSTOMER CARE</h2>
-                    <!-- <p class=" display-80" style="color:#000;">Book Appointment for every type of health issue.</p> -->
                 </div>
             </div>
         </div>
@@ -138,18 +135,18 @@ if ($item): ?>
         </div>
     </div>
 
-    <!-- MRP, Offer Price, and Buy Now Section (Horizontal Layout with Full Width) -->
+
     <div class="w-full bg-white rounded-md shadow-md p-6 mb-18">
         <div class="flex items-center justify-start w-full">
-            <!-- MRP and Offer Price Section (on the same line) -->
+        
             <div class="flex flex-row items-center">
-                <!-- Offer Price -->
+                
     <div class="ml-6">
                     <h3 class="text-4xl font-bold text-green-600 mb-2">
                         ₹<?= number_format($item->offer_price, 2) ?>
                     </h3>
                 </div>
-                <!-- MRP -->
+                
                 <div class="mr-6 ml-4">
                     <p class="text-xl text-gray-600 mb-2">
                         <span class="line-through text-red-500">₹<?= number_format($item->mrp, 2) ?></span>

@@ -4,6 +4,8 @@
 defined('_JEXEC') or die;
 
 // Account functionality
+
+
 class TestistControllerDelete extends TestlistController {
 
     public function deleteItem(){
@@ -31,12 +33,7 @@ class TestistControllerDelete extends TestlistController {
           echo json_encode(array('status' => $status, 'message' => 'Error Occoured!'));
       }
 
-      // if($status){
-      //   $app = JFactory::getApplication();
-      //   $app->redirect('index.php?option=com_itemlist');
-      // }else{
-      //     echo json_encode(array('status' => $status, 'message' => 'Error Occoured!'));
-      // }
+      
       
     }
 }

@@ -8,7 +8,7 @@ jimport('joomla.application.component.view');
 
 class ItemlistViewListing extends JViewLegacy
 {
-    // Overwriting JView display method
+    
     function display($tpl = null)
     {   
         $db = JFactory::getDbo();
@@ -19,7 +19,7 @@ class ItemlistViewListing extends JViewLegacy
         $db->setQuery($query);
         $this->allItems = $db->loadObjectList();
 
-        // Display the view
+        
         parent::display($tpl);
 
     }

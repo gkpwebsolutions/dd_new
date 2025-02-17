@@ -8,17 +8,13 @@ class ItemlistControllerSelectdelete extends ItemlistController {
 
     public function selectItems(){
 
-        // print_r($_REQUEST);die;
-        // echo "hello";
-        // die;
+        
 
         $db = JFactory::getDbo();
         
         $input = JFactory::getApplication()->input;
         $ids = $input->get('id',array(),'array()');
 
-        // echo $ids ;
-        // die;
         
 
         $query = $db->getQuery(true);
@@ -30,9 +26,7 @@ class ItemlistControllerSelectdelete extends ItemlistController {
                 ->where('id IN (' . $ids . ')');
             $db->setQuery($query);
 
-            // print_r($ids );
-            // die;
-
+            
 
             $status = $db->execute();
 

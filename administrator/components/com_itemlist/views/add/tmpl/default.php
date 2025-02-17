@@ -144,7 +144,7 @@
                 return false;
             }
 
-            // Submit the form via AJAX
+            
 			var Url = "<?php echo JURI::base(); ?>" + "index.php?option=com_itemlist&format=json&task=listing.saveItem";
 			var fd = new FormData(this);
 

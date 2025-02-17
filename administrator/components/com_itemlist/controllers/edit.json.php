@@ -8,7 +8,7 @@ class ItemlistControllerEdit extends ItemlistController {
 
     public function editItem() {
 
-        // Database connection and input handling
+        
         $db = JFactory::getDbo();
         $input = JFactory::getApplication()->input;
 
@@ -17,19 +17,19 @@ class ItemlistControllerEdit extends ItemlistController {
 
     
         if (!empty($_FILES['image']['name'])) {
-            $uploadDir = JPATH_ROOT . '/images/itemlist/'; // Set the path to your upload folder
-            $uploadFile = $uploadDir . basename($_FILES['image']['name']); // Define the file path with the name
+            $uploadDir = JPATH_ROOT . '/images/itemlist/'; 
+            $uploadFile = $uploadDir . basename($_FILES['image']['name']); 
 
             
             if (move_uploaded_file($_FILES['image']['tmp_name'], $uploadFile)) {
-                $image = basename($_FILES['image']['name']); // Save only the image name or path
+                $image = basename($_FILES['image']['name']); 
             } else {
                 echo json_encode(array('status' => false, 'message' => 'File upload failed.'));
                 return; 
             }
         }
 
-        // Prepare the update data (including image if uploaded)
+    
         $updateData = (object) array(
             'id' => $input->getString('id'),
             'name' => $input->getString('itemname'),
@@ -39,10 +39,10 @@ class ItemlistControllerEdit extends ItemlistController {
             'offer_price' => $input->getString('offer_price'),
         );
 
-        // Update the database record with the new data
+        
         $status = $db->updateObject('w1h54_healthpackages', $updateData, 'id');
         
-        // Return success or failure response as JSON
+    
         if ($status) {
             echo json_encode(array('status' => true, 'message' => 'Data updated successfully!'));
         } else {
